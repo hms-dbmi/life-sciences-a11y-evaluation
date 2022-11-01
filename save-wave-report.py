@@ -3,7 +3,7 @@ import pandas as pd
 import urllib.request
 import json
 # %%
-FILTER_TOP = 2 # select the top N portals
+FILTER_TOP = 40 # select the top N portals
 # %%
 with open('api.key', 'r') as f:
     apiKey = f.read()
@@ -31,7 +31,7 @@ for index, row in dbs.iterrows():
 
     reportExist = any(report['dbId'] == dbId for report in reports)
     if not reportExist:
-        print('Loading... ' + dbId, shortName, url)
+        print('Loading... ', dbId, shortName, url)
         apiUrl = f'https://wave.webaim.org/api/request?key={apiKey}&reporttype=2&url={url}'
         # apiUrl = 'https://raw.githubusercontent.com/gosling-lang/gosling.js/master/tsconfig.json'
         with urllib.request.urlopen(apiUrl) as f:
