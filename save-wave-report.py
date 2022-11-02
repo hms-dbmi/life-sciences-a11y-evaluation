@@ -13,6 +13,11 @@ dbs = pd.DataFrame.from_dict(dbs.data.to_dict(), orient='index')
 dbs = dbs[0:FILTER_TOP]
 dbs
 # %%
+manually_picked = pd.read_json('./manually-added-data-portals.json')
+manually_picked
+dbs = dbs.append(manually_picked)
+dbs
+# %%
 """
 Load existing reports
 """

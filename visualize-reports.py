@@ -86,7 +86,7 @@ plot = alt.Chart(details).mark_rect(
         scale=alt.Scale(type='log', domain=[1, 100], clamp=True),   
         legend=alt.Legend(gradientLength=300)
     ),
-    row=alt.Row('type:N', header=alt.Header(labelOrient='left', title=None))
+    row=alt.Row('type:N', header=alt.Header(labelOrient='left', title=None), sort=['error', 'contrast', 'alert'])
     # row=alt.Row('name:N', title=None, header=alt.Header(
     #     labelOrient='left', labelAngle=0, labelAnchor='middle', labelAlign='left'
     # ), spacing=0)
