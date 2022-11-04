@@ -3,9 +3,9 @@ import pandas as pd
 import urllib.request
 import json
 # %%
-FILTER_TOP = 40 # select the top N portals
+FILTER_TOP = 80 - 3 # select the top N portals
 # %%
-with open('api.key', 'r') as f:
+with open('api.lab.key', 'r') as f:
     apiKey = f.read()
 # %%
 dbs = pd.read_json('./database-commons.json') # already sorted by impact scores
