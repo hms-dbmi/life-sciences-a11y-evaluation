@@ -1,6 +1,6 @@
 # bio-accessibility-evaluation
 
-This repository contains source codes for evaluating the accessibility of biomedical data resources.
+This repository contains source codes for surveying the accessibility of biomedical data resources and visualizing the results.
 
 ### Data
 
