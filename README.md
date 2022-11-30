@@ -1,4 +1,4 @@
-# a11y-test
+# bio-accessibility-evaluation
 
 This repository contains source codes to evaluate the accessibility of biomedical data resources.
 
