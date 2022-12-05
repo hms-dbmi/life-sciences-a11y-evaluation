@@ -2,6 +2,8 @@
 
 This repository contains source codes for surveying the accessibility of biomedical data resources and visualizing the results.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sehilyi/bio-accessibility-evaluation/blob/main/notebooks/Index.ipynb).
+
 ### Data
 
 Webpages to data portals are selected from https://ngdc.cncb.ac.cn/databasecommons
