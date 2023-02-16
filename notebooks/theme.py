@@ -29,7 +29,7 @@ def apply_theme(
     view_stroke_width=1
 ):
     return base.configure(
-        font='Noto Sans',
+        font='Roboto',
     ).configure_header(
         titleFontSize=16,
         titleFontWeight=500,
