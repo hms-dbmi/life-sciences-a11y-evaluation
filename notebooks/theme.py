@@ -12,7 +12,7 @@ def apply_theme(
     axis_label_font_size=16,
     axis_title_padding=10,
     axis_tick_color='white',
-    axis_domain_width=2,
+    axis_domain_width=1,
     label_angle=0,
     legend_orient="right",
     legend_title_orient="top",
@@ -29,7 +29,7 @@ def apply_theme(
     view_stroke_width=1
 ):
     return base.configure(
-        font='Roboto',
+        font='Arial',
     ).configure_header(
         titleFontSize=16,
         titleFontWeight=500,
@@ -82,7 +82,7 @@ def apply_theme(
     ).configure_concat(
         spacing=0
     ).configure_view(
-        fill='transparent', # '#F5F5F5', # '#F6F6F6', # '#F5F5F5', '#FBFBFB'
+        fill='#F5F5F5',  #'transparent', # ', # '#F6F6F6', # '#F5F5F5', '#FBFBFB'
         strokeWidth=view_stroke_width,
         stroke='white'
         # strokeWidth=2
