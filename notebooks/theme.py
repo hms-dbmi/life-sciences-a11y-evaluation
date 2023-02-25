@@ -31,19 +31,20 @@ def apply_theme(
     return base.configure(
         font='Arial',
     ).configure_header(
-        titleFontSize=16,
+        titleFontSize=20,
         titleFontWeight=500,
         labelOrient=header_label_orient,
         labelFontSize=header_label_font_size,
-        labelFontWeight=500
+        labelFontWeight=500,
     ).configure_title(
         fontSize=title_font_size,
         subtitleFontSize=subtitle_font_size,
+        subtitleColor='grey',
         fontWeight=500,
         anchor=title_anchor,
         align="left",
         dy=title_dy,
-        subtitlePadding=5
+        subtitlePadding=10
     ).configure_axis(
         # domainWidth=2,
         labelFontSize=axis_label_font_size,
@@ -51,10 +52,12 @@ def apply_theme(
         titleFontSize=axis_title_font_size,
         titleFontWeight=500,
         labelLimit=1000,
+        labelPadding=10,
         titlePadding=axis_title_padding,
         tickColor=axis_tick_color,
         domainWidth=axis_domain_width,
         domainColor='black',
+        ticks=False
         # labelAngle=label_angle
     ).configure_scale(
         # bandPaddingOuter=0.5
