@@ -1,4 +1,4 @@
-# bio-accessibility-evaluation [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sehilyi/bio-accessibility-evaluation/blob/master/notebooks/index.ipynb)
+# bio-accessibility-evaluation [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hms-dbmi/bio-accessibility-evaluation/blob/master/notebooks/index.ipynb)
 
 This repository contains source codes for surveying the accessibility of biomedical data resources and visualizing the results.
 
