@@ -1,0 +1,10 @@
+name: e11y-test
+channels:
+  - conda-forge
+dependencies:
+  - python==3.10.*
+  - numpy
+  - pandas
+  - jupyterlab
+  - altair==5.1.*
+  - altair_saver==0.5.*
