@@ -6,6 +6,6 @@ dependencies:
   - numpy
   - pandas
   - jupyterlab
-  - nb_conda
+  - ipykernel
   - altair==5.1.*
   - altair_saver==0.5.*

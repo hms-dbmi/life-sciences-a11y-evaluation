@@ -28,6 +28,10 @@ To add or remove a conda package, update the environment file. Then run
 conda env update -f environment.yml
 ```
 
+If you cannot find the Python kernel you created, the following solution may work:
+
+https://stackoverflow.com/a/71040470/2499810
+
 ## Data
 
 Webpages to data portals are selected from Database Commons (https://ngdc.cncb.ac.cn/databasecommons), which is a site recommended by Cell Press and Bioinformatics Advances. 
