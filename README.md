@@ -38,4 +38,8 @@ https://ngdc.cncb.ac.cn/databasecommons/database/browse?term=&q=&draw=1&columns%
 
 ## Cite
 
-> Sehi L'Yi, Thomas C Smits, Alexander Lex, Nils Gehlenborg, Digital Accessibility of Life Sciences Data Portals and Journal Websites, OSF Preprints, [10.31219/osf.io/5v98j](https://osf.io/5v98j/)
+```
+Sehi L'Yi, Thomas C Smits, Alexander Lex, Nils Gehlenborg, 
+Digital Accessibility of Life Sciences Data Portals and Journal Websites, 
+OSF Preprints, [10.31219/osf.io/5v98j](https://osf.io/5v98j/)
+```
