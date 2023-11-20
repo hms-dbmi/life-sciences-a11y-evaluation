@@ -17,7 +17,7 @@ conda activate e11y-test
 jupyter lab notebooks
 ```
 
-### To Run Evaluation (API Key)
+### To run evaluation (API key)
 
 Accessibility is evaluated using [WAVE API](https://wave.webaim.org/api/). To run the evaluation, you need to put a `api.lab.key` file that contains the [API key](https://wave.webaim.org/api/details). If you are the member of [HIDIVE Lab](https://hidivelab.org/), contact either Sehi L'Yi (sehi_lyi@hms.harvard.edu) or Nils Gehlenborg to obtain the API key.
 
