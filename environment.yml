@@ -1,4 +1,4 @@
-name: e11y-test
+name: life-sciences-a11y-evaluation
 channels:
   - conda-forge
 dependencies:

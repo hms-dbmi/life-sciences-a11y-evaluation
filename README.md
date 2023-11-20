@@ -1,4 +1,4 @@
-# Life Sciences Accessibility Evaluation [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hms-dbmi/bio-accessibility-evaluation/blob/main/notebooks/01-Preprocess.ipynb)
+# Life Sciences Accessibility Evaluation [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hms-dbmi/life-sciences-a11y-evaluation/blob/main/notebooks/index.ipynb)
 
 This repository contains source code for surveying the accessibility of life sciences data resources and journals and visualizing results.
 
@@ -13,15 +13,12 @@ conda env create -f environment.yml
 Start Jupyter with the Python kernal:
 
 ```sh
-conda activate e11y-test
+conda activate life-sciences-a11y-evaluation
 jupyter lab notebooks
 ```
 
-### To run evaluation (API key)
-
 Accessibility is evaluated using [WAVE API](https://wave.webaim.org/api/). To run the evaluation, you need to put a `api.lab.key` file that contains the [API key](https://wave.webaim.org/api/details). If you are the member of [HIDIVE Lab](https://hidivelab.org/), contact either Sehi L'Yi (sehi_lyi@hms.harvard.edu) or Nils Gehlenborg to obtain the API key.
 
-### Updating a conda environment
 To add or remove a conda package, update the environment file. Then run
 
 ```sh
