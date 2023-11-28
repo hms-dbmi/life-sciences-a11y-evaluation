@@ -1,5 +1,9 @@
 # Input Data
 
+## Structure
+
+- TODO
+
 ## Data Portals
 ### database-commons.json
 - https://ngdc.cncb.ac.cn/databasecommons/
