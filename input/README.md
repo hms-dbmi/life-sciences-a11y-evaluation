@@ -12,9 +12,10 @@
 - https://www.nlm.nih.gov/NIHbmic/domain_specific_repositories.html
 
 ## Journals
-### sjr.json
-- https://www.scimagojr.com/journalrank.php?area=1300&type=j
+### scimagojr.csv
+- https://www.scimagojr.com/journalrank.php
+- Downloadable Link (CSV): https://www.scimagojr.com/journalrank.php?out=xls
 
-## Visualizations
+<!-- ## Visualizations
 ### awesome-genome-visualization
-- https://github.com/cmdcolin/awesome-genome-visualization/blob/master/TOOLS.json
+- https://github.com/cmdcolin/awesome-genome-visualization/blob/master/TOOLS.json -->
