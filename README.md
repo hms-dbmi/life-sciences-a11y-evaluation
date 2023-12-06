@@ -1,4 +1,4 @@
-# Life Sciences Accessibility Evaluation [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hms-dbmi/life-sciences-a11y-evaluation/blob/main/notebooks/index.ipynb)
+# Life Sciences Accessibility Evaluation [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hms-dbmi/life-sciences-a11y-evaluation/blob/main/notebooks/99-Google-Colab-Playground.ipynb)
 
 This repository contains source code for surveying the accessibility of life sciences data resources and journals and visualizing results.
 
