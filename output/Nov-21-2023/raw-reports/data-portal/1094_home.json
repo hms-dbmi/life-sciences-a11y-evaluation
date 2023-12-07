@@ -1,0 +1,1 @@
+{"status": {"success": false, "error": "Error: Evaluation failed: TypeError: document.head.appendChild is not a function\n    at addScriptContent (__puppeteer_evaluation_script__:7:27)"}}
