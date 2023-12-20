@@ -1,0 +1,1 @@
+{"status": {"success": false, "error": "Error: Evaluation failed: DOMException: Blocked a frame with origin \"http://www.ebi.ac.uk\" from accessing a cross-origin frame.\n    at addScriptContent (__puppeteer_evaluation_script__:7:27)"}}
