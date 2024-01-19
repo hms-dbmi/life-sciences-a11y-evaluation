@@ -83,7 +83,7 @@ def apply_theme(
         # direction='horizontal',
         gradientLength=gradient_length
     ).configure_concat(
-        spacing=0
+        spacing=30
     ).configure_view(
         fill='#F5F5F5',  #'transparent', # ', # '#F6F6F6', # '#F5F5F5', '#FBFBFB'
         strokeWidth=view_stroke_width,
