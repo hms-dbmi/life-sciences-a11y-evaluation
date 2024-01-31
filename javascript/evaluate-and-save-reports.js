@@ -11,22 +11,22 @@ const TIME_STAMP_FOLDER_NAME = 'JAN-10-2024';
   const bars = {};
 
   const FILES = [
-    'data-portal_pages.csv', 
-    'journal-portal_pages.csv',
-    'gov_pages.csv'
+    // 'data-portal_pages.csv', 
+    // 'journal-portal_pages.csv',
+    // 'gov_pages.csv',
+    'nei-data-portal_pages.csv',
   ];
   
   for(let i = 0; i < FILES.length; i++) {
-    const file = FILES[i];
+    const file = `${TIME_STAMP_FOLDER_NAME}/${FILES[i]}`;
     fs.readFile(file, (error, data) => {
       csv.parse(data, { columns: true }, async (error, rows) => {
         bars[i] = multiBar.create(rows.length, 0);
-
         for (let j = 0; j < rows.length; j++) {
           bars[i].update(j);
           const row = rows[j];
-          const { id, page_type, page_id, url } = row;
-          const SAVE_PATH = `${TIME_STAMP_FOLDER_NAME}/${file.split('_')[0]}/${page_id}.json`;
+          const { page_id, url } = row;
+          const SAVE_PATH = `${file.split('_')[0]}/${page_id}.json`;
           if(fs.existsSync(SAVE_PATH)) continue;
           try {
             const browser = await playwright.chromium.launch({ headless: true });

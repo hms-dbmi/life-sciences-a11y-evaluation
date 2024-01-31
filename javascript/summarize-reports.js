@@ -4,7 +4,7 @@ const TIME_STAMP_FOLDER_NAME = 'JAN-10-2024';
 
 (async () => {
     const issues = {}; // list of issues
-    ['data-portal', 'journal-portal', 'gov'].forEach(async category => {
+    ['data-portal', 'journal-portal', 'gov', 'nei-data-portal'].forEach(async category => {
         const a11yResults = {};
         const files = await fs.readdirSync(`${TIME_STAMP_FOLDER_NAME}/${category}`);
         await files.forEach(async file => {
