@@ -9,3 +9,9 @@ dependencies:
   - ipykernel
   - altair==5.1.*
   - altair_saver==0.5.*
+  - vegafusion-python-embed>=1.4.0
+  - vegafusion>=1.4.0
+  - vl-convert-python>=0.14.0
+  - pip:
+    - axe-playwright-python==0.1.4
+    - playwright

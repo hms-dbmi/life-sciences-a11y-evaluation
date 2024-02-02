@@ -1,0 +1,860 @@
+page_id,violations,passes,total_checks,failure_rate,index,name,type,inst,desc,city,state,blank,url
+0,9,213,222,0.04054054054054054,0,AMTRAKOIG.GOV,Federal - Executive,AMTRAK,Office of Inspector General,Washington,DC,(blank),AMTRAKOIG.GOV
+1,14,470,484,0.028925619834710745,1,ACUS.GOV,Federal - Executive,Administrative Conference of the United States,Administrative Conference of the United States,Washington,DC,info@acus.gov,ACUS.GOV
+2,2,8,10,0.2,2,ACHP.GOV,Federal - Executive,Advisory Council on Historic Preservation,Advisory Council on Historic Preservation,Washington,DC,domainsecurity@achp.gov,ACHP.GOV
+3,2,8,10,0.2,3,PRESERVEAMERICA.GOV,Federal - Executive,Advisory Council on Historic Preservation,Advisory Council on Historic Preservation,Washington,DC,domainsecurity@achp.gov,PRESERVEAMERICA.GOV
+4,7,331,338,0.020710059171597635,4,ABMC.GOV,Federal - Executive,American Battle Monuments Commission,American Battle Monuments Commission,Arlington,VA,itsec@abmc.gov,ABMC.GOV
+5,1,292,293,0.0034129692832764505,5,ARC.GOV,Federal - Executive,Appalachian Regional Commission,Appalachian Regional Commission,Washington,DC,(blank),ARC.GOV
+6,3,667,670,0.004477611940298508,6,ASC.GOV,Federal - Executive,Appraisal Subcommittee,Appraisal Subcommittee,Washington,DC,(blank),ASC.GOV
+8,54,706,760,0.07105263157894737,8,GOLDWATERSCHOLARSHIP.GOV,Federal - Executive,Barry Goldwater Scholarship and Excellence in Education Foundation,Barry Goldwater Scholarship and Excellence in Education Foundation,Alexandria,VA,goldwaterao@goldwaterscholarship.gov,GOLDWATERSCHOLARSHIP.GOV
+9,8,488,496,0.016129032258064516,9,CIA.GOV,Federal - Executive,Central Intelligence Agency,Central Intelligence Agency,Washington,DC,(blank),CIA.GOV
+16,17,859,876,0.019406392694063926,16,CSB.GOV,Federal - Executive,Chemical Safety Board,U.S. Chemical Safety and Hazard Investigation Board,Washington,DC,andrew.staddon@csb.gov,CSB.GOV
+17,47,704,751,0.06258322237017311,17,SAFETYVIDEOS.GOV,Federal - Executive,Chemical Safety Board,U.S. Chemical Safety and Hazard Investigation Board,Washington,DC,andrew.staddon@csb.gov,SAFETYVIDEOS.GOV
+19,1,384,385,0.0025974025974025974,19,CFTC.GOV,Federal - Executive,Commodity Futures Trading Commission,Commodity Futures Trading Commission,Washington,DC,Security_VDP@cftc.gov,CFTC.GOV
+21,5,327,332,0.015060240963855422,21,SMARTCHECK.GOV,Federal - Executive,Commodity Futures Trading Commission,Commodity Futures Trading Commission,Washington,DC,Security_VDP@cftc.gov,SMARTCHECK.GOV
+22,28,226,254,0.11023622047244094,22,WHISTLEBLOWER.GOV,Federal - Executive,Commodity Futures Trading Commission,Commodity Futures Trading Commission,Washington,DC,Security_VDP@cftc.gov,WHISTLEBLOWER.GOV
+23,0,419,419,0.0,23,BCFP.GOV,Federal - Executive,Consumer Financial Protection Bureau,Consumer Financial Protection Bureau,Washington,DC,security@cfpb.gov,BCFP.GOV
+24,0,419,419,0.0,24,CFPA.GOV,Federal - Executive,Consumer Financial Protection Bureau,Consumer Financial Protection Bureau,Washington,DC,security@cfpb.gov,CFPA.GOV
+25,0,419,419,0.0,25,CFPB.GOV,Federal - Executive,Consumer Financial Protection Bureau,Consumer Financial Protection Bureau,Washington,DC,security@cfpb.gov,CFPB.GOV
+26,0,419,419,0.0,26,CONSUMERBUREAU.GOV,Federal - Executive,Consumer Financial Protection Bureau,Consumer Financial Protection Bureau,Washington,DC,security@cfpb.gov,CONSUMERBUREAU.GOV
+27,0,419,419,0.0,27,CONSUMERFINANCE.GOV,Federal - Executive,Consumer Financial Protection Bureau,Consumer Financial Protection Bureau,Washington,DC,security@cfpb.gov,CONSUMERFINANCE.GOV
+28,0,419,419,0.0,28,CONSUMERFINANCIAL.GOV,Federal - Executive,Consumer Financial Protection Bureau,Consumer Financial Protection Bureau,Washington,DC,security@cfpb.gov,CONSUMERFINANCIAL.GOV
+29,0,419,419,0.0,29,CONSUMERFINANCIALBUREAU.GOV,Federal - Executive,Consumer Financial Protection Bureau,Consumer Financial Protection Bureau,Washington,DC,security@cfpb.gov,CONSUMERFINANCIALBUREAU.GOV
+30,0,419,419,0.0,30,CONSUMERFINANCIALPROTECTIONBUREAU.GOV,Federal - Executive,Consumer Financial Protection Bureau,Consumer Financial Protection Bureau,Washington,DC,security@cfpb.gov,CONSUMERFINANCIALPROTECTIONBUREAU.GOV
+31,0,419,419,0.0,31,CONSUMERPROTECTION.GOV,Federal - Executive,Consumer Financial Protection Bureau,Consumer Financial Protection Bureau,Washington,DC,security@cfpb.gov,CONSUMERPROTECTION.GOV
+32,0,419,419,0.0,32,CONSUMERPROTECTIONBUREAU.GOV,Federal - Executive,Consumer Financial Protection Bureau,Consumer Financial Protection Bureau,Washington,DC,security@cfpb.gov,CONSUMERPROTECTIONBUREAU.GOV
+33,16,286,302,0.052980132450331126,33,MIMM.GOV,Federal - Executive,Consumer Financial Protection Bureau,Consumer Financial Protection Bureau,Washington,DC,security@cfpb.gov,MIMM.GOV
+34,8,290,298,0.026845637583892617,34,ANCHORIT.GOV,Federal - Executive,Consumer Product Safety Commission,Consumer Product Safety Commission,Bethesda,MD,csirt@cpsc.gov,ANCHORIT.GOV
+35,20,490,510,0.0392156862745098,35,ATVSAFETY.GOV,Federal - Executive,Consumer Product Safety Commission,Consumer Product Safety Commission,Bethesda,MD,csirt@cpsc.gov,ATVSAFETY.GOV
+36,6,366,372,0.016129032258064516,36,CPSC.GOV,Federal - Executive,Consumer Product Safety Commission,Consumer Product Safety Commission,Bethesda,MD,csirt@cpsc.gov,CPSC.GOV
+37,20,395,415,0.04819277108433735,37,DRYWALLRESPONSE.GOV,Federal - Executive,Consumer Product Safety Commission,Consumer Product Safety Commission,Bethesda,MD,csirt@cpsc.gov,DRYWALLRESPONSE.GOV
+38,4,370,374,0.0106951871657754,38,POOLSAFELY.GOV,Federal - Executive,Consumer Product Safety Commission,Consumer Product Safety Commission,Bethesda,MD,csirt@cpsc.gov,POOLSAFELY.GOV
+39,4,370,374,0.0106951871657754,39,POOLSAFETY.GOV,Federal - Executive,Consumer Product Safety Commission,Consumer Product Safety Commission,Bethesda,MD,csirt@cpsc.gov,POOLSAFETY.GOV
+40,3,115,118,0.025423728813559324,40,RECALLS.GOV,Federal - Executive,Consumer Product Safety Commission,Consumer Product Safety Commission,Bethesda,MD,csirt@cpsc.gov,RECALLS.GOV
+41,0,161,161,0.0,41,SAFERPRODUCT.GOV,Federal - Executive,Consumer Product Safety Commission,Consumer Product Safety Commission,Bethesda,MD,csirt@cpsc.gov,SAFERPRODUCT.GOV
+42,0,161,161,0.0,42,SAFERPRODUCTS.GOV,Federal - Executive,Consumer Product Safety Commission,Consumer Product Safety Commission,Bethesda,MD,csirt@cpsc.gov,SAFERPRODUCTS.GOV
+43,8,518,526,0.015209125475285171,43,SEGURIDADCONSUMIDOR.GOV,Federal - Executive,Consumer Product Safety Commission,Consumer Product Safety Commission,Bethesda,MD,csirt@cpsc.gov,SEGURIDADCONSUMIDOR.GOV
+46,2,618,620,0.0032258064516129032,46,AMERICORPS.GOV,Federal - Executive,Corporation for National & Community Service,AmeriCorps,Washington,DC,Unsafe@cns.gov,AMERICORPS.GOV
+47,3,9,12,0.25,47,AMERICORPSOIG.GOV,Federal - Executive,Corporation for National & Community Service,AmeriCorps Office of Inspector General,Washington,DC,IT@cncsoig.gov,AMERICORPSOIG.GOV
+50,3,15,18,0.16666666666666666,50,CNCSOIG.GOV,Federal - Executive,Corporation for National & Community Service,"Corporation for National and Community Service, Office Of Inspector General,",Washington,DC,IT@cncsoig.gov,CNCSOIG.GOV
+52,3,910,913,0.0032858707557502738,52,JOINAMERICORPS.GOV,Federal - Executive,Corporation for National & Community Service,AmeriCorps,Washington,DC,Unsafe@cns.gov,JOINAMERICORPS.GOV
+53,2,577,579,0.0034542314335060447,53,MENTOR.GOV,Federal - Executive,Corporation for National & Community Service,AmeriCorps,Washington,DC,Unsafe@cns.gov,MENTOR.GOV
+54,2,700,702,0.002849002849002849,54,MLKDAY.GOV,Federal - Executive,Corporation for National & Community Service,AmeriCorps,Washington,DC,Unsafe@cns.gov,MLKDAY.GOV
+55,2,618,620,0.0032258064516129032,55,NATIONALSERVICE.GOV,Federal - Executive,Corporation for National & Community Service,AmeriCorps,Washington,DC,Unsafe@cns.gov,NATIONALSERVICE.GOV
+56,3,137,140,0.02142857142857143,56,PRESIDENTIALSERVICEAWARDS.GOV,Federal - Executive,Corporation for National & Community Service,AmeriCorps,Washington,DC,Unsafe@cns.gov,PRESIDENTIALSERVICEAWARDS.GOV
+57,3,686,689,0.0043541364296081275,57,SERVE.GOV,Federal - Executive,Corporation for National & Community Service,AmeriCorps,Washington,DC,Unsafe@cns.gov,SERVE.GOV
+59,2,618,620,0.0032258064516129032,59,VOLUNTEERINGINAMERICA.GOV,Federal - Executive,Corporation for National & Community Service,AmeriCorps,Washington,DC,Unsafe@cns.gov,VOLUNTEERINGINAMERICA.GOV
+61,3,9,12,0.25,61,IGNET.GOV,Federal - Executive,Council of Inspectors General on Integrity and Efficiency,Council of the Inspectors General on Integrity and Efficiency,Washington,DC,security@cigie.gov,IGNET.GOV
+62,3,9,12,0.25,62,OVERSIGHT.GOV,Federal - Executive,Council of Inspectors General on Integrity and Efficiency,Council of the Inspectors General on Integrity and Efficiency,Washington,DC,security@cigie.gov,OVERSIGHT.GOV
+63,2,674,676,0.0029585798816568047,63,PANDEMICOVERSIGHT.GOV,Federal - Executive,Council of Inspectors General on Integrity and Efficiency,Council of the Inspectors General on Integrity and Efficiency,Washington,DC,security@cigie.gov,PANDEMICOVERSIGHT.GOV
+68,25,1333,1358,0.018409425625920472,68,DRA.GOV,Federal - Executive,Delta Regional Authority,Delta Regional Authority,Clarksdale,MS,(blank),DRA.GOV
+69,1,201,202,0.0049504950495049506,69,DENALI.GOV,Federal - Executive,Denali Commission,Denali Commission,Anchorage,AK,jherrick@denali.gov,DENALI.GOV
+70,4,2,6,0.6666666666666666,70,2020CENSUS.GOV,Federal - Executive,Department of Commerce,Census Bureau,Suitland,MD,boc.cirt@census.gov,2020CENSUS.GOV
+71,3,9,12,0.25,71,AP.GOV,Federal - Executive,Department of Commerce,TCD / BIS / Dept of Commerce,Washington,DC,BIS.CIRT@bis.doc.gov,AP.GOV
+72,5,612,617,0.008103727714748784,72,AVIATIONWEATHER.GOV,Federal - Executive,Department of Commerce,National Weather Service,Silver Spring,MD,security@noaa.gov,AVIATIONWEATHER.GOV
+73,1,449,450,0.0022222222222222222,73,BEA.GOV,Federal - Executive,Department of Commerce,Bureau of Economic Analysis,Suitland,MD,bea-cirt@bea.gov,BEA.GOV
+74,14,497,511,0.0273972602739726,74,BIS.GOV,Federal - Executive,Department of Commerce,Bureau of Industry and Security,Washington,DC,BIS.CIRT@bis.doc.gov,BIS.GOV
+76,7,465,472,0.014830508474576272,76,BUYUSA.GOV,Federal - Executive,Department of Commerce,International Trade Administration,Washington,DC,OpSec@trade.gov,BUYUSA.GOV
+77,25,655,680,0.03676470588235294,77,CENSUS.GOV,Federal - Executive,Department of Commerce,Census Bureau,Suitland,MD,boc.cirt@census.gov,CENSUS.GOV
+78,2,422,424,0.0047169811320754715,78,CHIPS.GOV,Federal - Executive,Department of Commerce,National Institute of Standards and Technology,Gaithersburg,MD,siirt@nist.gov,CHIPS.GOV
+79,2,13,15,0.13333333333333333,79,CLIMATE.GOV,Federal - Executive,Department of Commerce,NWS/OPS33,Silver Spring,MD,security@noaa.gov,CLIMATE.GOV
+80,3,480,483,0.006211180124223602,80,COMMERCE.GOV,Federal - Executive,Department of Commerce,Department of Commerce,Washington,DC,esoc@doc.gov,COMMERCE.GOV
+81,3,7,10,0.3,81,CWC.GOV,Federal - Executive,Department of Commerce,Bureau of Industry and Security,Washington,DC,BIS.CIRT@bis.doc.gov,CWC.GOV
+83,3,32,35,0.08571428571428572,83,DNSOPS.GOV,Federal - Executive,Department of Commerce,National Institute of Standards and Technology,Gaithersburg,MD,antd-siirt@nist.gov,DNSOPS.GOV
+84,3,480,483,0.006211180124223602,84,DOC.GOV,Federal - Executive,Department of Commerce,Office of the Chief Information Officer,Washington,DC,esoc@doc.gov,DOC.GOV
+85,27,711,738,0.036585365853658534,85,DROUGHT.GOV,Federal - Executive,Department of Commerce,NOAA/NCDC,Asheville,NC,security@noaa.gov,DROUGHT.GOV
+86,2,596,598,0.0033444816053511705,86,EDA.GOV,Federal - Executive,Department of Commerce,Economic Development Administration,Washington,DC,esoc@doc.gov,EDA.GOV
+87,3,439,442,0.006787330316742082,87,EDISON.GOV,Federal - Executive,Department of Commerce,National Institute of Standards and Technology,Gaithersburg,MD,siirt@nist.gov,EDISON.GOV
+88,3,927,930,0.0032258064516129032,88,EXPORT.GOV,Federal - Executive,Department of Commerce,International Trade Administration,Washington,DC,OpSec@trade.gov,EXPORT.GOV
+89,23,536,559,0.04114490161001789,89,FIRSTNET.GOV,Federal - Executive,Department of Commerce,National Telecommunications and Information Administration,Washington,DC,FirstnetEmailSec@firstnet.gov,FIRSTNET.GOV
+90,10,845,855,0.011695906432748537,90,FISHWATCH.GOV,Federal - Executive,Department of Commerce,NOAA Fisheries,Silver Spring,MD,security@noaa.gov,FISHWATCH.GOV
+91,5,370,375,0.013333333333333334,91,GOES-R.GOV,Federal - Executive,Department of Commerce,NASA GSFC,Greenbelt,MD,security@noaa.gov,GOES-R.GOV
+92,1,231,232,0.004310344827586207,92,GPS.GOV,Federal - Executive,Department of Commerce,National Executive Committee for Space-Based PNT,Washington,DC,security@noaa.gov,GPS.GOV
+93,4,609,613,0.0065252854812398045,93,HEAT.GOV,Federal - Executive,Department of Commerce,NOAA Climate Program Office,Silver Spring,MD,security@noaa.gov,HEAT.GOV
+94,3,379,382,0.007853403141361256,94,HURRICANES.GOV,Federal - Executive,Department of Commerce,NOAA/National Hurricane Center,Miami,FL,security@noaa.gov,HURRICANES.GOV
+95,2,64,66,0.030303030303030304,95,ICAMS-PORTAL.GOV,Federal - Executive,Department of Commerce,National Oceanic and Atmospheric Administration Office of the Federal Coordinator for Meteorology,Silver Spring,MD,security@noaa.gov,ICAMS-PORTAL.GOV
+97,3,439,442,0.006787330316742082,97,IEDISON.GOV,Federal - Executive,Department of Commerce,National Institute of Standards and Technology,Gaithersburg,MD,siirt@nist.gov,IEDISON.GOV
+98,15,292,307,0.048859934853420196,98,INTERNET4ALL.GOV,Federal - Executive,Department of Commerce,National Telecommunications and Information Administration,Washington,DC,NTIA-SecOps@ntia.gov,INTERNET4ALL.GOV
+99,15,292,307,0.048859934853420196,99,INTERNETFORALL.GOV,Federal - Executive,Department of Commerce,National Telecommunications and Information Administration,Washington,DC,NTIA-SecOps@ntia.gov,INTERNETFORALL.GOV
+101,2,207,209,0.009569377990430622,101,MANUFACTURING.GOV,Federal - Executive,Department of Commerce,National Institute of Standards and Technology,Washington,DC,siirt@nist.gov,MANUFACTURING.GOV
+102,5,122,127,0.03937007874015748,102,MARINECADASTRE.GOV,Federal - Executive,Department of Commerce,NOAA Coastal Services Center,Charleston,SC,security@noaa.gov,MARINECADASTRE.GOV
+103,9,565,574,0.0156794425087108,103,MBDA.GOV,Federal - Executive,Department of Commerce,Minority Business Development Agency,Washington,DC,esoc@doc.gov,MBDA.GOV
+105,2,8,10,0.2,105,MY2020CENSUS.GOV,Federal - Executive,Department of Commerce,Census Bureau,Washington,DC,boc.cirt@census.gov,MY2020CENSUS.GOV
+106,9,291,300,0.03,106,NEHRP.GOV,Federal - Executive,Department of Commerce,National Institute of Standards and Technology,Gaithersburg,MD,siirt@nist.gov,NEHRP.GOV
+107,3,546,549,0.00546448087431694,107,NIST.GOV,Federal - Executive,Department of Commerce,National Institute of Standards and Technology,Gaithersburg,MD,siirt@nist.gov,NIST.GOV
+108,2,13,15,0.13333333333333333,108,NOAA.GOV,Federal - Executive,Department of Commerce,National Oceanic and Atmospheric Administration,Silver Spring,MD,security@noaa.gov,NOAA.GOV
+109,2,8,10,0.2,109,NTIA.GOV,Federal - Executive,Department of Commerce,National Telecommunications and Information Administration,Washington,DC,NTIA-SecOPs@ntia.gov,NTIA.GOV
+113,49,489,538,0.09107806691449814,113,PAPAHANAUMOKUAKEA.GOV,Federal - Executive,Department of Commerce,National Oceanic and Atmospheric Administration,Silver Spring,MD,james.cooperman@noaa.gov,PAPAHANAUMOKUAKEA.GOV
+114,8,294,302,0.026490066225165563,114,PRIVACYSHIELD.GOV,Federal - Executive,Department of Commerce,International Trade Administration,Washington,DC,OpSec@trade.gov,PRIVACYSHIELD.GOV
+115,2,515,517,0.0038684719535783366,115,PSCR.GOV,Federal - Executive,Department of Commerce,National Institute of Standards and Technology,Gaithersburg,MD,siirt@nist.gov,PSCR.GOV
+116,11,96,107,0.102803738317757,116,SDR.GOV,Federal - Executive,Department of Commerce,National Science and Technology Council,Washington,DC,security@noaa.gov,SDR.GOV
+117,8,470,478,0.016736401673640166,117,SELECTUSA.GOV,Federal - Executive,Department of Commerce,International Trade Administration,Washington,DC,OpSec@trade.gov,SELECTUSA.GOV
+118,2,422,424,0.0047169811320754715,118,SEMICONDUCTORS.GOV,Federal - Executive,Department of Commerce,National Institute of Standards and Technology,Gaithersburg,MD,siirt@nist.gov,SEMICONDUCTORS.GOV
+119,8,717,725,0.011034482758620689,119,SPACEWEATHER.GOV,Federal - Executive,Department of Commerce,Space Environment Center W/NP9,Boulder,CO,security@noaa.gov,SPACEWEATHER.GOV
+120,7,137,144,0.04861111111111111,120,SPD15REVISION.GOV,Federal - Executive,Department of Commerce,Census Bureau,Suitland,MD,victor.troyan@census.gov,SPD15REVISION.GOV
+121,0,292,292,0.0,121,SPECTRUM.GOV,Federal - Executive,Department of Commerce,National Telecommunications and Information Administration,Washington,DC,NTIA-SecOPs@ntia.gov,SPECTRUM.GOV
+122,7,436,443,0.01580135440180587,122,STANDARDS.GOV,Federal - Executive,Department of Commerce,National Institute of Standards and Technology,Gaithersburg,MD,siirt@nist.gov,STANDARDS.GOV
+123,34,225,259,0.13127413127413126,123,STOPFAKES.GOV,Federal - Executive,Department of Commerce,International Trade Administration,Washington,DC,OpSec@trade.gov,STOPFAKES.GOV
+124,1,66,67,0.014925373134328358,124,SWORM.GOV,Federal - Executive,Department of Commerce,NOAA/Space Weather Prediction Center,Boulder,CO,security@noaa.gov,SWORM.GOV
+125,5,61,66,0.07575757575757576,125,TASEFILING.GOV,Federal - Executive,Department of Commerce,International Trade Administration,Washington,DC,OpSec@trade.gov,TASEFILING.GOV
+126,2,558,560,0.0035714285714285713,126,TECHHUBS.GOV,Federal - Executive,Department of Commerce,Department of Commerce,Washington,DC,esoc@doc.gov,TECHHUBS.GOV
+128,1,471,472,0.00211864406779661,128,TRADE.GOV,Federal - Executive,Department of Commerce,International Trade Administration,Washington,DC,OpSec@trade.gov,TRADE.GOV
+129,48,1183,1231,0.03899268887083672,129,TSUNAMI.GOV,Federal - Executive,Department of Commerce,West Coast & Alaska Tsunami Warning Center,Palmer,AK,security@noaa.gov,TSUNAMI.GOV
+130,30,332,362,0.08287292817679558,130,USICECENTER.GOV,Federal - Executive,Department of Commerce,U. S. National Ice Center,Suitland,MD,security@noaa.gov,USICECENTER.GOV
+131,9,644,653,0.013782542113323124,131,USPTO.GOV,Federal - Executive,Department of Commerce,USPTO,Washington,DC,C32@uspto.gov,USPTO.GOV
+132,13,679,692,0.01878612716763006,132,WEATHER.GOV,Federal - Executive,Department of Commerce,National Oceanic and Atmospheric Administration,Silver Spring,MD,security@noaa.gov,WEATHER.GOV
+133,0,174,174,0.0,133,WWTG.GOV,Federal - Executive,Department of Commerce,International Trade Administration,Washington,DC,OpSec@trade.gov,WWTG.GOV
+134,3,184,187,0.016042780748663103,134,XD.GOV,Federal - Executive,Department of Commerce,Census Bureau,Suitland,MD,boc.cirt@census.gov,XD.GOV
+135,1,859,860,0.0011627906976744186,135,ADLNET.GOV,Federal - Executive,Department of Defense,Advanced Distributed Learning Initiative,Washington,DC,cybersecurity@adlnet.gov,ADLNET.GOV
+139,8,251,259,0.03088803088803089,139,CAP.GOV,Federal - Executive,Department of Defense,"Civil Air Patrol, USAF AUX.",Maxwell AFB,AL,capadmin@capnhq.gov,CAP.GOV
+140,3,38,41,0.07317073170731707,140,CAPNHQ.GOV,Federal - Executive,Department of Defense,Civil Air Patrol,Maxwell AFB,AL,capadmin@capnhq.gov,CAPNHQ.GOV
+141,8,522,530,0.01509433962264151,141,CMTS.GOV,Federal - Executive,Department of Defense,US Army Corps of Engineers,Mobile,AL,(blank),CMTS.GOV
+144,15,360,375,0.04,144,CTTSO.GOV,Federal - Executive,Department of Defense,Combating Terrorism Technical Support Office,Arlington,VA,(blank),CTTSO.GOV
+146,6,579,585,0.010256410256410256,146,DEFENSE.GOV,Federal - Executive,Department of Defense,Defense Media Activity,Fort Meade,MD,pubwebhd@defense.gov,DEFENSE.GOV
+148,11,481,492,0.022357723577235773,148,FVAP.GOV,Federal - Executive,Department of Defense,Federal Voting Assistance Program,Alexandria,VA,tech@fvap.gov,FVAP.GOV
+154,15,360,375,0.04,154,IWTSD.GOV,Federal - Executive,Department of Defense,Irregular Warfare Technical Support Directorate,Alexandria,VA,(blank),IWTSD.GOV
+159,15,626,641,0.0234009360374415,159,NATIONALRESOURCEDIRECTORY.GOV,Federal - Executive,Department of Defense,Office of Warrior Care Policy,Arlington,VA,(blank),NATIONALRESOURCEDIRECTORY.GOV
+160,2,406,408,0.004901960784313725,160,NBIB.GOV,Federal - Executive,Department of Defense,Defense Counterintelligence and Security Agency,Washington,DC,kevin.crews@opm.gov,NBIB.GOV
+161,15,626,641,0.0234009360374415,161,NRD.GOV,Federal - Executive,Department of Defense,Office of Warrior Care Policy,Arlington,VA,(blank),NRD.GOV
+163,12,521,533,0.0225140712945591,163,NSA.GOV,Federal - Executive,Department of Defense,National Security Agency,Fort Meade,MD,ea_dns@nsa.gov,NSA.GOV
+164,4,137,141,0.028368794326241134,164,NSEP.GOV,Federal - Executive,Department of Defense,National Security Education Program (NSEP) at DLNSEO,Alexandria,VA,nsep@nsep.gov,NSEP.GOV
+168,20,344,364,0.054945054945054944,168,TAK.GOV,Federal - Executive,Department of Defense,TAK Product Center,Fort Belvoir,VA,security@tak.gov,TAK.GOV
+169,15,370,385,0.03896103896103896,169,TSWG.GOV,Federal - Executive,Department of Defense,Technical Support Working Group,Arlington,VA,cttsosecurity@cttso.gov,TSWG.GOV
+171,3,41,44,0.06818181818181818,171,BUDGETLOB.GOV,Federal - Executive,Department of Education,Office of Chief Information Officer,Washington,DC,EDSOC@ed.gov,BUDGETLOB.GOV
+172,2,166,168,0.011904761904761904,172,CHILDSTATS.GOV,Federal - Executive,Department of Education,Office of Chief Information Officer,Washington,DC,EDSOC@ed.gov,CHILDSTATS.GOV
+173,11,657,668,0.016467065868263474,173,COLLEGENAVIGATOR.GOV,Federal - Executive,Department of Education,Office of Chief Information Officer,Washington,DC,EDSOC@ed.gov,COLLEGENAVIGATOR.GOV
+174,9,353,362,0.024861878453038673,174,ED.GOV,Federal - Executive,Department of Education,Office of Chief Information Officer,Washington,DC,EDSOC@ed.gov,ED.GOV
+176,11,300,311,0.03536977491961415,176,G5.GOV,Federal - Executive,Department of Education,Office of Chief Information Officer,Washington,DC,EDSOC@ed.gov,G5.GOV
+177,0,344,344,0.0,177,NAGB.GOV,Federal - Executive,Department of Education,Office of Chief Information Officer,Washington,DC,EDSOC@ed.gov,NAGB.GOV
+183,8,269,277,0.02888086642599278,183,ARM.GOV,Federal - Executive,Department of Energy,Battelle Pacific Northwest National Laboratory,Richland,WA,security@arm.gov,ARM.GOV
+184,14,225,239,0.058577405857740586,184,BIOMASSBOARD.GOV,Federal - Executive,Department of Energy,Office of Energy Efficiency and Renewable Energy,Washington,DC,CIRC@JC3.DOE.GOV,BIOMASSBOARD.GOV
+185,13,401,414,0.03140096618357488,185,BNL.GOV,Federal - Executive,Department of Energy,Brookhaven National Laboratory,Upton,NY,security@bnl.gov,BNL.GOV
+186,0,509,509,0.0,186,BPA.GOV,Federal - Executive,Department of Energy,Bonneville Power Administration,Portland,OR,security@bpa.gov,BPA.GOV
+188,5,121,126,0.03968253968253968,188,CASL.GOV,Federal - Executive,Department of Energy,Oak Ridge National Laboratory,Oak Ridge,TN,security@ornl.gov,CASL.GOV
+190,1,82,83,0.012048192771084338,190,CENDI.GOV,Federal - Executive,Department of Energy,OSTI,Oak Ridge,TN,CIRC@JC3.DOE.GOV,CENDI.GOV
+192,54,432,486,0.1111111111111111,192,DOE.GOV,Federal - Executive,Department of Energy,"US Department of Energy, Office of the CIO",Washington,DC,CIRC@JC3.DOE.GOV,DOE.GOV
+193,3,348,351,0.008547008547008548,193,DRIVEELECTRIC.GOV,Federal - Executive,Department of Energy,National Renewable Energy Laboratory,Golden,CO,circ@jc3.doe.gov,DRIVEELECTRIC.GOV
+195,54,432,486,0.1111111111111111,195,ENERGY.GOV,Federal - Executive,Department of Energy,"US Department of Energy, Office of the CIO",Washington,DC,CIRC@JC3.DOE.GOV,ENERGY.GOV
+196,12,348,360,0.03333333333333333,196,ENERGYCODES.GOV,Federal - Executive,Department of Energy,Department of Energy Bulding Energy Codes Program,Richland,WA,CIRC@JC3.DOE.GOV,ENERGYCODES.GOV
+197,20,674,694,0.02881844380403458,197,ENERGYCOMMUNITIES.GOV,Federal - Executive,Department of Energy,"US Department of Energy, Office of the CIO",Washington,DC,CIRC@JC3.DOE.GOV,ENERGYCOMMUNITIES.GOV
+199,53,557,610,0.08688524590163935,199,ENERGYSAVERS.GOV,Federal - Executive,Department of Energy,Office of Energy Efficiency and Renewable Energy,Washington,DC,CIRC@JC3.DOE.GOV,ENERGYSAVERS.GOV
+201,5,276,281,0.017793594306049824,201,FUELECONOMY.GOV,Federal - Executive,Department of Energy,Oak Ridge National Laboratory,Oak Ridge,TN,security@ornl.gov,FUELECONOMY.GOV
+202,3,129,132,0.022727272727272728,202,HANFORD.GOV,Federal - Executive,Department of Energy,Hanford Mission Integration Solutions,Richland,WA,jason_r_dandridge@rl.gov,HANFORD.GOV
+203,25,399,424,0.0589622641509434,203,HOMEENERGYSCORE.GOV,Federal - Executive,Department of Energy,Office of Energy Efficiency and Renewable Energy,Washington,DC,DL-EEREActioNetWebTeam@ee.doe.gov,HOMEENERGYSCORE.GOV
+204,2,162,164,0.012195121951219513,204,HYDROGEN.GOV,Federal - Executive,Department of Energy,Research and Special Programs Administration / Volpe,Washington,DC,DL-EEREActioNetWebTeam@ee.doe.gov,HYDROGEN.GOV
+206,46,678,724,0.06353591160220995,206,INL.GOV,Federal - Executive,Department of Energy,Idaho National Laboratory,Idaho Falls,ID,whoisresponse@inl.gov,INL.GOV
+208,18,489,507,0.03550295857988166,208,ISOTOPES.GOV,Federal - Executive,Department of Energy,The National Isotope Development Center ,Oak Ridge,TN,security@ornl.gov,ISOTOPES.GOV
+209,36,706,742,0.04851752021563342,209,LANL.GOV,Federal - Executive,Department of Energy,Los Alamos National Laboratory,Los Alamos,NM,csirt@lanl.gov,LANL.GOV
+210,2,551,553,0.003616636528028933,210,LBL.GOV,Federal - Executive,Department of Energy,Lawrence Berkeley National Laboratory,Berkeley,CA,security@lbl.gov,LBL.GOV
+211,23,531,554,0.04151624548736462,211,LLNL.GOV,Federal - Executive,Department of Energy,Lawrence Livermore National Laboratory,Livermore,CA,cybersecurity@llnl.gov,LLNL.GOV
+212,25,438,463,0.05399568034557235,212,NCCS.GOV,Federal - Executive,Department of Energy,Oak Ridge National Laboratory,Oak Ridge,TN,security@ornl.gov,NCCS.GOV
+213,9,76,85,0.10588235294117647,213,NCRC.GOV,Federal - Executive,Department of Energy,Oak Ridge National Laboratory,Oak Ridge,TN,security@ornl.gov,NCRC.GOV
+214,8,330,338,0.023668639053254437,214,NERSC.GOV,Federal - Executive,Department of Energy,National Energy Research Scientific Computing Center,Berkeley,CA,security@lbl.gov,NERSC.GOV
+215,28,212,240,0.11666666666666667,215,NEUP.GOV,Federal - Executive,Department of Energy,Office of Nuclear Energy,Washington,DC,cyberops@Inl.gov,NEUP.GOV
+216,0,380,380,0.0,216,NNSS.GOV,Federal - Executive,Department of Energy,"National Nuclear Security Administration, National Security Technologies, LLC",N Las Vegas,NV,NetComm-1@nv.doe.gov,NNSS.GOV
+217,0,323,323,0.0,217,NREL.GOV,Federal - Executive,Department of Energy,National Renewable Energy Laboratory,Golden,CO,CIRC@JC3.DOE.GOV,NREL.GOV
+221,6,543,549,0.01092896174863388,221,ORAU.GOV,Federal - Executive,Department of Energy,ORAU,Oak Ridge,TN,CIRC@JC3.DOE.GOV,ORAU.GOV
+222,20,306,326,0.06134969325153374,222,ORNL.GOV,Federal - Executive,Department of Energy,Oak Ridge National Laboratory,Oak Ridge,TN,security@ornl.gov,ORNL.GOV
+223,1,153,154,0.006493506493506494,223,OSTI.GOV,Federal - Executive,Department of Energy,OSTI,Oak Ridge,TN,security@osti.gov,OSTI.GOV
+230,10,439,449,0.022271714922048998,230,RIDEELECTRIC.GOV,Federal - Executive,Department of Energy,Department of Energy,Washington,DC,CIRC@JC3.DOE.GOV,RIDEELECTRIC.GOV
+233,0,508,508,0.0,233,SANDIA.GOV,Federal - Executive,Department of Energy,Sandia National Laboratories,Albuquerque,NM,abuse@sandia.gov,SANDIA.GOV
+234,13,98,111,0.11711711711711711,234,SCIDAC.GOV,Federal - Executive,Department of Energy,Oak Ridge National Laboratory,Oak Ridge,TN,security@ornl.gov,SCIDAC.GOV
+235,7,132,139,0.050359712230215826,235,SCIENCE.GOV,Federal - Executive,Department of Energy,OSTI,Oak Ridge,TN,security@osti.gov,SCIENCE.GOV
+236,8,63,71,0.11267605633802817,236,SMARTGRID.GOV,Federal - Executive,Department of Energy,Office of Electricity Delivery and Energy Reliability,Washington,DC,aws.master@nrel.gov,SMARTGRID.GOV
+237,18,727,745,0.024161073825503355,237,SNS.GOV,Federal - Executive,Department of Energy,Oak Ridge National Laboratory,Oak Ridge,TN,security@ornl.gov,SNS.GOV
+239,3,497,500,0.006,239,SRNL.GOV,Federal - Executive,Department of Energy,Savannah River National Lab,Aiken,SC,srnl-cyber@srnl.doe.gov,SRNL.GOV
+246,18,212,230,0.0782608695652174,246,988.GOV,Federal - Executive,Department of Health and Human Services,Substance Abuse and Mental Health Services Administration,Rockville,MD,olexiy.karakcheyev@samhsa.hhs.gov,988.GOV
+248,4,1370,1374,0.002911208151382824,248,ACL.GOV,Federal - Executive,Department of Health and Human Services,Administration for Community Living,Washington,DC,responsibledisclosure@hhs.gov,ACL.GOV
+250,9,469,478,0.01882845188284519,250,AGING.GOV,Federal - Executive,Department of Health and Human Services,Office of the Secretary,Washington,DC,responsibledisclosure@hhs.gov,AGING.GOV
+251,5,197,202,0.024752475247524754,251,AGINGSTATS.GOV,Federal - Executive,Department of Health and Human Services,Administration for Community Living,Washington,DC,responsibledisclosure@hhs.gov,AGINGSTATS.GOV
+254,0,454,454,0.0,254,AIDS.GOV,Federal - Executive,Department of Health and Human Services,"Office of the Assistant Secretary for Health, Office of the Secretary",Washington,DC,responsibledisclosure@hhs.gov,AIDS.GOV
+255,7,591,598,0.011705685618729096,255,ALZHEIMERS.GOV,Federal - Executive,Department of Health and Human Services,"National Institutes on Aging, NIH",Bethesda,MD,ResponsibleDisclosure@hhs.gov,ALZHEIMERS.GOV
+256,4,1370,1374,0.002911208151382824,256,AOA.GOV,Federal - Executive,Department of Health and Human Services,Administration for Community Living,Washington,DC,responsibledisclosure@hhs.gov,AOA.GOV
+257,8,465,473,0.016913319238900635,257,ARPA-H.GOV,Federal - Executive,Department of Health and Human Services,National Institutes of Health,Bethesda,MD,jim.matala@nih.gov,ARPA-H.GOV
+259,10,336,346,0.028901734104046242,259,ASPR.GOV,Federal - Executive,Department of Health and Human Services,Administration for Strategic Preparedness and Response,Washington,DC,ASPRITHelp@hhs.gov,ASPR.GOV
+261,2,242,244,0.00819672131147541,261,BETOBACCOFREE.GOV,Federal - Executive,Department of Health and Human Services,U. S. Food and Drug Administration,Silver Spring,MD,ResponsibleDisclosure@hhs.gov,BETOBACCOFREE.GOV
+263,3,207,210,0.014285714285714285,263,BIRTHCONTROL.GOV,Federal - Executive,Department of Health and Human Services,"Office of the Assistant Secretary for Health, Office of the Secretary",Washington,DC,responsibledisclosure@hhs.gov,BIRTHCONTROL.GOV
+264,0,471,471,0.0,264,BRAIN.GOV,Federal - Executive,Department of Health and Human Services,National Institute of Neurological Disorders and Stroke,Bethesda,MD,NINDSISSO@ninds.nih.gov,BRAIN.GOV
+266,1,592,593,0.0016863406408094434,266,CANCER.GOV,Federal - Executive,Department of Health and Human Services,"National Cancer Institute, NIH",Rockville,MD,ResponsibleDisclosure@hhs.gov,CANCER.GOV
+267,1,482,483,0.002070393374741201,267,CDC.GOV,Federal - Executive,Department of Health and Human Services,Centers for Disease Control and Prevention,Atlanta,GA,ResponsibleDisclosure@hhs.gov,CDC.GOV
+271,3,544,547,0.005484460694698354,271,CHILDWELFARE.GOV,Federal - Executive,Department of Health and Human Services,Administration for Children and Families,Washington,DC,responsibledisclosure@hhs.gov,CHILDWELFARE.GOV
+273,5,954,959,0.005213764337851929,273,CLINICALTRIALS.GOV,Federal - Executive,Department of Health and Human Services,"National Library of Medicine, NIH",Bethesda,MD,responsibledisclosure@hhs.gov,CLINICALTRIALS.GOV
+274,0,896,896,0.0,274,CMS.GOV,Federal - Executive,Department of Health and Human Services,Centers for Medicare and Medicaid Services,Baltimore,MD,responsibledisclosure@hhs.gov,CMS.GOV
+275,1,446,447,0.0022371364653243847,275,COLLEGEDRINKINGPREVENTION.GOV,Federal - Executive,Department of Health and Human Services,"National Institute on Alcohol Abuse and Alcoholism, NIH",Bethesda,MD,responsibledisclosure@hhs.gov,COLLEGEDRINKINGPREVENTION.GOV
+276,1,661,662,0.0015105740181268882,276,CORONAVIRUS.GOV,Federal - Executive,Department of Health and Human Services,Centers for Disease Control and Prevention,Atlanta,GA,(blank),CORONAVIRUS.GOV
+277,4,407,411,0.009732360097323601,277,COVID.GOV,Federal - Executive,Department of Health and Human Services,Department of Health and Human Services ,Washington,DC,responsibledisclosure@hhs.gov,COVID.GOV
+278,3,392,395,0.007594936708860759,278,COVIDTEST.GOV,Federal - Executive,Department of Health and Human Services,Assistant Secretary for Preparedness and Response Office of the Secretary,washington,DC,responsibledisclosure@hhs.gov,COVIDTEST.GOV
+279,3,392,395,0.007594936708860759,279,COVIDTESTS.GOV,Federal - Executive,Department of Health and Human Services,Assistant Secretary for Preparedness and Response Office of the Secretary,Washington,DC,responsibledisclosure@hhs.gov,COVIDTESTS.GOV
+280,1,529,530,0.0018867924528301887,280,CUIDADODESALUD.GOV,Federal - Executive,Department of Health and Human Services,Centers for Medicare and Medicaid Services,Baltimore,MD,responsibledisclosure@hhs.gov,CUIDADODESALUD.GOV
+281,7,546,553,0.012658227848101266,281,DHHS.GOV,Federal - Executive,Department of Health and Human Services,Office of the Secretary,Washington,DC,responsibledisclosure@hhs.gov,DHHS.GOV
+282,1,620,621,0.001610305958132045,282,DIABETESCOMMITTEE.GOV,Federal - Executive,Department of Health and Human Services,"National Institutes of Diabetes and Digestive and Kidney Diseases, NIH",Bethesda,MD,responsibledisclosure@hhs.gov,DIABETESCOMMITTEE.GOV
+283,3,113,116,0.02586206896551724,283,DOCLINE.GOV,Federal - Executive,Department of Health and Human Services,"National Library of Medicine, NIH",Bethesda,MD,responsibledisclosure@hhs.gov,DOCLINE.GOV
+284,3,464,467,0.006423982869379015,284,DONACIONDEORGANOS.GOV,Federal - Executive,Department of Health and Human Services,Health Resources and Services Administration,Rockville,MD,responsibledisclosure@hhs.gov,DONACIONDEORGANOS.GOV
+285,2,562,564,0.0035460992907801418,285,DRUGABUSE.GOV,Federal - Executive,Department of Health and Human Services,"National Institute on Drug Abuse, NIH",Baltimore,MD,responsibledisclosure@hhs.gov,DRUGABUSE.GOV
+286,2,21,23,0.08695652173913043,286,ELDERCARE.GOV,Federal - Executive,Department of Health and Human Services,Administration for Community Living,Washington,DC,responsibledisclosure@hhs.gov,ELDERCARE.GOV
+287,0,848,848,0.0,287,ENCUENTRAAPOYO.GOV,Federal - Executive,Department of Health and Human Services,Substance Abuse and Mental Health Services Administration,Rockville,MD,(blank),ENCUENTRAAPOYO.GOV
+288,13,200,213,0.06103286384976526,288,EVERYTRYCOUNTS.GOV,Federal - Executive,Department of Health and Human Services,U. S. Food and Drug Administration,Silver Spring,MD,responsibledisclosure@hhs.gov,EVERYTRYCOUNTS.GOV
+289,3,207,210,0.014285714285714285,289,FAMILYPLANNING.GOV,Federal - Executive,Department of Health and Human Services,"Office of the Assistant Secretary for Health, Office of the Secretary",Washington,DC,responsibledisclosure@hhs.gov,FAMILYPLANNING.GOV
+290,2,6,8,0.25,290,FATHERHOOD.GOV,Federal - Executive,Department of Health and Human Services,Administration for Children and Families,Washington,DC,responsibledisclosure@hhs.gov,FATHERHOOD.GOV
+291,12,143,155,0.07741935483870968,291,FDA.GOV,Federal - Executive,Department of Health and Human Services,U. S. Food and Drug Administration,Silver Spring,MD,responsibledisclosure@hhs.gov,FDA.GOV
+292,0,837,837,0.0,292,FINDSUPPORT.GOV,Federal - Executive,Department of Health and Human Services,Substance Abuse and Mental Health Services Administration,Rockville,MD,olexiy.karakcheyev@samhsa.hhs.gov,FINDSUPPORT.GOV
+293,4,497,501,0.007984031936127744,293,FINDTREATMENT.GOV,Federal - Executive,Department of Health and Human Services,Substance Abuse and Mental Health Services Administration,Rockville,MD,responsibledisclosure@hhs.gov,FINDTREATMENT.GOV
+294,4,534,538,0.007434944237918215,294,FITNESS.GOV,Federal - Executive,Department of Health and Human Services,Office of the Secretary,Washington,DC,responsibledisclosure@hhs.gov,FITNESS.GOV
+295,4,776,780,0.005128205128205128,295,FLU.GOV,Federal - Executive,Department of Health and Human Services,Centers for Disease Control and Prevention,Atlanta,GA,responsibledisclosure@hhs.gov,FLU.GOV
+296,24,798,822,0.029197080291970802,296,FOODSAFETY.GOV,Federal - Executive,Department of Health and Human Services,Office of the Secretary,Washington,DC,responsibledisclosure@hhs.gov,FOODSAFETY.GOV
+299,19,774,793,0.02395964691046658,299,GENOME.GOV,Federal - Executive,Department of Health and Human Services,National Institutes of Health,Bethesda,MD,responsibledisclosure@hhs.gov,GENOME.GOV
+300,8,361,369,0.02168021680216802,300,GIRLSHEALTH.GOV,Federal - Executive,Department of Health and Human Services,"Office of Public Health and Science, Office on Women's Health",Washington,DC,responsibledisclosure@hhs.gov,GIRLSHEALTH.GOV
+301,11,637,648,0.016975308641975308,301,GLOBALHEALTH.GOV,Federal - Executive,Department of Health and Human Services,"Office of Global Affairs, Office of the Secretary",Rockville,MD,responsibledisclosure@hhs.gov,GLOBALHEALTH.GOV
+302,1,220,221,0.004524886877828055,302,GMTA.GOV,Federal - Executive,Department of Health and Human Services,"Office of Grants, Division of Workforce Development",Washington DC,DC,todd.kaywood@usda.gov,GMTA.GOV
+303,4,419,423,0.009456264775413711,303,GRANTS.GOV,Federal - Executive,Department of Health and Human Services,"Assistant Secretary for Financial Resources, Office of the Secretary",Washington,DC,responsibledisclosure@hhs.gov,GRANTS.GOV
+304,8,232,240,0.03333333333333333,304,GRANTSOLUTIONS.GOV,Federal - Executive,Department of Health and Human Services,Administration for Children and Families,Washington,DC,domainabuse@grantsolutions.gov,GRANTSOLUTIONS.GOV
+305,7,331,338,0.020710059171597635,305,GUIDELINE.GOV,Federal - Executive,Department of Health and Human Services,Agency for Healthcare Research and Quality,Rockville,MD,ResponsibleDisclosure@hhs.gov,GUIDELINE.GOV
+306,7,331,338,0.020710059171597635,306,GUIDELINES.GOV,Federal - Executive,Department of Health and Human Services,Agency for Healthcare Research and Quality,Rockville,MD,ResponsibleDisclosure@hhs.gov,GUIDELINES.GOV
+307,1,531,532,0.0018796992481203006,307,HC.GOV,Federal - Executive,Department of Health and Human Services,Centers for Medicare and Medicaid Services,Baltimore,MD,responsibledisclosure@hhs.gov,HC.GOV
+308,0,281,281,0.0,308,HEALTH.GOV,Federal - Executive,Department of Health and Human Services,"Office of Disease Prevention and Health Promotion, Office of the Secretary",Washington,DC,responsibledisclosure@hhs.gov,HEALTH.GOV
+309,1,531,532,0.0018796992481203006,309,HEALTHCARE.GOV,Federal - Executive,Department of Health and Human Services,Centers for Medicare and Medicaid Services,Baltimore,MD,responsibledisclosure@hhs.gov,HEALTHCARE.GOV
+310,5,362,367,0.013623978201634877,310,HEALTHDATA.GOV,Federal - Executive,Department of Health and Human Services,Office of the Secretary,Washington,DC,responsibledisclosure@hhs.gov,HEALTHDATA.GOV
+311,0,309,309,0.0,311,HEALTHFINDER.GOV,Federal - Executive,Department of Health and Human Services,"Office of Disease Prevention and Health Promotion, Office of the Secretary",Washington,DC,responsibledisclosure@hhs.gov,HEALTHFINDER.GOV
+313,17,311,328,0.051829268292682924,313,HEALTHIT.GOV,Federal - Executive,Department of Health and Human Services,"Office of the National Coordinator, Office of the Secretary",Washington,DC,responsibledisclosure@hhs.gov,HEALTHIT.GOV
+315,0,631,631,0.0,315,HEARTTRUTH.GOV,Federal - Executive,Department of Health and Human Services,"National Heart, Lung & Blood Institute, NIH",Bethesda,MD,responsibledisclosure@hhs.gov,HEARTTRUTH.GOV
+316,9,660,669,0.013452914798206279,316,HHS.GOV,Federal - Executive,Department of Health and Human Services,Office of the Secretary,Washington,DC,responsibledisclosure@hhs.gov,HHS.GOV
+319,0,454,454,0.0,319,HIV.GOV,Federal - Executive,Department of Health and Human Services,"Office of the Assistant Secretary for Health, Office of the Secretary",Washington,DC,responsibledisclosure@hhs.gov,HIV.GOV
+320,1,609,610,0.001639344262295082,320,HRSA.GOV,Federal - Executive,Department of Health and Human Services,Health Resources and Services Administration,Rockville,MD,responsibledisclosure@hhs.gov,HRSA.GOV
+321,8,416,424,0.018867924528301886,321,IDEALAB.GOV,Federal - Executive,Department of Health and Human Services,Office of the Secretary,Washington,DC,responsibledisclosure@hhs.gov,IDEALAB.GOV
+322,17,561,578,0.029411764705882353,322,IHS.GOV,Federal - Executive,Department of Health and Human Services,Indian Health Service / Office of IT,Albuquerque,NM,responsibledisclosure@hhs.gov,IHS.GOV
+323,23,428,451,0.050997782705099776,323,INSUREKIDSNOW.GOV,Federal - Executive,Department of Health and Human Services,Centers for Medicare and Medicaid Services,Baltimore,MD,responsibledisclosure@hhs.gov,INSUREKIDSNOW.GOV
+324,2,8,10,0.2,324,LONGTERMCARE.GOV,Federal - Executive,Department of Health and Human Services,Administration for Community Living,Washington,DC,responsibledisclosure@hhs.gov,LONGTERMCARE.GOV
+325,32,967,999,0.03203203203203203,325,MEDICAID.GOV,Federal - Executive,Department of Health and Human Services,Centers for Medicare and Medicaid Services,Baltimore,MD,responsibledisclosure@hhs.gov,MEDICAID.GOV
+328,6,672,678,0.008849557522123894,328,MEDICARE.GOV,Federal - Executive,Department of Health and Human Services,Centers for Medicare and Medicaid Services,Baltimore,MD,responsibledisclosure@hhs.gov,MEDICARE.GOV
+329,2,224,226,0.008849557522123894,329,MEDLINEPLUS.GOV,Federal - Executive,Department of Health and Human Services,"National Library of Medicine, NIH",Bethesda,MD,responsibledisclosure@hhs.gov,MEDLINEPLUS.GOV
+330,3,937,940,0.0031914893617021275,330,MENTALHEALTH.GOV,Federal - Executive,Department of Health and Human Services,SAMHSA Office of Communications,Rockville,MD,ResponsibleDisclosure@hhs.gov,MENTALHEALTH.GOV
+331,9,210,219,0.0410958904109589,331,MESH.GOV,Federal - Executive,Department of Health and Human Services,"National Library of Medicine, NIH",Bethesda,MD,responsibledisclosure@hhs.gov,MESH.GOV
+332,0,317,317,0.0,332,MYMEDICARE.GOV,Federal - Executive,Department of Health and Human Services,Centers for Medicare and Medicaid Services,Baltimore,MD,responsibledisclosure@hhs.gov,MYMEDICARE.GOV
+334,0,307,307,0.0,334,NEXTLEGENDS.GOV,Federal - Executive,Department of Health and Human Services,"FDA, Center for Tobacco Products",Silver Spring,MD,responsibledisclosure@hhs.gov,NEXTLEGENDS.GOV
+337,7,350,357,0.0196078431372549,337,NLM.GOV,Federal - Executive,Department of Health and Human Services,"National Library of Medicine, NIH",Bethesda,MD,responsibledisclosure@hhs.gov,NLM.GOV
+338,22,342,364,0.06043956043956044,338,NNLM.GOV,Federal - Executive,Department of Health and Human Services,"National Library of Medicine, NIH",Bethesda,MD,responsibledisclosure@hhs.gov,NNLM.GOV
+339,14,852,866,0.016166281755196306,339,OPIOIDS.GOV,Federal - Executive,Department of Health and Human Services,Office of the Secretary,Washington,DC,responsibledisclosure@hhs.gov,OPIOIDS.GOV
+340,3,474,477,0.006289308176100629,340,ORGANDONOR.GOV,Federal - Executive,Department of Health and Human Services,Health Resources and Services Administration,Rockville,MD,responsibledisclosure@hhs.gov,ORGANDONOR.GOV
+341,1,620,621,0.001610305958132045,341,PANDEMICFLU.GOV,Federal - Executive,Department of Health and Human Services,Centers for Disease Control and Prevention,Atlanta,GA,responsibledisclosure@hhs.gov,PANDEMICFLU.GOV
+342,10,336,346,0.028901734104046242,342,PHE.GOV,Federal - Executive,Department of Health and Human Services,"Assistant Secretary for Preparedness and Response, Office of the Secretary",Washington,DC,responsibledisclosure@hhs.gov,PHE.GOV
+343,9,675,684,0.013157894736842105,343,PSC.GOV,Federal - Executive,Department of Health and Human Services,"Program Support Center, Office of the Secretary",Rockville,MD,responsibledisclosure@hhs.gov,PSC.GOV
+344,3,5,8,0.375,344,PUBMED.GOV,Federal - Executive,Department of Health and Human Services,"National Library of Medicine, NIH",Bethesda,MD,responsibledisclosure@hhs.gov,PUBMED.GOV
+345,5,863,868,0.00576036866359447,345,RECOVERYMONTH.GOV,Federal - Executive,Department of Health and Human Services,Substance Abuse and Mental Health Services Administration,Rockville,MD,responsibledisclosure@hhs.gov,RECOVERYMONTH.GOV
+346,3,207,210,0.014285714285714285,346,REPRODUCTIVEHEALTHSERVICES.GOV,Federal - Executive,Department of Health and Human Services,Department of Health and Human Services,Washington,DC,responsibledisclosure@hhs.gov,REPRODUCTIVEHEALTHSERVICES.GOV
+347,9,904,913,0.009857612267250822,347,SAMHSA.GOV,Federal - Executive,Department of Health and Human Services,Substance Abuse and Mental Health Services Administration,Rockville,MD,responsibledisclosure@hhs.gov,SAMHSA.GOV
+348,6,473,479,0.012526096033402923,348,SELECTAGENTS.GOV,Federal - Executive,Department of Health and Human Services,Centers for Disease Control and Prevention,Atlanta,GA,ResponsibleDisclosure@hhs.gov,SELECTAGENTS.GOV
+349,0,282,282,0.0,349,SIMPLEREPORT.GOV,Federal - Executive,Department of Health and Human Services,Centers for Disease Control and Prevention,Atlanta,GA,ResponsibleDisclosure@hhs.gov,SIMPLEREPORT.GOV
+350,5,297,302,0.016556291390728478,350,SMOKEFREE.GOV,Federal - Executive,Department of Health and Human Services,"National Cancer Institute, NIH",Rockville,MD,responsibledisclosure@hhs.gov,SMOKEFREE.GOV
+351,2,295,297,0.006734006734006734,351,STOPALCOHOLABUSE.GOV,Federal - Executive,Department of Health and Human Services,Substance Abuse and Mental Health Services Administration,Rockville,MD,responsibledisclosure@hhs.gov,STOPALCOHOLABUSE.GOV
+352,5,362,367,0.013623978201634877,352,STOPBULLYING.GOV,Federal - Executive,Department of Health and Human Services,Office of the Secretary,Washington,DC,responsibledisclosure@hhs.gov,STOPBULLYING.GOV
+353,8,497,505,0.015841584158415842,353,SURGEONGENERAL.GOV,Federal - Executive,Department of Health and Human Services,"Office of the Surgeon General, Office of the Secretary",Washington,DC,responsibledisclosure@hhs.gov,SURGEONGENERAL.GOV
+354,0,471,471,0.0,354,THEBRAININITIATIVE.GOV,Federal - Executive,Department of Health and Human Services,National Institute of Neurological Disorders and Stroke,Bethesda,MD,NINDSISSO@ninds.nih.gov,THEBRAININITIATIVE.GOV
+355,2,442,444,0.0045045045045045045,355,THEREALCOST.GOV,Federal - Executive,Department of Health and Human Services,U. S. Food and Drug Administration,Silver Spring,MD,ResponsibleDisclosure@hhs.gov,THEREALCOST.GOV
+356,5,297,302,0.016556291390728478,356,THISFREELIFE.GOV,Federal - Executive,Department of Health and Human Services,U. S. Food and Drug Administration,Silver Spring,MD,ResponsibleDisclosure@hhs.gov,THISFREELIFE.GOV
+357,2,242,244,0.00819672131147541,357,TOBACCO.GOV,Federal - Executive,Department of Health and Human Services,U. S. Food and Drug Administration,Silver Spring,MD,ResponsibleDisclosure@hhs.gov,TOBACCO.GOV
+358,4,196,200,0.02,358,TOX21.GOV,Federal - Executive,Department of Health and Human Services,National Center for Advancing Translational Sciences,Rockville,MD,ResponsibleDisclosure@hhs.gov,TOX21.GOV
+361,1,316,317,0.0031545741324921135,361,VACCINE.GOV,Federal - Executive,Department of Health and Human Services,Centers for Disease Control and Prevention,Atlanta,GA,ResponsibleDisclosure@hhs.gov,VACCINE.GOV
+362,1,316,317,0.0031545741324921135,362,VACCINES.GOV,Federal - Executive,Department of Health and Human Services,Centers for Disease Control and Prevention,Atlanta,GA,responsibledisclosure@hhs.gov,VACCINES.GOV
+363,1,316,317,0.0031545741324921135,363,VACINE.GOV,Federal - Executive,Department of Health and Human Services,Centers for Disease Control and Prevention,Atlanta,GA,ResponsibleDisclosure@hhs.gov,VACINE.GOV
+364,1,316,317,0.0031545741324921135,364,VACINES.GOV,Federal - Executive,Department of Health and Human Services,Centers for Disease Control and Prevention,Atlanta,GA,ResponsibleDisclosure@hhs.gov,VACINES.GOV
+365,1,316,317,0.0031545741324921135,365,VACUNA.GOV,Federal - Executive,Department of Health and Human Services,Centers for Disease Control and Prevention,Atlanta,GA,ResponsibleDisclosure@hhs.gov,VACUNA.GOV
+366,1,316,317,0.0031545741324921135,366,VACUNAS.GOV,Federal - Executive,Department of Health and Human Services,Centers for Disease Control and Prevention,Atlanta,GA,ResponsibleDisclosure@hhs.gov,VACUNAS.GOV
+367,6,80,86,0.06976744186046512,367,VISFORVACCINATED.GOV,Federal - Executive,Department of Health and Human Services,"Office of the Assistant Secretary for Health, Office of the Secretary",Washington,DC,responsibledisclosure@hhs.gov,VISFORVACCINATED.GOV
+369,6,195,201,0.029850746268656716,369,WHITEHOUSECONFERENCEONAGING.GOV,Federal - Executive,Department of Health and Human Services,Administration for Community Living,Washington,DC,responsibledisclosure@hhs.gov,WHITEHOUSECONFERENCEONAGING.GOV
+370,8,537,545,0.014678899082568808,370,WOMENSHEALTH.GOV,Federal - Executive,Department of Health and Human Services,"Office of Public Health and Science, Office on Women's Health",Washington,DC,responsibledisclosure@hhs.gov,WOMENSHEALTH.GOV
+371,5,603,608,0.008223684210526315,371,YOUTH.GOV,Federal - Executive,Department of Health and Human Services,"Assistant Secretary for Planning and Evaluation, Office of the Secretary",Washington,DC,responsibledisclosure@hhs.gov,YOUTH.GOV
+372,4,521,525,0.007619047619047619,372,BIOMETRICS.GOV,Federal - Executive,Department of Homeland Security,US-VISIT,Arlington,VA,IS2OSecurity@hq.dhs.gov,BIOMETRICS.GOV
+373,5,475,480,0.010416666666666666,373,CBP.GOV,Federal - Executive,Department of Homeland Security,U.S. Customs and Border Protection,Washington,DC,CBPSOC@cbp.dhs.gov,CBP.GOV
+374,1,668,669,0.0014947683109118087,374,CISA.GOV,Federal - Executive,Department of Homeland Security,Cybersecurity and Infrastructure Security Agency,Washington,DC,ContactOCIO@cisa.dhs.gov,CISA.GOV
+376,1,668,669,0.0014947683109118087,376,CYBER.GOV,Federal - Executive,Department of Homeland Security,Cybersecurity and Infrastructure Security Agency,Washington,DC,IS2OSecurity@hq.dhs.gov,CYBER.GOV
+377,1,668,669,0.0014947683109118087,377,CYBERSECURITY.GOV,Federal - Executive,Department of Homeland Security,Cybersecurity and Infrastructure Security Agency,Washington,DC,IS2OSecurity@hq.dhs.gov,CYBERSECURITY.GOV
+378,1,603,604,0.0016556291390728477,378,DHS.GOV,Federal - Executive,Department of Homeland Security,Headquarters,Washington,DC,IS2OSecurity@hq.dhs.gov,DHS.GOV
+379,10,342,352,0.028409090909090908,379,DISASTERASSISTANCE.GOV,Federal - Executive,Department of Homeland Security,Federal Emergency Management Agency,Bluemont,VA,fema-nosc-cyber@fema.dhs.gov,DISASTERASSISTANCE.GOV
+381,6,161,167,0.03592814371257485,381,DOTGOV.GOV,Federal - Executive,Department of Homeland Security,Cybersecurity and Infrastructure Security Agency,Arlington,VA,dotgov@cisa.dhs.gov,DOTGOV.GOV
+382,6,746,752,0.007978723404255319,382,E-VERIFY.GOV,Federal - Executive,Department of Homeland Security,USCIS,Washington,DC,jeffrey.y.oppong@uscis.dhs.gov,E-VERIFY.GOV
+383,6,746,752,0.007978723404255319,383,EVERIFY.GOV,Federal - Executive,Department of Homeland Security,USCIS,Washington,DC,jeffrey.y.oppong@uscis.dhs.gov,EVERIFY.GOV
+384,8,243,251,0.03187250996015936,384,EVUS.GOV,Federal - Executive,Department of Homeland Security,U.S. Customs and Border Protection,Washington,DC,IS2OSecurity@hq.dhs.gov,EVUS.GOV
+385,8,388,396,0.020202020202020204,385,FEMA.GOV,Federal - Executive,Department of Homeland Security,Federal Emergency Management Agency,Washington,DC,fema-nosc-cyber@fema.dhs.gov,FEMA.GOV
+386,2,187,189,0.010582010582010581,386,FIRSTRESPONDERTRAINING.GOV,Federal - Executive,Department of Homeland Security,Office for Domestic Preparedness,Washington,DC,fema-nosc-cyber@fema.dhs.gov,FIRSTRESPONDERTRAINING.GOV
+387,4,353,357,0.011204481792717087,387,FLETA.GOV,Federal - Executive,Department of Homeland Security,Federal Law Enforcement Training Center,Glynco,GA,FLETCCSIRC@fletc.dhs.gov,FLETA.GOV
+388,1,479,480,0.0020833333333333333,388,FLETC.GOV,Federal - Executive,Department of Homeland Security,Federal Law Enforcement Training Center,Glynco,GA,FLETCCSIRC@fletc.dhs.gov,FLETC.GOV
+389,5,377,382,0.013089005235602094,389,FLOODSMART.GOV,Federal - Executive,Department of Homeland Security,Federal Emergency Management Agency,Bluemont,VA,fema-nosc-cyber@fema.dhs.gov,FLOODSMART.GOV
+390,6,161,167,0.03592814371257485,390,GET.GOV,Federal - Executive,Department of Homeland Security,Cybersecurity and Infrastructure Security Agency,Arlington,VA,dotgov@cisa.dhs.gov,GET.GOV
+391,1,826,827,0.0012091898428053204,391,GLOBALENTRY.GOV,Federal - Executive,Department of Homeland Security,U.S. Customs and Border Protection,Washington,DC,CBPSOC@cbp.dhs.gov,GLOBALENTRY.GOV
+392,1,603,604,0.0016556291390728477,392,HOMELANDSECURITY.GOV,Federal - Executive,Department of Homeland Security,Headquarters,Washington,DC,IS2OSecurity@hq.dhs.gov,HOMELANDSECURITY.GOV
+393,15,899,914,0.016411378555798686,393,ICE.GOV,Federal - Executive,Department of Homeland Security,U.S. Immigration and Customs Enforcement,Washington,DC,IS2OSecurity@hq.dhs.gov,ICE.GOV
+394,1,339,340,0.0029411764705882353,394,JUNTOS.GOV,Federal - Executive,Department of Homeland Security,Headquarters,Washington,DC,IS2OSecurity@hq.dhs.gov,JUNTOS.GOV
+396,2,363,365,0.005479452054794521,396,LISTO.GOV,Federal - Executive,Department of Homeland Security,Office of Public Affairs,Washington,DC,fema-nosc-cyber@fema.dhs.gov,LISTO.GOV
+398,26,482,508,0.051181102362204724,398,NIEM.GOV,Federal - Executive,Department of Homeland Security,"Department of Homeland Security, Office of the Chief Information Officer",Washington,DC,IS2OSecurity@hq.dhs.gov,NIEM.GOV
+402,2,391,393,0.005089058524173028,402,PREVENTIONRESOURCEFINDER.GOV,Federal - Executive,Department of Homeland Security,Headquarters,Washington,DC,IS2Osecurity@hq.dhs.gov,PREVENTIONRESOURCEFINDER.GOV
+403,2,355,357,0.0056022408963585435,403,READY.GOV,Federal - Executive,Department of Homeland Security,Office of Public Affairs,Washington,DC,fema-nosc-cyber@fema.dhs.gov,READY.GOV
+404,2,335,337,0.005934718100890208,404,READYBUSINESS.GOV,Federal - Executive,Department of Homeland Security,Federal Emergency Management Agency,Washington,DC,fema-nosc-cyber@fema.dhs.gov,READYBUSINESS.GOV
+406,5,526,531,0.009416195856873822,406,SCHOOLSAFETY.GOV,Federal - Executive,Department of Homeland Security,Cybersecurity and Infrastructure Security Agency,Washington,DC,is2osecurity@hq.dhs.gov,SCHOOLSAFETY.GOV
+407,6,419,425,0.01411764705882353,407,SECRETSERVICE.GOV,Federal - Executive,Department of Homeland Security,United States Secret Service   ,Washington,DC,IS2OSecurity@hq.dhs.gov,SECRETSERVICE.GOV
+408,4,399,403,0.009925558312655087,408,STOPRANSOMWARE.GOV,Federal - Executive,Department of Homeland Security,Cybersecurity and Infrastructure Security Agency,Arlington,VA,vulnerability.disclosure.prog@hq.dhs.gov,STOPRANSOMWARE.GOV
+409,1,333,334,0.0029940119760479044,409,TOGETHER.GOV,Federal - Executive,Department of Homeland Security,Headquarters,Washington,DC,IS2OSecurity@hq.dhs.gov,TOGETHER.GOV
+410,7,358,365,0.019178082191780823,410,TSA.GOV,Federal - Executive,Department of Homeland Security,Transportation Security Administration,Arlington,VA,GRC_Compliance@tsa.dhs.gov,TSA.GOV
+411,1,668,669,0.0014947683109118087,411,US-CERT.GOV,Federal - Executive,Department of Homeland Security,US-CERT,Washington,DC,moe-cirt@us-cert.gov,US-CERT.GOV
+413,27,1003,1030,0.02621359223300971,413,USCIS.GOV,Federal - Executive,Department of Homeland Security,USCIS,Washington,DC,jeffrey.y.oppong@uscis.dhs.gov,USCIS.GOV
+414,6,419,425,0.01411764705882353,414,USSS.GOV,Federal - Executive,Department of Homeland Security,United States Secret Service,Washington,DC,megan.mcgraw@usss.dhs.gov,USSS.GOV
+415,3,268,271,0.01107011070110701,415,DISASTERHOUSING.GOV,Federal - Executive,Department of Housing and Urban Development,Department of Housing and Urban Development,Washington,DC,vdp@hud.gov,DISASTERHOUSING.GOV
+416,4,512,516,0.007751937984496124,416,FHA.GOV,Federal - Executive,Department of Housing and Urban Development,Department of Housing and Urban Development,Washington,DC,vdp@hud.gov,FHA.GOV
+417,12,321,333,0.036036036036036036,417,GINNIEMAE.GOV,Federal - Executive,Department of Housing and Urban Development,Government National Mortgage Association,Washington,DC,ron.e.espedido@hud.gov,GINNIEMAE.GOV
+418,3,268,271,0.01107011070110701,418,HUD.GOV,Federal - Executive,Department of Housing and Urban Development,Web Master  Pulic Affair,Washington,DC,vdp@hud.gov,HUD.GOV
+419,0,569,569,0.0,419,HUDHOMESTORE.GOV,Federal - Executive,Department of Housing and Urban Development,Department of Housing and Urban Development,Washington,DC,(blank),HUDHOMESTORE.GOV
+420,2,88,90,0.022222222222222223,420,HUDOIG.GOV,Federal - Executive,Department of Housing and Urban Development,Office of Inspector General,Washington,DC,INFOSECFederalStaff@hudoig.gov,HUDOIG.GOV
+421,12,489,501,0.023952095808383235,421,HUDUSER.GOV,Federal - Executive,Department of Housing and Urban Development,"U.S. Department of Housing and Urban Development, Office of Policy Development and Research",Washington,DC,support@huduser.gov,HUDUSER.GOV
+422,3,268,271,0.01107011070110701,422,NATIONALHOUSING.GOV,Federal - Executive,Department of Housing and Urban Development,Department of Housing and Urban Development,Washington,DC,vdp@hud.gov,NATIONALHOUSING.GOV
+423,3,268,271,0.01107011070110701,423,NATIONALHOUSINGLOCATOR.GOV,Federal - Executive,Department of Housing and Urban Development,Department of Housing and Urban Development,Washington,DC,vdp@hud.gov,NATIONALHOUSINGLOCATOR.GOV
+424,3,268,271,0.01107011070110701,424,NHL.GOV,Federal - Executive,Department of Housing and Urban Development,Department of Housing and Urban Development,Washington,DC,vdp@hud.gov,NHL.GOV
+425,3,268,271,0.01107011070110701,425,NLS.GOV,Federal - Executive,Department of Housing and Urban Development,Department of Housing and Urban Development,Washington,DC,vdp@hud.gov,NLS.GOV
+426,2,86,88,0.022727272727272728,426,OPPORTUNITYZONES.GOV,Federal - Executive,Department of Housing and Urban Development,Department of Housing and Urban Development,Washington,DC,vdp@hud.gov,OPPORTUNITYZONES.GOV
+427,0,429,429,0.0,427,ADA.GOV,Federal - Executive,Department of Justice,Civil Rights Division,Washington,DC,Responsible_Disclosure@usdoj.gov,ADA.GOV
+428,4,641,645,0.006201550387596899,428,AMBERALERT.GOV,Federal - Executive,Department of Justice,Office of Justice Programs,Washington,DC,Responsible_Disclosure@usdoj.gov,AMBERALERT.GOV
+429,8,372,380,0.021052631578947368,429,ATF.GOV,Federal - Executive,Department of Justice,"Bureau of Alcohol, Tobacco, Firearms and Explosives",Washington,DC,Responsible_Disclosure@usdoj.gov,ATF.GOV
+431,4,92,96,0.041666666666666664,431,BATS.GOV,Federal - Executive,Department of Justice,Department of Justice,Potomac,MD,Responsible_Disclosure@usdoj.gov,BATS.GOV
+432,2,15,17,0.11764705882352941,432,BIOMETRICCOE.GOV,Federal - Executive,Department of Justice,FBI CJIS,Clarksburg,WV,Responsible_Disclosure@usdoj.gov,BIOMETRICCOE.GOV
+433,6,818,824,0.007281553398058253,433,BJA.GOV,Federal - Executive,Department of Justice,Office of Justice Programs,Washington ,DC,Responsible_Disclosure@usdoj.gov,BJA.GOV
+436,2,8,10,0.2,436,CAMPUSDRUGPREVENTION.GOV,Federal - Executive,Department of Justice,Drug Enforcement Administration,Springfield,VA,Responsible_Disclosure@usdoj.gov,CAMPUSDRUGPREVENTION.GOV
+438,2,563,565,0.0035398230088495575,438,CRIMESOLUTIONS.GOV,Federal - Executive,Department of Justice,Office of Justice Programs,Washinton,DC,Responsible_Disclosure@usdoj.gov,CRIMESOLUTIONS.GOV
+439,3,626,629,0.0047694753577106515,439,CRIMEVICTIMS.GOV,Federal - Executive,Department of Justice,Office of Justice Programs,Washington,DC,Responsible_Disclosure@usdoj.gov,CRIMEVICTIMS.GOV
+440,1,456,457,0.002188183807439825,440,CYBERCRIME.GOV,Federal - Executive,Department of Justice,Criminal Division,Washington,DC,Responsible_Disclosure@usdoj.gov,CYBERCRIME.GOV
+441,2,8,10,0.2,441,DEA.GOV,Federal - Executive,Department of Justice,Drug Enforcement Administration,Springfield,VA,Responsible_Disclosure@usdoj.gov,DEA.GOV
+442,3,262,265,0.011320754716981131,442,DEAECOM.GOV,Federal - Executive,Department of Justice,Drug Enforcement Administration,Washington,DC,Responsible_Disclosure@usdoj.gov,DEAECOM.GOV
+444,7,318,325,0.021538461538461538,444,DSAC.GOV,Federal - Executive,Department of Justice,"U.S. Department of Justice, BI, Domestic Security Alliance Council (DSAC)",Potomac,MD,Responsible_Disclosure@usdoj.gov,DSAC.GOV
+445,3,777,780,0.0038461538461538464,445,ELDERJUSTICE.GOV,Federal - Executive,Department of Justice,"Department of Justice, Civil Division",Washington,DC,Responsible_Disclosure@usdoj.gov,ELDERJUSTICE.GOV
+446,2,8,10,0.2,446,EPIC.GOV,Federal - Executive,Department of Justice,Drug Enforcement Administration,Washington,DC,Responsible_Disclosure@usdoj.gov,EPIC.GOV
+447,2,432,434,0.004608294930875576,447,FARA.GOV,Federal - Executive,Department of Justice,"U.S. Department of Justice, National Security Division",Washington,DC,Responsible_Disclosure@usdoj.gov,FARA.GOV
+448,2,15,17,0.11764705882352941,448,FBI.GOV,Federal - Executive,Department of Justice,Federal Bureau of Investigation,Washington,DC,Responsible_Disclosure@usdoj.gov,FBI.GOV
+450,2,85,87,0.022988505747126436,450,FBIJOBS.GOV,Federal - Executive,Department of Justice,Federal Bureau of Investigation,Washington,DC,Responsible_Disclosure@usdoj.gov,FBIJOBS.GOV
+452,0,2056,2056,0.0,452,FIRSTFREEDOM.GOV,Federal - Executive,Department of Justice,Department of Justice,Potomac,MD,Responsible_Disclosure@usdoj.gov,FIRSTFREEDOM.GOV
+453,4,325,329,0.0121580547112462,453,FOIA.GOV,Federal - Executive,Department of Justice,"Department of Justice, Office of e-Government",Washington,DC,Responsible_Disclosure@usdoj.gov,FOIA.GOV
+456,2,8,10,0.2,456,GETSMARTABOUTDRUGS.GOV,Federal - Executive,Department of Justice,Drug Enforcement Administration,Springfield,VA,Responsible_Disclosure@usdoj.gov,GETSMARTABOUTDRUGS.GOV
+457,0,299,299,0.0,457,IC3.GOV,Federal - Executive,Department of Justice,Internet Crime Complaint Center,Fairmont,WV,Responsible_Disclosure@usdoj.gov,IC3.GOV
+458,0,398,398,0.0,458,INTERPOL.GOV,Federal - Executive,Department of Justice,"U.S. Department of Justice, U. S. NATIONAL CENTRAL BUREAU of INTERPOL (INTERPOL)",Potomac,MD,Responsible_Disclosure@usdoj.gov,INTERPOL.GOV
+459,10,311,321,0.03115264797507788,459,IPRCENTER.GOV,Federal - Executive,Department of Justice,U.S Immigration and Customs Enforcement,Washington,DC,Responsible_Disclosure@usdoj.gov,IPRCENTER.GOV
+461,5,605,610,0.00819672131147541,461,JUSTICE.GOV,Federal - Executive,Department of Justice,Department of Justice,Washington,DC,Responsible_Disclosure@usdoj.gov,JUSTICE.GOV
+462,2,8,10,0.2,462,JUSTTHINKTWICE.GOV,Federal - Executive,Department of Justice,Drug Enforcement Administration,Springfield,VA,Responsible_Disclosure@usdoj.gov,JUSTTHINKTWICE.GOV
+463,2,419,421,0.004750593824228029,463,JUVENILECOUNCIL.GOV,Federal - Executive,Department of Justice,Office of Justice Programs,Washington,DC,Responsible_Disclosure@usdoj.gov,JUVENILECOUNCIL.GOV
+464,2,186,188,0.010638297872340425,464,LEARNATF.GOV,Federal - Executive,Department of Justice,"Bureau of Alcohol, Tobacco, Firearms and Explosives",Washington,DC,Responsible_Disclosure@usdoj.gov,LEARNATF.GOV
+465,0,397,397,0.0,465,LEARNDOJ.GOV,Federal - Executive,Department of Justice,Department of Justice,Washington,DC,Responsible_Disclosure@usdoj.gov,LEARNDOJ.GOV
+467,13,513,526,0.024714828897338403,467,LEP.GOV,Federal - Executive,Department of Justice,Civil Rights Division,Washington,DC,Responsible_Disclosure@usdoj.gov,LEP.GOV
+469,1,558,559,0.0017889087656529517,469,MEDALOFVALOR.GOV,Federal - Executive,Department of Justice,Department of Justice,Potomac,MD,Responsible_Disclosure@usdoj.gov,MEDALOFVALOR.GOV
+470,3,589,592,0.005067567567567568,470,NAMUS.GOV,Federal - Executive,Department of Justice,Office of Justice Programs,Washington,DC,Responsible_Disclosure@usdoj.gov,NAMUS.GOV
+471,1,392,393,0.002544529262086514,471,NATIONALGANGCENTER.GOV,Federal - Executive,Department of Justice,Institute for Intergovernmental Research,Tallahassee,FL,Responsible_Disclosure@usdoj.gov,NATIONALGANGCENTER.GOV
+472,1,440,441,0.0022675736961451248,472,NCIRC.GOV,Federal - Executive,Department of Justice,Institute for Intergovernmental Research,Tallahassee,FL,Responsible_Disclosure@usdoj.gov,NCIRC.GOV
+473,1,649,650,0.0015384615384615385,473,NCJRS.GOV,Federal - Executive,Department of Justice,Department of Justice,Potomac,MD,Responsible_Disclosure@usdoj.gov,NCJRS.GOV
+474,7,646,653,0.010719754977029096,474,NICIC.GOV,Federal - Executive,Department of Justice,"Department of Justice, National Institute of Corrections",Washington,DC,Responsible_Disclosure@usdoj.gov,NICIC.GOV
+475,7,75,82,0.08536585365853659,475,NICSEZCHECKFBI.GOV,Federal - Executive,Department of Justice,Federal Bureau of Investigation,Washington,DC,Responsible_Disclosure@usdoj.gov,NICSEZCHECKFBI.GOV
+476,33,1057,1090,0.030275229357798167,476,NIJ.GOV,Federal - Executive,Department of Justice,Office of Justice Programs ,Washington,DC,Responsible_Disclosure@usdoj.gov,NIJ.GOV
+477,2,434,436,0.0045871559633027525,477,NMVTIS.GOV,Federal - Executive,Department of Justice,Office of Justice Programs,Washington,DC,Responsible_Disclosure@usdoj.gov,NMVTIS.GOV
+479,5,534,539,0.00927643784786642,479,NSOPW.GOV,Federal - Executive,Department of Justice,Office of Justice Programs,Washington,DC,Responsible_Disclosure@usdoj.gov,NSOPW.GOV
+480,2,15,17,0.11764705882352941,480,NVTC.GOV,Federal - Executive,Department of Justice,National Virtual Translation Center,Washington,DC,Responsible_Disclosure@usdoj.gov,NVTC.GOV
+481,5,893,898,0.005567928730512249,481,OJJDP.GOV,Federal - Executive,Department of Justice,Office of Justice Programs,Potomac,MD,Responsible_Disclosure@usdoj.gov,OJJDP.GOV
+482,2,556,558,0.0035842293906810036,482,OJP.GOV,Federal - Executive,Department of Justice,Office of Justice Programs,Washington,DC,Responsible_Disclosure@usdoj.gov,OJP.GOV
+483,25,1075,1100,0.022727272727272728,483,OVC.GOV,Federal - Executive,Department of Justice,Office of Justice Programs,Potomac,DC,Responsible_Disclosure@usdoj.gov,OVC.GOV
+484,2,349,351,0.005698005698005698,484,OVCTTAC.GOV,Federal - Executive,Department of Justice,Office of Justice Programs,Washington,DC,Responsible_Disclosure@usdoj.gov,OVCTTAC.GOV
+485,2,390,392,0.00510204081632653,485,PROJECTSAFECHILDHOOD.GOV,Federal - Executive,Department of Justice,Office of the Chief Information Officer,Washington,DC,Responsible_Disclosure@usdoj.gov,PROJECTSAFECHILDHOOD.GOV
+486,2,348,350,0.005714285714285714,486,PROJECTSAFENEIGHBORHOODS.GOV,Federal - Executive,Department of Justice,Office of the Chief Information Officer,Washington,DC,Responsible_Disclosure@usdoj.gov,PROJECTSAFENEIGHBORHOODS.GOV
+487,2,689,691,0.002894356005788712,487,PSOB.GOV,Federal - Executive,Department of Justice,Office of Justice Programs,Potomac,MD,Responsible_Disclosure@usdoj.gov,PSOB.GOV
+488,46,264,310,0.14838709677419354,488,RCFL.GOV,Federal - Executive,Department of Justice,RCFL,McLean,VA,Responsible_Disclosure@usdoj.gov,RCFL.GOV
+490,1,394,395,0.002531645569620253,490,SCRA.GOV,Federal - Executive,Department of Justice,Department of Justice,Potomac,MD,Responsible_Disclosure@usdoj.gov,SCRA.GOV
+491,2,8,10,0.2,491,SEIZED.GOV,Federal - Executive,Department of Justice,Federal Bureau of Investigation,Washington,DC,(blank),SEIZED.GOV
+492,1,394,395,0.002531645569620253,492,SERVICEMEMBERS.GOV,Federal - Executive,Department of Justice,Civil Rights Division,Potomac,MD,Responsible_Disclosure@usdoj.gov,SERVICEMEMBERS.GOV
+493,31,814,845,0.036686390532544376,493,SMART.GOV,Federal - Executive,Department of Justice,Office of Justice Programs,Washington,DC,Responsible_Disclosure@usdoj.gov,SMART.GOV
+494,1,477,478,0.0020920502092050207,494,TRIBALJUSTICEANDSAFETY.GOV,Federal - Executive,Department of Justice,Office of Justice Programs,Washington,DC,Responsible_Disclosure@usdoj.gov,TRIBALJUSTICEANDSAFETY.GOV
+495,3,9,12,0.25,495,TSC.GOV,Federal - Executive,Department of Justice,Terrorist Screening Center,Washington,DC,(blank),TSC.GOV
+497,15,362,377,0.03978779840848806,497,UNICOR.GOV,Federal - Executive,Department of Justice,Unicor,Washington,DC,Responsible_Disclosure@usdoj.gov,UNICOR.GOV
+498,5,605,610,0.00819672131147541,498,USDOJ.GOV,Federal - Executive,Department of Justice,Office of the Chief Information Officer,Washington,DC,Responsible_Disclosure@usdoj.gov,USDOJ.GOV
+499,1,394,395,0.002531645569620253,499,USERRA.GOV,Federal - Executive,Department of Justice,Civil Rights Division,Potomac,MD,Responsible_Disclosure@usdoj.gov,USERRA.GOV
+500,102,12187,12289,0.008300105785661973,500,USMARSHALS.GOV,Federal - Executive,Department of Justice,U.S. Marshals Service,Arlington,VA,USMS-ITD-SwAssetMgmt@usdoj.gov,USMARSHALS.GOV
+501,2,364,366,0.00546448087431694,501,VCF.GOV,Federal - Executive,Department of Justice,Department of Justice,Washington,DC,Responsible_Disclosure@usdoj.gov,VCF.GOV
+502,2,434,436,0.0045871559633027525,502,VEHICLEHISTORY.GOV,Federal - Executive,Department of Justice,Office of Justice Programs,Potomac,MD,Responsible_Disclosure@usdoj.gov,VEHICLEHISTORY.GOV
+503,0,682,682,0.0,503,APPRENTICESHIP.GOV,Federal - Executive,Department of Labor,Office of the Chief Information Officer,Washington,DC,m-DOLCSIRC@dol.gov,APPRENTICESHIP.GOV
+504,0,682,682,0.0,504,APPRENTICESHIPS.GOV,Federal - Executive,Department of Labor,Office of the Chief Information Officer,Washington,DC,m-DOLCSIRC@dol.gov,APPRENTICESHIPS.GOV
+505,5,546,551,0.009074410163339383,505,BENEFITS.GOV,Federal - Executive,Department of Labor,Office of the Chief Information Officer,Washington,DC,m-DOLCSIRC@dol.gov,BENEFITS.GOV
+508,2,443,445,0.0044943820224719105,508,DOL.GOV,Federal - Executive,Department of Labor,Office of the Chief Information Officer,Washington,DC,m-DOLCSIRC@dol.gov,DOL.GOV
+510,0,175,175,0.0,510,EMPLOYER.GOV,Federal - Executive,Department of Labor,Office of the Chief Information Officer,Washington,DC,m-DOLCSIRC@dol.gov,EMPLOYER.GOV
+511,9,525,534,0.016853932584269662,511,GOODJOBS.GOV,Federal - Executive,Department of Labor,Office of the Chief Information Officer,Washington,DC,m-dolscirc@dol.gov,GOODJOBS.GOV
+512,1,186,187,0.0053475935828877,512,GOVLOANS.GOV,Federal - Executive,Department of Labor,Office of the Chief Information Officer,Washington,DC,m-DOLCSIRC@dol.gov,GOVLOANS.GOV
+513,20,550,570,0.03508771929824561,513,HIREVETS.GOV,Federal - Executive,Department of Labor,Office of the Chief Information Officer,Washington,DC,m-DOLCSIRC@dol.gov,HIREVETS.GOV
+514,43,442,485,0.088659793814433,514,JOBCORPS.GOV,Federal - Executive,Department of Labor,Employment and Training Administration (ETA) - Office of Job Corps,Washington,DC,m-DOLCSIRC@dol.gov,JOBCORPS.GOV
+516,3,396,399,0.007518796992481203,516,MIGRANTWORKER.GOV,Federal - Executive,Department of Labor,Bureau of International Labor Affairs,Washington,DC,m-dolscirc@dol.gov,MIGRANTWORKER.GOV
+517,0,704,704,0.0,517,MSHA.GOV,Federal - Executive,Department of Labor,Office of the Chief Information Officer,Arlington,VA,m-DOLCSIRC@dol.gov,MSHA.GOV
+518,0,367,367,0.0,518,MSHASTANDDOWN.GOV,Federal - Executive,Department of Labor,Mine Safety and Health Administration,Washington,DC,m-dolscirc@dol.gov,MSHASTANDDOWN.GOV
+519,2,8,10,0.2,519,OSHA.GOV,Federal - Executive,Department of Labor,Office of the Chief Information Officer,Washington,DC,m-DOLCSIRC@dol.gov,OSHA.GOV
+521,3,396,399,0.007518796992481203,521,TRABAJADORMIGRANTE.GOV,Federal - Executive,Department of Labor,Bureau of International Labor Affairs,Washington,DC,m-dolscirc@dol.gov,TRABAJADORMIGRANTE.GOV
+522,13,383,396,0.03282828282828283,522,TRAININGPROVIDERRESULTS.GOV,Federal - Executive,Department of Labor,Office of the Chief Information Officer,Washington,DC,m-DOLCSIRC@dol.gov,TRAININGPROVIDERRESULTS.GOV
+523,2,443,445,0.0044943820224719105,523,UI.GOV,Federal - Executive,Department of Labor,Office of the Chief Information Officer,Washington,DC,M-DOLSCIRC@DOL.GOV,UI.GOV
+524,2,443,445,0.0044943820224719105,524,UNEMPLOYMENT.GOV,Federal - Executive,Department of Labor,Office of the Chief Information Officer,Washington,DC,M-DOLSCIRC@DOL.GOV,UNEMPLOYMENT.GOV
+526,6,494,500,0.012,526,VETERANS.GOV,Federal - Executive,Department of Labor,Office of the Chief Information Officer,Washington,DC,m-DOLCSIRC@dol.gov,VETERANS.GOV
+527,2,8,10,0.2,527,WHISTLEBLOWERS.GOV,Federal - Executive,Department of Labor,Office of the Chief Information Officer,Washington,DC,m-DOLCSIRC@dol.gov,WHISTLEBLOWERS.GOV
+528,17,741,758,0.022427440633245383,528,WORKCENTER.GOV,Federal - Executive,Department of Labor,Office of the Assistant Secretary for Administration & Management,Washington,DC,m-dolscirc@dol.gov,WORKCENTER.GOV
+529,3,202,205,0.014634146341463415,529,WORKER.GOV,Federal - Executive,Department of Labor,Office of the Chief Information Officer,Washington,DC,m-DOLCSIRC@dol.gov,WORKER.GOV
+530,4,174,178,0.02247191011235955,530,WRP.GOV,Federal - Executive,Department of Labor,Office of the Chief Information Officer,Washington,DC,m-DOLCSIRC@dol.gov,WRP.GOV
+531,8,828,836,0.009569377990430622,531,YOUTHRULES.GOV,Federal - Executive,Department of Labor,Office of the Chief Information Officer,Washington,DC,m-DOLCSIRC@dol.gov,YOUTHRULES.GOV
+539,3,10,13,0.23076923076923078,539,PEPFAR.GOV,Federal - Executive,Department of State,Bureau of Global Public Affairs (GPA),Washington,DC,VDPSubmission@state.gov,PEPFAR.GOV
+542,27,720,747,0.03614457831325301,542,STATE.GOV,Federal - Executive,Department of State,Bureau of Global Public Affairs (GPA),Washington,DC,VDPSubmission@state.gov,STATE.GOV
+543,2,85,87,0.022988505747126436,543,STATEOIG.GOV,Federal - Executive,Department of State,Office of the Inspector General,Arlington,VA,cirt@stateoig.gov,STATEOIG.GOV
+545,2,6,8,0.25,545,USASEANCONNECT.GOV,Federal - Executive,Department of State,U.S. - ASEAN Connect,Jakarta,Jakarta,VDPSubmission@state.gov,USASEANCONNECT.GOV
+546,27,720,747,0.03614457831325301,546,USCONSULATE.GOV,Federal - Executive,Department of State,Bureau of Global Public Affairs (GPA),Washington,DC,VDPSubmission@state.gov,USCONSULATE.GOV
+548,3,880,883,0.0033975084937712344,548,USEMBASSY.GOV,Federal - Executive,Department of State,Bureau of Global Public Affairs (GPA),Washington,DC,VDPSubmission@state.gov,USEMBASSY.GOV
+549,27,720,747,0.03614457831325301,549,USMISSION.GOV,Federal - Executive,Department of State,Bureau of Global Public Affairs (GPA),Washington,DC,VDPSubmission@state.gov,USMISSION.GOV
+550,5,391,396,0.012626262626262626,550,911.GOV,Federal - Executive,Department of Transportation,National Highway Traffic Safety Administration,Washington,DC,DOT-Cyber-Reporting@dot.gov,911.GOV
+552,40,610,650,0.06153846153846154,552,DISTRACTEDDRIVING.GOV,Federal - Executive,Department of Transportation,National Highway Traffic Safety Administration,Washington,DC,DOT-Cyber-Reporting@dot.gov,DISTRACTEDDRIVING.GOV
+553,18,326,344,0.05232558139534884,553,DISTRACTION.GOV,Federal - Executive,Department of Transportation,National Highway Traffic Safety Administration,Washington,DC,DOT-Cyber-Reporting@dot.gov,DISTRACTION.GOV
+556,4,334,338,0.011834319526627219,556,EMS.GOV,Federal - Executive,Department of Transportation,National Highway Traffic Safety Administration,Washington,DC,DOT-Cyber-Reporting@dot.gov,EMS.GOV
+563,18,491,509,0.03536345776031434,563,NHTSA.GOV,Federal - Executive,Department of Transportation,National Highway Traffic Safety Administration,Washington,DC,DOT-Cyber-Reporting@dot.gov,NHTSA.GOV
+565,15,286,301,0.04983388704318937,565,SAFECAR.GOV,Federal - Executive,Department of Transportation,U.S. Department of Transportation Office of the Chief Information Officer,Washington,DC,DOT-Cyber-Reporting@dot.gov,SAFECAR.GOV
+566,25,338,363,0.06887052341597796,566,SAFEOCS.GOV,Federal - Executive,Department of Transportation,Bureau of Transportation Statistics,Washington,DC,DOT-Cyber-Reporting@dot.gov,SAFEOCS.GOV
+567,15,286,301,0.04983388704318937,567,SAFERCAR.GOV,Federal - Executive,Department of Transportation,National Highway Traffic Safety Administration,Washington,DC,DOT-Cyber-Reporting@dot.gov,SAFERCAR.GOV
+568,28,451,479,0.05845511482254697,568,SAFERTRUCK.GOV,Federal - Executive,Department of Transportation,National Highway Traffic Safety Administration,Washington,DC,DOT-Cyber-Reporting@dot.gov,SAFERTRUCK.GOV
+570,17,267,284,0.05985915492957746,570,TRAFFICSAFETYMARKETING.GOV,Federal - Executive,Department of Transportation,National Highway Traffic Safety Administration,Washington,DC,DOT-Cyber-Reporting@dot.gov,TRAFFICSAFETYMARKETING.GOV
+573,2,152,154,0.012987012987012988,573,REACH.GOV,Federal - Executive,Department of Veterans Affairs,Department of Veterans Affairs - PREVENTS,Washington,DC,weareprevents@va.gov,REACH.GOV
+574,3,518,521,0.005758157389635317,574,VA.GOV,Federal - Executive,Department of Veterans Affairs,"Office of Information and Technology, IT Operations and Services (ITOPS)",Washington,DC,VAWebSecurity@va.gov,VA.GOV
+575,3,9,12,0.25,575,VAOIG.GOV,Federal - Executive,Department of Veterans Affairs,VA Office of Inspector General,Washington DC,DC,vacowebmao@va.gov,VAOIG.GOV
+576,3,518,521,0.005758157389635317,576,VETS.GOV,Federal - Executive,Department of Veterans Affairs,"Office of Information and Technology, IT Operations and Services (ITOPS)",Washington,DC,VAWebSecurity@va.gov,VETS.GOV
+577,3,173,176,0.017045454545454544,577,ACWI.GOV,Federal - Executive,Department of the Interior,Advisory Committee on Water Information,Reston,VA,security@usgs.gov,ACWI.GOV
+578,2,401,403,0.004962779156327543,578,ANSTASKFORCE.GOV,Federal - Executive,Department of the Interior,Aquatic Nuisance Species Task Force,Arlington,VA,soc@fws.gov,ANSTASKFORCE.GOV
+579,0,508,508,0.0,579,BIA.GOV,Federal - Executive,Department of the Interior,Bureau of Indian Affairs,Reston,VA,bia_cirt@bia.gov,BIA.GOV
+581,6,676,682,0.008797653958944282,581,BOEM.GOV,Federal - Executive,Department of the Interior,Minerals Management Service,Herndon,VA,bseecirc@bsee.gov,BOEM.GOV
+584,31,505,536,0.05783582089552239,584,BSEE.GOV,Federal - Executive,Department of the Interior,Minerals Management Service,Herndon,VA,bseecirc@bsee.gov,BSEE.GOV
+585,6,399,405,0.014814814814814815,585,BTFA.GOV,Federal - Executive,Department of the Interior,DOI - Bureau of Trust Funds Administration,Washington,DC,btfa_cybersecurity@btfa.gov,BTFA.GOV
+586,2,62,64,0.03125,586,CONSERVATION.GOV,Federal - Executive,Department of the Interior,U.S. Geological Survey,Reston,VA,security@doi.gov,CONSERVATION.GOV
+587,4,54,58,0.06896551724137931,587,CORALREEF.GOV,Federal - Executive,Department of the Interior,U.S. Geological Survey,Denver,CO,security@doi.gov,CORALREEF.GOV
+588,4,3,7,0.5714285714285714,588,CRITICALMINERALS.GOV,Federal - Executive,Department of the Interior,US Geological Survey,Reston,VA,security@doi.gov,CRITICALMINERALS.GOV
+590,7,672,679,0.010309278350515464,590,DOI.GOV,Federal - Executive,Department of the Interior,Office of the Chief Information Officer,Washington,DC,security@doi.gov,DOI.GOV
+591,3,9,12,0.25,591,DOIOIG.GOV,Federal - Executive,Department of the Interior,U.S. DEPARTMENT OF INTERIOR / OIG,Herndon,VA,christopher_rollins@doioig.gov,DOIOIG.GOV
+593,11,339,350,0.03142857142857143,593,EVERGLADESRESTORATION.GOV,Federal - Executive,Department of the Interior,Department of the Interior,Davie,FL,security@usgs.gov,EVERGLADESRESTORATION.GOV
+594,3,112,115,0.02608695652173913,594,EVERYKIDOUTDOORS.GOV,Federal - Executive,Department of the Interior,National Park Service,Washington,DC,NPS_CSIRT_Team@nps.gov,EVERYKIDOUTDOORS.GOV
+596,37,139,176,0.21022727272727273,596,FGDC.GOV,Federal - Executive,Department of the Interior,U.S. Geological Survey,Reston,VA,security@doi.gov,FGDC.GOV
+597,2,7,9,0.2222222222222222,597,FICOR.GOV,Federal - Executive,Department of the Interior,National Park Service,Washington,DC,NPS_CSIRT_Team@nps.gov,FICOR.GOV
+600,4,3,7,0.5714285714285714,600,FIRENET.GOV,Federal - Executive,Department of the Interior,National Wildfire Coordinating Group,Boise,ID,security@doi.gov,FIRENET.GOV
+602,10,625,635,0.015748031496062992,602,FWS.GOV,Federal - Executive,Department of the Interior,U.S. Fish and Wildlife Service,Lakewood,CO,soc@fws.gov,FWS.GOV
+603,2,731,733,0.002728512960436562,603,GCMRC.GOV,Federal - Executive,Department of the Interior,U.S. Geological Survey,Flagstaff,AZ,security@doi.gov,GCMRC.GOV
+606,0,508,508,0.0,606,INDIANAFFAIRS.GOV,Federal - Executive,Department of the Interior,Bureau of Indian Affairs,Reston,VA,bia_cirt@bia.gov,INDIANAFFAIRS.GOV
+607,7,672,679,0.010309278350515464,607,INTERIOR.GOV,Federal - Executive,Department of the Interior,National Business Center,Washington,DC,security@doi.gov,INTERIOR.GOV
+608,10,384,394,0.025380710659898477,608,INVASIVESPECIES.GOV,Federal - Executive,Department of the Interior,Department of the Interior,Washington,DC,security@doi.gov,INVASIVESPECIES.GOV
+610,22,411,433,0.050808314087759814,610,LACOAST.GOV,Federal - Executive,Department of the Interior,U.S. Geological Survey,Lafayette,LA,security@doi.gov,LACOAST.GOV
+611,3,9,12,0.25,611,LANDFIRE.GOV,Federal - Executive,Department of the Interior,U.S. Geological Survey,Sioux Falls,SD,security@doi.gov,LANDFIRE.GOV
+618,3,9,12,0.25,618,MRLC.GOV,Federal - Executive,Department of the Interior,U.S. Geological Survey,Sioux Falls,SD,security@doi.gov,MRLC.GOV
+619,3,9,12,0.25,619,MTBS.GOV,Federal - Executive,Department of the Interior,U.S. Geological Survey,Reston,VA,security@usgs.gov,MTBS.GOV
+620,5,779,784,0.006377551020408163,620,NATIONALMAP.GOV,Federal - Executive,Department of the Interior,U.S. Geological Survey,Reston,VA,security@usgs.gov,NATIONALMAP.GOV
+622,2,549,551,0.003629764065335753,622,NEMI.GOV,Federal - Executive,Department of the Interior,U.S. Geological Survey,Middleton,WI,security@usgs.gov,NEMI.GOV
+623,2,55,57,0.03508771929824561,623,NFPORS.GOV,Federal - Executive,Department of the Interior,National Fire Plan Operations & Reporting System,Washington,DC,security@doi.gov,NFPORS.GOV
+625,3,470,473,0.006342494714587738,625,NPS.GOV,Federal - Executive,Department of the Interior,National Park Service,Washington,DC,NPS_CSIRT_Team@nps.gov,NPS.GOV
+626,2,13,15,0.13333333333333333,626,ONHIR.GOV,Federal - Executive,Department of the Interior,Office of Navajo and Hopi Indian Relocation,Flagstaff,AZ,support@flagstaffit.com,ONHIR.GOV
+627,1,267,268,0.0037313432835820895,627,ONRR.GOV,Federal - Executive,Department of the Interior,Minerals Management Service,Herndon,VA,bseecirc@bsee.gov,ONRR.GOV
+629,16,411,427,0.03747072599531616,629,OSMRE.GOV,Federal - Executive,Department of the Interior,Office of Surface Mining,Washington,DC,OSM-Cyber-Security@osmre.gov,OSMRE.GOV
+631,9,389,398,0.022613065326633167,631,REPORTBAND.GOV,Federal - Executive,Department of the Interior,USGS Bird Banding Laboratory,Laurel,MD,security@usgs.gov,REPORTBAND.GOV
+632,16,592,608,0.02631578947368421,632,RIVERS.GOV,Federal - Executive,Department of the Interior,U.S. Fish and Wildlife Service,Burbank,WA,soc@fws.gov,RIVERS.GOV
+633,2,100,102,0.0196078431372549,633,SAFECOM.GOV,Federal - Executive,Department of the Interior,Aviation Management Directorate,Boise,ID,security@doi.gov,SAFECOM.GOV
+634,21,144,165,0.12727272727272726,634,SALMONRECOVERY.GOV,Federal - Executive,Department of the Interior,Bureau of Reclamation,Denver,CO,itsecurity@usbr.gov,SALMONRECOVERY.GOV
+635,6,155,161,0.037267080745341616,635,SCIENCEBASE.GOV,Federal - Executive,Department of the Interior,USGS/Denver Federal Center,Denver,CO,rmcneil@usgs.gov,SCIENCEBASE.GOV
+636,3,137,140,0.02142857142857143,636,SIERRAWILD.GOV,Federal - Executive,Department of the Interior,Yosemite National Park,Yosemite,CA,NPS_CSIRT_Team@nps.gov,SIERRAWILD.GOV
+638,7,1095,1102,0.006352087114337568,638,USGS.GOV,Federal - Executive,Department of the Interior,U.S. Geological Survey,Reston,VA,security@doi.gov,USGS.GOV
+639,9,322,331,0.027190332326283987,639,UTAHFIREINFO.GOV,Federal - Executive,Department of the Interior,Bureau of Land Management - Utah Fire Info Domain,Denver,CO,blm_it_security@blm.gov,UTAHFIREINFO.GOV
+640,28,1150,1178,0.023769100169779286,640,VOLCANO.GOV,Federal - Executive,Department of the Interior,US Geological Survey/Volcano Science Center,Vancouver,WA,mjrandall@usgs.gov,VOLCANO.GOV
+641,2,294,296,0.006756756756756757,641,VOLUNTEER.GOV,Federal - Executive,Department of the Interior,National Park Service,Washington,DC,NPS_CSIRT_Team@nps.gov,VOLUNTEER.GOV
+642,2,102,104,0.019230769230769232,642,WATERMONITOR.GOV,Federal - Executive,Department of the Interior,U.S. Geological Survey,Reston,VA,security@usgs.gov,WATERMONITOR.GOV
+643,8,225,233,0.034334763948497854,643,WLCI.GOV,Federal - Executive,Department of the Interior,U.S. Geological Survey,Denver,CO,security@usgs.gov,WLCI.GOV
+645,6,449,455,0.013186813186813187,645,AMERICATHEBEAUTIFULQUARTERS.GOV,Federal - Executive,Department of the Treasury,Department of the Treasury - U.S. Mint,Washington,DC,domainsecurity@treasury.gov,AMERICATHEBEAUTIFULQUARTERS.GOV
+646,1,73,74,0.013513513513513514,646,ASAP.GOV,Federal - Executive,Department of the Treasury,Department of the Treasury - FMS,Washington,DC,domainsecurity@treasury.gov,ASAP.GOV
+647,3,455,458,0.006550218340611353,647,AYUDACONMIBANCO.GOV,Federal - Executive,Department of the Treasury,Comptroller of the Currency,Washington,DC,domainsecurity@treasury.gov,AYUDACONMIBANCO.GOV
+648,3,455,458,0.006550218340611353,648,BANKANSWERS.GOV,Federal - Executive,Department of the Treasury,Comptroller of the Currency,Washington,DC,domainsecurity@treasury.gov,BANKANSWERS.GOV
+649,3,455,458,0.006550218340611353,649,BANKCUSTOMER.GOV,Federal - Executive,Department of the Treasury,Comptroller of the Currency,Washington,DC,domainsecurity@treasury.gov,BANKCUSTOMER.GOV
+650,3,455,458,0.006550218340611353,650,BANKCUSTOMERASSISTANCE.GOV,Federal - Executive,Department of the Treasury,Comptroller of the Currency,Washington,DC,domainsecurity@treasury.gov,BANKCUSTOMERASSISTANCE.GOV
+651,3,455,458,0.006550218340611353,651,BANKHELP.GOV,Federal - Executive,Department of the Treasury,Comptroller of the Currency,Washington,DC,domainsecurity@treasury.gov,BANKHELP.GOV
+652,3,7,10,0.3,652,BANKNET.GOV,Federal - Executive,Department of the Treasury,Comptroller of the Currency,Washington,DC,domainsecurity@treasury.gov,BANKNET.GOV
+655,6,400,406,0.014778325123152709,655,BONDPRO.GOV,Federal - Executive,Department of the Treasury,Bureau of the Public Debt,Washington,DC,domainsecurity@treasury.gov,BONDPRO.GOV
+656,5,53,58,0.08620689655172414,656,CCAC.GOV,Federal - Executive,Department of the Treasury,Citizens Coinage Advisory Committee (Mint),Washington,DC,domainsecurity@treasury.gov,CCAC.GOV
+657,11,465,476,0.023109243697478993,657,CDFIFUND.GOV,Federal - Executive,Department of the Treasury,CDFI,Washington,DC,domainsecurity@treasury.gov,CDFIFUND.GOV
+659,3,702,705,0.00425531914893617,659,COMPTROLLEROFTHECURRENCY.GOV,Federal - Executive,Department of the Treasury,Comptroller of the Currency,Washington,DC,domainsecurity@treasury.gov,COMPTROLLEROFTHECURRENCY.GOV
+660,2,435,437,0.004576659038901602,660,DIRECTOASUCUENTA.GOV,Federal - Executive,Department of the Treasury,Department of the Treasury - FMS,Washington,DC,domainsecurity@treasury.gov,DIRECTOASUCUENTA.GOV
+661,11,457,468,0.023504273504273504,661,EAGLECASH.GOV,Federal - Executive,Department of the Treasury,Bureau of the Fiscal Service,Washington,DC,domainsecurity@treasury.gov,EAGLECASH.GOV
+662,15,283,298,0.050335570469798654,662,EFTPS.GOV,Federal - Executive,Department of the Treasury,Department of the Treasury - IRS,Washington,DC,domainsecurity@treasury.gov,EFTPS.GOV
+663,2,8,10,0.2,663,ETA-FIND.GOV,Federal - Executive,Department of the Treasury,Department of the Treasury - FMS,Dallas,TX,domainsecurity@treasury.gov,ETA-FIND.GOV
+666,8,385,393,0.020356234096692113,666,FEDERALINVESTMENTS.GOV,Federal - Executive,Department of the Treasury,Bureau of the Public Debt,Pakersburg,WV,domainsecurity@treasury.gov,FEDERALINVESTMENTS.GOV
+668,8,385,393,0.020356234096692113,668,FEDINVEST.GOV,Federal - Executive,Department of the Treasury,Bureau of the Public Debt,Parkersburg,WV,domainsecurity@treasury.gov,FEDINVEST.GOV
+669,2,82,84,0.023809523809523808,669,FFB.GOV,Federal - Executive,Department of the Treasury,Departmental Offices ,Washington,DC,domainsecurity@treasury.gov,FFB.GOV
+670,16,426,442,0.03619909502262444,670,FINANCIALRESEARCH.GOV,Federal - Executive,Department of the Treasury,Office of Financial Research (OFR),Washington,DC,OFR_infosec@ofr.treasury.gov,FINANCIALRESEARCH.GOV
+671,100,1528,1628,0.06142506142506143,671,FINANCIALSTABILITY.GOV,Federal - Executive,Department of the Treasury,Department of the Treasury - DO,Washington,DC,domainsecurity@treasury.gov,FINANCIALSTABILITY.GOV
+673,4,532,536,0.007462686567164179,673,FSOC.GOV,Federal - Executive,Department of the Treasury,Department of the Treasury / FSOC,Washington,DC,domainsecurity@treasury.gov,FSOC.GOV
+674,2,435,437,0.004576659038901602,674,GODIRECT.GOV,Federal - Executive,Department of the Treasury,Department of the Treasury - FMS,Washington,DC,domainsecurity@treasury.gov,GODIRECT.GOV
+675,3,455,458,0.006550218340611353,675,HELPWITHMYBANK.GOV,Federal - Executive,Department of the Treasury,Comptroller of the Currency,Washington,DC,domainsecurity@treasury.gov,HELPWITHMYBANK.GOV
+676,3,455,458,0.006550218340611353,676,HELPWITHMYCHECKINGACCOUNT.GOV,Federal - Executive,Department of the Treasury,Comptroller of the Currency,Washington,DC,domainsecurity@treasury.gov,HELPWITHMYCHECKINGACCOUNT.GOV
+677,3,455,458,0.006550218340611353,677,HELPWITHMYCREDITCARD.GOV,Federal - Executive,Department of the Treasury,Comptroller of the Currency,Washington,DC,domainsecurity@treasury.gov,HELPWITHMYCREDITCARD.GOV
+678,3,455,458,0.006550218340611353,678,HELPWITHMYCREDITCARDBANK.GOV,Federal - Executive,Department of the Treasury,Comptroller of the Currency,Washington,DC,domainsecurity@treasury.gov,HELPWITHMYCREDITCARDBANK.GOV
+679,3,455,458,0.006550218340611353,679,HELPWITHMYMORTGAGE.GOV,Federal - Executive,Department of the Treasury,Comptroller of the Currency,Washington,DC,domainsecurity@treasury.gov,HELPWITHMYMORTGAGE.GOV
+680,3,455,458,0.006550218340611353,680,HELPWITHMYMORTGAGEBANK.GOV,Federal - Executive,Department of the Treasury,Comptroller of the Currency,Washington,DC,domainsecurity@treasury.gov,HELPWITHMYMORTGAGEBANK.GOV
+682,19,187,206,0.09223300970873786,682,IPP.GOV,Federal - Executive,Department of the Treasury,Department of the Treasury - FMS,McLean,VA,domainsecurity@treasury.gov,IPP.GOV
+683,13,834,847,0.015348288075560802,683,IRS.GOV,Federal - Executive,Department of the Treasury,Department of the Treasury - IRS,McLean,VA,domainsecurity@treasury.gov,IRS.GOV
+684,7,573,580,0.01206896551724138,684,IRSAUCTIONS.GOV,Federal - Executive,Department of the Treasury,TCS (IRS),McLean,VA,domainsecurity@treasury.gov,IRSAUCTIONS.GOV
+686,7,573,580,0.01206896551724138,686,IRSSALES.GOV,Federal - Executive,Department of the Treasury,TCS (IRS),McLean,VA,domainsecurity@treasury.gov,IRSSALES.GOV
+688,4,1,5,0.8,688,ITS.GOV,Federal - Executive,Department of the Treasury,Department of the Treasury - FMS,McLean,VA,domainsecurity@treasury.gov,ITS.GOV
+689,5,516,521,0.009596928982725527,689,MAKINGHOMEAFFORDABLE.GOV,Federal - Executive,Department of the Treasury,OCIO,Washington,DC,domainsecurity@treasury.gov,MAKINGHOMEAFFORDABLE.GOV
+690,5,516,521,0.009596928982725527,690,MHA.GOV,Federal - Executive,Department of the Treasury,Department of the Treasury - OCIO,Washington,DC,domainsecurity@treasury.gov,MHA.GOV
+692,2,37,39,0.05128205128205128,692,MONEYFACTORYSTORE.GOV,Federal - Executive,Department of the Treasury,Bureau of Engraving and Printing,Washington,DC,domainsecurity@treasury.gov,MONEYFACTORYSTORE.GOV
+695,3,216,219,0.0136986301369863,695,MYMONEY.GOV,Federal - Executive,Department of the Treasury,Department of the Treasury - OCIO,Washington,DC,domainsecurity@treasury.gov,MYMONEY.GOV
+698,3,7,10,0.3,698,NATIONALBANK.GOV,Federal - Executive,Department of the Treasury,Comptroller of the Currency,McLean,VA,domainsecurity@treasury.gov,NATIONALBANK.GOV
+699,3,455,458,0.006550218340611353,699,NATIONALBANKHELP.GOV,Federal - Executive,Department of the Treasury,Comptroller of the Currency,Washington,DC,domainsecurity@treasury.gov,NATIONALBANKHELP.GOV
+700,3,7,10,0.3,700,NATIONALBANKNET.GOV,Federal - Executive,Department of the Treasury,Comptroller of the Currency,Washington,DC,domainsecurity@treasury.gov,NATIONALBANKNET.GOV
+701,8,459,467,0.017130620985010708,701,NAVYCASH.GOV,Federal - Executive,Department of the Treasury,Department of the Treasury - FMS,McLean,VA,domainsecurity@treasury.gov,NAVYCASH.GOV
+702,3,702,705,0.00425531914893617,702,OCC.GOV,Federal - Executive,Department of the Treasury,Comptroller of the Currency,Washington,DC,domainsecurity@treasury.gov,OCC.GOV
+703,3,455,458,0.006550218340611353,703,OCCHELPS.GOV,Federal - Executive,Department of the Treasury,Comptroller of the Currency,Washington,DC,domainsecurity@treasury.gov,OCCHELPS.GOV
+705,3,702,705,0.00425531914893617,705,OTS.GOV,Federal - Executive,Department of the Treasury,Comptroller of the Currency,McLean,VA,domainsecurity@treasury.gov,OTS.GOV
+707,57,430,487,0.11704312114989733,707,PAY.GOV,Federal - Executive,Department of the Treasury,Department of the Treasury - FMS,Washington,DC,domainsecurity@treasury.gov,PAY.GOV
+709,16,434,450,0.035555555555555556,709,SAVINGSBOND.GOV,Federal - Executive,Department of the Treasury,Bureau of the Public Debt,Mclean,VA,domainsecurity@treasury.gov,SAVINGSBOND.GOV
+710,8,400,408,0.0196078431372549,710,SAVINGSBONDS.GOV,Federal - Executive,Department of the Treasury,Bureau of the Public Debt,McLean,VA,domainsecurity@treasury.gov,SAVINGSBONDS.GOV
+711,7,321,328,0.021341463414634148,711,SAVINGSBONDWIZARD.GOV,Federal - Executive,Department of the Treasury,Bureau of the Public Debt,Mclean,VA,domainsecurity@treasury.gov,SAVINGSBONDWIZARD.GOV
+712,3,379,382,0.007853403141361256,712,SIGPR.GOV,Federal - Executive,Department of the Treasury,Special IG for Pandemic Recovery,Washington,DC,domainsecurity@treasury.gov,SIGPR.GOV
+713,15,252,267,0.056179775280898875,713,SIGTARP.GOV,Federal - Executive,Department of the Treasury,Special Inspector General for the Troubled Asset Relief Program,Washington,DC,domainsecurity@treasury.gov,SIGTARP.GOV
+714,9,406,415,0.021686746987951807,714,SLGS.GOV,Federal - Executive,Department of the Treasury,Bureau of the Public Debt,Mclean,VA,domainsecurity@treasury.gov,SLGS.GOV
+715,16,434,450,0.035555555555555556,715,TAAPS.GOV,Federal - Executive,Department of the Treasury,Bureau of the Public Debt,Mclean,VA,domainsecurity@treasury.gov,TAAPS.GOV
+716,3,91,94,0.031914893617021274,716,TAX.GOV,Federal - Executive,Department of the Treasury,Department of the Treasury - IRS,McLean,VA,domainsecurity@treasury.gov,TAX.GOV
+718,3,9,12,0.25,718,TIGTA.GOV,Federal - Executive,Department of the Treasury,Treasury Inspector General for Tax Administration,Washington,DC,domainsecurity@treasury.gov,TIGTA.GOV
+721,10,597,607,0.016474464579901153,721,TREAS.GOV,Federal - Executive,Department of the Treasury,Department of the Treasury - DO,Washington,DC,domainsecurity@treasury.gov,TREAS.GOV
+722,1,56,57,0.017543859649122806,722,TREASLOCKBOX.GOV,Federal - Executive,Department of the Treasury,Department of the Treasury - FMS,Washington,DC,domainsecurity@treasury.gov,TREASLOCKBOX.GOV
+723,10,597,607,0.016474464579901153,723,TREASURY.GOV,Federal - Executive,Department of the Treasury,Department of the Treasury - OCIO,Washington,DC,domainsecurity@treasury.gov,TREASURY.GOV
+725,16,434,450,0.035555555555555556,725,TREASURYAUCTIONS.GOV,Federal - Executive,Department of the Treasury,Bureau of the Public Debt,Mclean,VA,domainsecurity@treasury.gov,TREASURYAUCTIONS.GOV
+726,16,434,450,0.035555555555555556,726,TREASURYDIRECT.GOV,Federal - Executive,Department of the Treasury,Bureau of the Public Debt,McLean,VA,domainsecurity@treasury.gov,TREASURYDIRECT.GOV
+728,6,347,353,0.0169971671388102,728,TREASURYHUNT.GOV,Federal - Executive,Department of the Treasury,Bureau of the Public Debt,Parkersburg,WV,domainsecurity@treasury.gov,TREASURYHUNT.GOV
+729,7,462,469,0.014925373134328358,729,TREASURYSCAMS.GOV,Federal - Executive,Department of the Treasury,Bureau of the Public Debt,Mclean,VA,domainsecurity@treasury.gov,TREASURYSCAMS.GOV
+734,25,955,980,0.025510204081632654,734,USASPENDING.GOV,Federal - Executive,Department of the Treasury,Department of the Treasury,Washington,DC,domainsecurity@treasury.gov,USASPENDING.GOV
+735,4,7,11,0.36363636363636365,735,USDEBITCARD.GOV,Federal - Executive,Department of the Treasury,Department of the Treasury - FMS,Mclean,VA,domainsecurity@treasury.gov,USDEBITCARD.GOV
+736,6,449,455,0.013186813186813187,736,USMINT.GOV,Federal - Executive,Department of the Treasury,Department of the Treasury - U.S. Mint,Washington,DC,domainsecurity@treasury.gov,USMINT.GOV
+737,10,597,607,0.016474464579901153,737,USTREAS.GOV,Federal - Executive,Department of the Treasury,TCS,McLean,VA,domainsecurity@treasury.gov,USTREAS.GOV
+738,6,375,381,0.015748031496062992,738,WIZARD.GOV,Federal - Executive,Department of the Treasury,Bureau of the Public Debt,Mclean,VA,domainsecurity@treasury.gov,WIZARD.GOV
+741,4,470,474,0.008438818565400843,741,DNI.GOV,Federal - Executive,Director of National Intelligence,"Office of Directorate of National Intelligence, Business Transformation Office",McLean,VA,(blank),DNI.GOV
+743,6,42,48,0.125,743,IARPA-IDEAS.GOV,Federal - Executive,Director of National Intelligence,Office of the Director of National Intelligence,Washington,DC,(blank),IARPA-IDEAS.GOV
+744,8,480,488,0.01639344262295082,744,IARPA.GOV,Federal - Executive,Director of National Intelligence,ODNI - IARPA,College Park,MD,(blank),IARPA.GOV
+745,15,403,418,0.03588516746411483,745,ICJOINTDUTY.GOV,Federal - Executive,Director of National Intelligence,Office of the Director of National Intelligence,Washington,DC,(blank),ICJOINTDUTY.GOV
+746,6,308,314,0.01910828025477707,746,INTEL.GOV,Federal - Executive,Director of National Intelligence,Office of the Director of National Intelligence,McLean,VA,(blank),INTEL.GOV
+748,6,308,314,0.01910828025477707,748,INTELLIGENCE.GOV,Federal - Executive,Director of National Intelligence,Office of Director of National Intelligence - Public Affairs Office,Washington,DC,(blank),INTELLIGENCE.GOV
+749,4,470,474,0.008438818565400843,749,ISE.GOV,Federal - Executive,Director of National Intelligence,"Office of the Program Manager, Information Sharing Environment, Office of the DNI",Washington ,DC,(blank),ISE.GOV
+751,7,555,562,0.012455516014234875,751,NCSC.GOV,Federal - Executive,Director of National Intelligence,National Counterintelligence and Security Center,Bethesda,MD,(blank),NCSC.GOV
+752,4,412,416,0.009615384615384616,752,NCTC.GOV,Federal - Executive,Director of National Intelligence,National Counterterrorism Center,Washington,DC,paulds3@nctc.gov,NCTC.GOV
+753,4,470,474,0.008438818565400843,753,ODNI.GOV,Federal - Executive,Director of National Intelligence,Office of Director of National Intelligence - Public Affairs Office,Washington,DC,(blank),ODNI.GOV
+756,26,628,654,0.039755351681957186,756,EAC.GOV,Federal - Executive,Election Assistance Commission,Election Assistance Commission,Silver Spring,MD,security@eac.gov,EAC.GOV
+757,5,634,639,0.00782472613458529,757,HELPAMERICAVOTE.GOV,Federal - Executive,Election Assistance Commission,Election Assistance Commission,Silver Spring,MD,security@eac.gov,HELPAMERICAVOTE.GOV
+758,14,1066,1080,0.012962962962962963,758,VOTEBYMAIL.GOV,Federal - Executive,Election Assistance Commission,Election Assistance Commission,Washington DC,DC,dkaristai@eac.gov,VOTEBYMAIL.GOV
+760,4,6,10,0.4,760,AIRNOW.GOV,Federal - Executive,Environmental Protection Agency,Environmental Protection Agency,Durham,NC,EPA-CISO@epa.gov,AIRNOW.GOV
+762,0,231,231,0.0,762,ENERGYSTAR.GOV,Federal - Executive,Environmental Protection Agency,Environmental Protection Agency,Washington,DC,infosec@epa.gov,ENERGYSTAR.GOV
+763,4,560,564,0.0070921985815602835,763,EPA.GOV,Federal - Executive,Environmental Protection Agency,Environmental Protection Agency,Research Triangle Park,NC,infosec@epa.gov,EPA.GOV
+764,3,9,12,0.25,764,EPAOIG.GOV,Federal - Executive,Environmental Protection Agency,EPA OIG,Washington,DC,OIG-OIT-IT-Security@epa.gov,EPAOIG.GOV
+765,12,527,539,0.022263450834879406,765,FEDCENTER.GOV,Federal - Executive,Environmental Protection Agency,Environmental Protection Agency,Washington,DC,EPA-CISO@epa.gov,FEDCENTER.GOV
+767,3,215,218,0.013761467889908258,767,FRTR.GOV,Federal - Executive,Environmental Protection Agency,Federal Remediation Roundtable,Omaha,NE,EPA-CISO@epa.gov,FRTR.GOV
+769,9,195,204,0.04411764705882353,769,GREENGOV.GOV,Federal - Executive,Environmental Protection Agency,Office of Federal Sustainability,Washington,DC,EPA-CISO@epa.gov,GREENGOV.GOV
+770,0,433,433,0.0,770,RELOCATEFEDS.GOV,Federal - Executive,Environmental Protection Agency,Environmental Protection Agency,Cincinnati,OH,epa-ciso@epa.gov,RELOCATEFEDS.GOV
+771,9,195,204,0.04411764705882353,771,SUSTAINABILITY.GOV,Federal - Executive,Environmental Protection Agency,Office of Federal Sustainability,Washington,DC,EPA-CISO@epa.gov,SUSTAINABILITY.GOV
+772,4,519,523,0.0076481835564053535,772,URBANWATERS.GOV,Federal - Executive,Environmental Protection Agency,Environmental Protection Agency,Washington,DC,EPA-CISO@epa.gov,URBANWATERS.GOV
+773,11,607,618,0.01779935275080906,773,EEOC.GOV,Federal - Executive,Equal Employment Opportunity Commission,Equal Employment Opportunity Commission,Washington,DC,vdp.disclosure@eeoc.gov,EEOC.GOV
+774,1,235,236,0.00423728813559322,774,AI.GOV,Federal - Executive,Executive Office of the President,Executive Office of the President,Washington,DC,crystal_l._partin@oa.eop.gov,AI.GOV
+775,0,293,293,0.0,775,BUDGET.GOV,Federal - Executive,Executive Office of the President,Office of Management and Budget,Washington,DC,melanie.l.wardrick@oa.eop.gov,BUDGET.GOV
+776,1,1790,1791,0.0005583472920156337,776,BUILD.GOV,Federal - Executive,Executive Office of the President,Office of Administration,Washington,DC,(blank),BUILD.GOV
+777,3,529,532,0.005639097744360902,777,BUILDBACKBETTER.GOV,Federal - Executive,Executive Office of the President,Executive Office of the President,"Washington,",DC,gsa-vulnerability-reports@gsa.gov,BUILDBACKBETTER.GOV
+779,1,621,622,0.001607717041800643,779,CLEANENERGY.GOV,Federal - Executive,Executive Office of the President,Executive Office of the President,Washington,DC,(blank),CLEANENERGY.GOV
+780,0,446,446,0.0,780,CRISISNEXTDOOR.GOV,Federal - Executive,Executive Office of the President,Executive Office of the President,Washington,DC,(blank),CRISISNEXTDOOR.GOV
+781,0,293,293,0.0,781,EARMARKS.GOV,Federal - Executive,Executive Office of the President,OMB,Washington,DC,(blank),EARMARKS.GOV
+784,3,529,532,0.005639097744360902,784,EOP.GOV,Federal - Executive,Executive Office of the President,Office of Administration,Washington,DC,melanie.l.wardrick@oa.eop.gov,EOP.GOV
+785,1,447,448,0.002232142857142857,785,INVERTIR.GOV,Federal - Executive,Executive Office of the President,White House Office,Washington,DC,dl.eop.cloudadmin@eop.gov,INVERTIR.GOV
+786,1,475,476,0.0021008403361344537,786,INVEST.GOV,Federal - Executive,Executive Office of the President,White House Office,Washington,DC,russell.a.barnes@oa.eop.gov,INVEST.GOV
+787,1,475,476,0.0021008403361344537,787,INVESTINAMERICA.GOV,Federal - Executive,Executive Office of the President,White House Office,Washington,DC,russell.a.barnes@oa.eop.gov,INVESTINAMERICA.GOV
+788,1,475,476,0.0021008403361344537,788,INVESTINGINAMERICA.GOV,Federal - Executive,Executive Office of the President,White House Office,Washington,DC,russell.a.barnes@oa.eop.gov,INVESTINGINAMERICA.GOV
+789,0,97,97,0.0,789,MAX.GOV,Federal - Executive,Executive Office of the President,"Office of Management and Budget, Budget Review Division",Washington,DC,(blank),MAX.GOV
+790,10,257,267,0.03745318352059925,790,NANO.GOV,Federal - Executive,Executive Office of the President,National Nanotechnology Coordination Office,Arlington,VA,security@nnco.nano.gov,NANO.GOV
+791,5,131,136,0.03676470588235294,791,NEPA.GOV,Federal - Executive,Executive Office of the President,Council on Environmental Quality,Washington,DC,melanie.l.wardrick@oa.eop.gov,NEPA.GOV
+792,0,293,293,0.0,792,OMB.GOV,Federal - Executive,Executive Office of the President,Executive Office of the President,Washington,DC,security@omb.gov,OMB.GOV
+793,1,304,305,0.003278688524590164,793,ONDCP.GOV,Federal - Executive,Executive Office of the President,Office of National Drug Control Policy,Washington,DC,dl.eop.cloudadmin@eop.gov,ONDCP.GOV
+794,0,350,350,0.0,794,OSTP.GOV,Federal - Executive,Executive Office of the President,Office of Science and Technology Policy - White House,Washington,DC,dl.eop.cloudadmin@eop.gov,OSTP.GOV
+798,2,512,514,0.0038910505836575876,798,PSLF.GOV,Federal - Executive,Executive Office of the President,Executive Office of the President,Washington,DC,(blank),PSLF.GOV
+799,2,512,514,0.0038910505836575876,799,PUBLICSERVICELOANFORGIVENESS.GOV,Federal - Executive,Executive Office of the President,Executive Office of the President,Washington,DC,(blank),PUBLICSERVICELOANFORGIVENESS.GOV
+800,12,311,323,0.03715170278637771,800,QUANTUM.GOV,Federal - Executive,Executive Office of the President,National Quantum Coordination Office (NQCO) ,Washington,DC,ramia@nitrd.gov,QUANTUM.GOV
+801,3,265,268,0.011194029850746268,801,REPROACCESS.GOV,Federal - Executive,Executive Office of the President,Executive Office of the President,Washington,DE,(blank),REPROACCESS.GOV
+802,3,265,268,0.011194029850746268,802,REPRODUCTIVEACCESS.GOV,Federal - Executive,Executive Office of the President,Executive Office of the President,Washington,DC,(blank),REPRODUCTIVEACCESS.GOV
+803,3,265,268,0.011194029850746268,803,REPRODUCTIVERIGHTS.GOV,Federal - Executive,Executive Office of the President,Executive Office of the President,Washington,DC,(blank),REPRODUCTIVERIGHTS.GOV
+804,3,265,268,0.011194029850746268,804,REPRORIGHTS.GOV,Federal - Executive,Executive Office of the President,Executive Office of the President,Washington,DC,(blank),REPRORIGHTS.GOV
+805,25,358,383,0.06527415143603134,805,UNITEDWESTAND.GOV,Federal - Executive,Executive Office of the President,Domestic Policy Council,Washington,DC,(blank),UNITEDWESTAND.GOV
+806,2,385,387,0.00516795865633075,806,USDIGITALSERVICE.GOV,Federal - Executive,Executive Office of the President,United States Digital Service,Washington,DC,security@usds.gov,USDIGITALSERVICE.GOV
+807,2,385,387,0.00516795865633075,807,USDS.GOV,Federal - Executive,Executive Office of the President,United States Digital Service,Washington,DC,security@usds.gov,USDS.GOV
+808,51,389,440,0.1159090909090909,808,USTR.GOV,Federal - Executive,Executive Office of the President,United States Trade Representative,Washington,DC,(blank),USTR.GOV
+809,4,529,533,0.0075046904315197,809,WH.GOV,Federal - Executive,Executive Office of the President,Office of Administration,Washington,DC,dl.eop.cloudadmin@eop.gov,WH.GOV
+810,2,529,531,0.003766478342749529,810,WHITEHOUSE.GOV,Federal - Executive,Executive Office of the President,White House,Washington,DC,dl.eop.cloudadmin@eop.gov,WHITEHOUSE.GOV
+811,1,304,305,0.003278688524590164,811,WHITEHOUSEDRUGPOLICY.GOV,Federal - Executive,Executive Office of the President,Executive Office of the President,Washington,DC,(blank),WHITEHOUSEDRUGPOLICY.GOV
+812,22,368,390,0.05641025641025641,812,EXIM.GOV,Federal - Executive,Export/Import Bank of the U.S.,Export-Import Bank of the United States,Washington,DC,soc_alerts@exim.gov,EXIM.GOV
+813,4,462,466,0.008583690987124463,813,FCA.GOV,Federal - Executive,Farm Credit Administration,Office of Information Technology,McLean,VA,security_vdp@fca.gov,FCA.GOV
+814,6,246,252,0.023809523809523808,814,FCSIC.GOV,Federal - Executive,Farm Credit Administration,Farm Credit System Insurance Corporation,McLean,VA,securityvdp@fcsic.gov,FCSIC.GOV
+815,2,8,10,0.2,815,ACCEDEAINTERNET.GOV,Federal - Executive,Federal Communications Commission,Federal Communications Commission,Washington,DC,NSOC-monitor@fcc.gov,ACCEDEAINTERNET.GOV
+816,3,624,627,0.004784688995215311,816,ACPBENEFIT.GOV,Federal - Executive,Federal Communications Commission,Office of the Managing Director,Washington,DC,nsoc-monitor@fcc.gov,ACPBENEFIT.GOV
+817,3,624,627,0.004784688995215311,817,AFFORDABLECONNECTIVITY.GOV,Federal - Executive,Federal Communications Commission,Office of the Managing Director,Washington,DC,nsoc-monitor@fcc.gov,AFFORDABLECONNECTIVITY.GOV
+819,4,1,5,0.8,819,FCC.GOV,Federal - Executive,Federal Communications Commission,Federal Communications Commission,Washington,DC,nsoc-monitor@fcc.gov,FCC.GOV
+820,2,8,10,0.2,820,GETINTERNET.GOV,Federal - Executive,Federal Communications Commission,Federal Communications Commission,Washington,DC,Russell.A.Barnes@oa.eop.gov,GETINTERNET.GOV
+822,6,837,843,0.0071174377224199285,822,FDIC.GOV,Federal - Executive,Federal Deposit Insurance Corporation,Federal Deposit Insurance Corporation,Arlington,VA,NetworkOps@fdic.gov,FDIC.GOV
+825,3,9,12,0.25,825,FDICOIG.GOV,Federal - Executive,Federal Deposit Insurance Corporation,Federal Deposit Insurance Corporation,Washington,DC,NetworkOps@fdic.gov,FDICOIG.GOV
+826,8,647,655,0.012213740458015267,826,FDICSEGURO.GOV,Federal - Executive,Federal Deposit Insurance Corporation,Federal Deposit Insurance Corporation,Arlington,VA,NetworkOps@fdic.gov,FDICSEGURO.GOV
+829,5,730,735,0.006802721088435374,829,FEC.GOV,Federal - Executive,Federal Election Commission,Federal Election Commission,Washington,DC,FECSec@fec.gov,FEC.GOV
+830,3,459,462,0.006493506493506494,830,FERC.GOV,Federal - Executive,Federal Energy Regulatory Commission,Federal Energy Regulatory Commission,Washington,DC,soc@ferc.gov,FERC.GOV
+831,28,402,430,0.06511627906976744,831,FHFA.GOV,Federal - Executive,Federal Housing Finance Agency,Federal Housing Finance Agency,Washington,DC,domainsecurity@fhfa.gov,FHFA.GOV
+832,3,7,10,0.3,832,FHFAOIG.GOV,Federal - Executive,Federal Housing Finance Agency,Federal Housing Finance Agency Office of Inspector General ,Washington,DC,ReportAbuse@fhfaoig.gov,FHFAOIG.GOV
+834,66,326,392,0.1683673469387755,834,FLRA.GOV,Federal - Executive,Federal Labor Relations Authority,Federal Labor Relations Authority,Washington,DC,itsec@flra.gov,FLRA.GOV
+836,6,186,192,0.03125,836,ADR.GOV,Federal - Executive,Federal Mediation and Conciliation Service,Office of Conflict Management and Prevention,Washington,DC,security@fmcs.gov,ADR.GOV
+837,13,605,618,0.021035598705501618,837,FMCS.GOV,Federal - Executive,Federal Mediation and Conciliation Service,Federal Mediation and Conciliation Service,Washington,DC,security@fmcs.gov,FMCS.GOV
+841,24,467,491,0.048879837067209775,841,BILLETES.GOV,Federal - Executive,Federal Reserve Board of Governors,Federal Reserve Board of Governors,Washington,DC,charles.b.young@frb.gov,BILLETES.GOV
+842,2,85,87,0.022988505747126436,842,FBIIC.GOV,Federal - Executive,Federal Reserve Board of Governors,The Financial and Banking Information Infrastructure Committee,Washington,DC,charles.b.young@frb.gov,FBIIC.GOV
+843,4,559,563,0.007104795737122558,843,FEDERALRESERVE.GOV,Federal - Executive,Federal Reserve Board of Governors,Federal Reserve Bank,Washington,DC,charles.b.young@frb.gov,FEDERALRESERVE.GOV
+844,2,178,180,0.011111111111111112,844,FEDERALRESERVECONSUMERHELP.GOV,Federal - Executive,Federal Reserve Board of Governors,Board of Governors of the Federal Reserve,Washington,DC,charles.b.young@frb.gov,FEDERALRESERVECONSUMERHELP.GOV
+845,17,213,230,0.07391304347826087,845,FEDPARTNERSHIP.GOV,Federal - Executive,Federal Reserve Board of Governors,Federal Reserve Board of Governors,Washington,DC,charles.b.young@frb.gov,FEDPARTNERSHIP.GOV
+847,13,120,133,0.09774436090225563,847,FFIEC.GOV,Federal - Executive,Federal Reserve Board of Governors,Federal Financial Institutions Examination Council ,Washington,DC,charles.b.young@frb.gov,FFIEC.GOV
+851,24,448,472,0.05084745762711865,851,USCURRENCY.GOV,Federal - Executive,Federal Reserve Board of Governors,Federal Reserve Board of Governors,Washington,DC,external.incident.reporting@frb.gov,USCURRENCY.GOV
+852,7,367,374,0.01871657754010695,852,EXPLORETSP.GOV,Federal - Executive,Federal Retirement Thrift Investment Board,Office of Technology Services,Washington,DC,VulnerabilityDisclosure@frtib.gov,EXPLORETSP.GOV
+853,0,293,293,0.0,853,FRTIB.GOV,Federal - Executive,Federal Retirement Thrift Investment Board,Office of Technology Services,Washington,DC,VulnerabilityDisclosure@frtib.gov,FRTIB.GOV
+855,7,367,374,0.01871657754010695,855,TSP.GOV,Federal - Executive,Federal Retirement Thrift Investment Board,Office of Technology Services,Washington,DC,VulnerabilityDisclosure@frtib.gov,TSP.GOV
+857,1,669,670,0.0014925373134328358,857,ALERTAENLINEA.GOV,Federal - Executive,Federal Trade Commission,Division of Consumer & Business Education (DCBE),Washington,DC,security@ftc.gov,ALERTAENLINEA.GOV
+858,2,100,102,0.0196078431372549,858,CONSUMER.GOV,Federal - Executive,Federal Trade Commission,Division of Consumer & Business Education (DCBE),Washington,DC,security@ftc.gov,CONSUMER.GOV
+859,10,27,37,0.2702702702702703,859,CONSUMERSENTINEL.GOV,Federal - Executive,Federal Trade Commission,Division of Consumer Response & Operations (DCRO),Washington,DC,security@ftc.gov,CONSUMERSENTINEL.GOV
+860,2,100,102,0.0196078431372549,860,CONSUMIDOR.GOV,Federal - Executive,Federal Trade Commission,Division of Consumer & Business Education (DCBE),Washington,DC,security@ftc.gov,CONSUMIDOR.GOV
+861,2,96,98,0.02040816326530612,861,DONOTCALL.GOV,Federal - Executive,Federal Trade Commission,Division of Consumer Response & Operations (DCRO),Washington,DC,security@ftc.gov,DONOTCALL.GOV
+862,7,805,812,0.008620689655172414,862,DONTSERVETEENS.GOV,Federal - Executive,Federal Trade Commission,Division of Consumer & Business Education (DCBE),Washington,DC,security@ftc.gov,DONTSERVETEENS.GOV
+863,11,315,326,0.03374233128834356,863,ECONSUMER.GOV,Federal - Executive,Federal Trade Commission,Office of Internal Affairs (OIA),Washington,DC,security@ftc.gov,ECONSUMER.GOV
+864,1,689,690,0.0014492753623188406,864,FTC.GOV,Federal - Executive,Federal Trade Commission,Office of Public Affairs (OPA),Washington,DC,security@ftc.gov,FTC.GOV
+865,1,966,967,0.001034126163391934,865,HSR.GOV,Federal - Executive,Federal Trade Commission,Premerger Notification Office (PNO),Washington,DC,security@ftc.gov,HSR.GOV
+866,44,113,157,0.2802547770700637,866,IDENTITYTHEFT.GOV,Federal - Executive,Federal Trade Commission,Division of Consumer Response & Operations (DCRO),Washington,DC,security@ftc.gov,IDENTITYTHEFT.GOV
+867,44,113,157,0.2802547770700637,867,IDTHEFT.GOV,Federal - Executive,Federal Trade Commission,Division of Consumer Response & Operations (DCRO),Washington,DC,security@ftc.gov,IDTHEFT.GOV
+868,21,279,300,0.07,868,MILITARYCONSUMER.GOV,Federal - Executive,Federal Trade Commission,Division of Consumer & Business Education (DCBE),Washington,DC,security@ftc.gov,MILITARYCONSUMER.GOV
+869,3,673,676,0.004437869822485207,869,ONGUARDONLINE.GOV,Federal - Executive,Federal Trade Commission,Division of Consumer & Business Education (DCBE),Washington,DC,security@ftc.gov,ONGUARDONLINE.GOV
+871,44,103,147,0.29931972789115646,871,ROBODEIDENTIDAD.GOV,Federal - Executive,Federal Trade Commission,Division of Consumer Response & Operations (DCRO),Washington,DC,security@ftc.gov,ROBODEIDENTIDAD.GOV
+872,1,685,686,0.0014577259475218659,872,SENTINEL.GOV,Federal - Executive,Federal Trade Commission,Division of Consumer Response & Operations (DCRO),Washington,DC,security@ftc.gov,SENTINEL.GOV
+873,0,359,359,0.0,873,18F.GOV,Federal - Executive,General Services Administration,"GSA,FAS,Technology Transformation Service",Washington,DC,gsa-vulnerability-reports@gsa.gov,18F.GOV
+874,28,360,388,0.07216494845360824,874,400YAAHC.GOV,Federal - Executive,General Services Administration,400 Years of African American History Commission,Washington,DC,gsa-vulnerability-reports@gsa.gov,400YAAHC.GOV
+875,0,495,495,0.0,875,ACCESSIBILITY.GOV,Federal - Executive,General Services Administration,"GSA, IC, OGP Web Portfolio",Washington,DC,gsa-vulnerability-reports@gsa.gov,ACCESSIBILITY.GOV
+876,7,579,586,0.011945392491467578,876,ACQUISITION.GOV,Federal - Executive,General Services Administration,"GSA, IC, Acquisition",Arlington,VA,gsa-vulnerability-reports@gsa.gov,ACQUISITION.GOV
+877,3,282,285,0.010526315789473684,877,ACQUISITIONGATEWAY.GOV,Federal - Executive,General Services Administration,"GSA, FAS, Office of Enterprise Strategy Management",Washington,DC,gsa-vulnerability-reports@gsa.gov,ACQUISITIONGATEWAY.GOV
+879,4,463,467,0.008565310492505354,879,BUSINESSUSA.GOV,Federal - Executive,General Services Administration,"GSA,FAS,Technology Transformation Service",Washington,DC,gsa-vulnerability-reports@gsa.gov,BUSINESSUSA.GOV
+880,2,327,329,0.0060790273556231,880,BUYACCESSIBLE.GOV,Federal - Executive,General Services Administration,"GSA, IC, OGP Web Portolio",Washington,DC,gsa-vulnerability-reports@gsa.gov,BUYACCESSIBLE.GOV
+881,0,402,402,0.0,881,BUYAMERICAN.GOV,Federal - Executive,General Services Administration,"GSA, FAS, Acquisition",Washington,DC,gsa-vulnerability-reports@gsa.gov,BUYAMERICAN.GOV
+882,4,752,756,0.005291005291005291,882,CAO.GOV,Federal - Executive,General Services Administration,"GSA, IC, Acquisition",Washington,DC,gsa-vulnerability-reports@gsa.gov,CAO.GOV
+883,3,235,238,0.012605042016806723,883,CBCA.GOV,Federal - Executive,General Services Administration,Civilian Board of Contract Appeals,Washington,DC,gsa-vulnerability-reports@gsa.gov,CBCA.GOV
+884,12,485,497,0.02414486921529175,884,CDO.GOV,Federal - Executive,General Services Administration,General Services Administration,Washington,DC,gsa-vulnerability-reports@gsa.gov,CDO.GOV
+885,2,208,210,0.009523809523809525,885,CFO.GOV,Federal - Executive,General Services Administration,"GSA, IC, OGP Web Portfolio",Washington,DC,gsa-vulnerability-reports@gsa.gov,CFO.GOV
+886,3,1584,1587,0.001890359168241966,886,CHALLENGE.GOV,Federal - Executive,General Services Administration,"GSA,FAS,Technology Transformation Service",Washington,DC,gsa-vulnerability-reports@gsa.gov,CHALLENGE.GOV
+887,4,341,345,0.011594202898550725,887,CIO.GOV,Federal - Executive,General Services Administration,"GSA, CIO.GOV",Washington,DC,gsa-vulnerability-reports@gsa.gov,CIO.GOV
+888,9,208,217,0.041474654377880185,888,CITIZENSCIENCE.GOV,Federal - Executive,General Services Administration,"GSA,FAS,Technology Transformation Service",Washington,DC,gsa-vulnerability-reports@gsa.gov,CITIZENSCIENCE.GOV
+889,2,428,430,0.004651162790697674,889,CLOUD.GOV,Federal - Executive,General Services Administration,"GSA,FAS,Technology Transformation Service",Washington,DC,gsa-vulnerability-reports@gsa.gov,CLOUD.GOV
+890,1,213,214,0.004672897196261682,890,CODE.GOV,Federal - Executive,General Services Administration,"GSA,FAS,Technology Transformation Service",Washington,DC,gsa-vulnerability-reports@gsa.gov,CODE.GOV
+891,0,237,237,0.0,891,COMPUTERSFORLEARNING.GOV,Federal - Executive,General Services Administration,"GSA, FAS, ClearPath",Arlington,VA,gsa-vulnerability-reports@gsa.gov,COMPUTERSFORLEARNING.GOV
+892,3,676,679,0.004418262150220913,892,CONSUMERACTION.GOV,Federal - Executive,General Services Administration,"GSA,FAS,Technology Transformation Service",Washington,DC,gsa-vulnerability-reports@gsa.gov,CONSUMERACTION.GOV
+893,39,89,128,0.3046875,893,CONTRACTDIRECTORY.GOV,Federal - Executive,General Services Administration,"GSA, FAS, FPDS",Arlington,VA,gsa-vulnerability-reports@gsa.gov,CONTRACTDIRECTORY.GOV
+894,1,226,227,0.004405286343612335,894,CPARS.GOV,Federal - Executive,General Services Administration,"GSA, FAS, System for Award Management",Washington,DC,gsa-vulnerability-reports@gsa.gov,CPARS.GOV
+896,2,328,330,0.006060606060606061,896,DATA.GOV,Federal - Executive,General Services Administration,"GSA,FAS,Technology Transformation Service",Washington,DC,gsa-vulnerability-reports@gsa.gov,DATA.GOV
+897,0,660,660,0.0,897,DIGITAL.GOV,Federal - Executive,General Services Administration,"GSA,FAS,Technology Transformation Service",Washington,DC,gsa-vulnerability-reports@gsa.gov,DIGITAL.GOV
+898,1,130,131,0.007633587786259542,898,DIGITALDASHBOARD.GOV,Federal - Executive,General Services Administration,"GSA, IC, OGP Web Portfolio",Washington,DC,gsa-vulnerability-reports@gsa.gov,DIGITALDASHBOARD.GOV
+899,0,660,660,0.0,899,DIGITALGOV.GOV,Federal - Executive,General Services Administration,"GSA,FAS,Technology Transformation Service",Washington,DC,gsa-vulnerability-reports@gsa.gov,DIGITALGOV.GOV
+900,2,473,475,0.004210526315789474,900,ECPIC.GOV,Federal - Executive,General Services Administration,"GSA, FAS, ECPIC",Washington,DC,gsa-vulnerability-reports@gsa.gov,ECPIC.GOV
+901,1,244,245,0.004081632653061225,901,ESRS.GOV,Federal - Executive,General Services Administration,"GSA, FAS, System for Award Management",Arlington,VA,gsa-vulnerability-reports@gsa.gov,ESRS.GOV
+902,5,421,426,0.011737089201877934,902,EVALUATION.GOV,Federal - Executive,General Services Administration,Office of Government-wide Policy,Washington,DC,gsa-vulnerability-reports@gsa.gov,EVALUATION.GOV
+903,1,243,244,0.004098360655737705,903,FAC.GOV,Federal - Executive,General Services Administration,"GSA,FAS,Technology Transformation Service",Washington,DC,fac@gsa.gov,FAC.GOV
+904,1,787,788,0.0012690355329949238,904,FACA.GOV,Federal - Executive,General Services Administration,"GSA, IDI, ECAS II",Washington,DC,gsa-vulnerability-reports@gsa.gov,FACA.GOV
+905,2,298,300,0.006666666666666667,905,FACADATABASE.GOV,Federal - Executive,General Services Administration,"GSA, IDI, Enterprise Application Services",Washington,DC,gsa-vulnerability-reports@gsa.gov,FACADATABASE.GOV
+906,7,858,865,0.008092485549132947,906,FAI.GOV,Federal - Executive,General Services Administration,"GSA, IC, FAI",Washington,DC,gsa-vulnerability-reports@gsa.gov,FAI.GOV
+907,1,140,141,0.0070921985815602835,907,FAPIIS.GOV,Federal - Executive,General Services Administration,"GSA, IQ, IAE",Washington,DC,gsa-vulnerability-reports@gsa.gov,FAPIIS.GOV
+908,9,1382,1391,0.006470165348670022,908,FBF.GOV,Federal - Executive,General Services Administration,"GSA, IQ-CAP",Washington,DC,gsa-vulnerability-reports@gsa.gov,FBF.GOV
+909,0,239,239,0.0,909,FBO.GOV,Federal - Executive,General Services Administration,"GSA, IC, Acquisition",Arlington,VA,gsa-vulnerability-reports@gsa.gov,FBO.GOV
+910,6,342,348,0.017241379310344827,910,FCSM.GOV,Federal - Executive,General Services Administration,General Services Administration ,Washington,DC,gsa-vulnerability-reports@gsa.gov,FCSM.GOV
+911,3,77,80,0.0375,911,FDMS.GOV,Federal - Executive,General Services Administration,"GSA, IQ, eRulemaking",Washington,DC,gsa-vulnerability-reports@gsa.gov,FDMS.GOV
+912,0,873,873,0.0,912,FEDIDCARD.GOV,Federal - Executive,General Services Administration,"GSA, IQ, CAT",Washington,DC,gsa-vulnerability-reports@gsa.gov,FEDIDCARD.GOV
+914,1,347,348,0.0028735632183908046,914,FEDRAMP.GOV,Federal - Executive,General Services Administration,"GSA,FAS,Technology Transformation Service",Washington,DC,gsa-vulnerability-reports@gsa.gov,FEDRAMP.GOV
+915,1,869,870,0.0011494252873563218,915,FEDROOMS.GOV,Federal - Executive,General Services Administration,"GSA, IDI, ECAS II",Arlington,VA,gsa-vulnerability-reports@gsa.gov,FEDROOMS.GOV
+916,3,676,679,0.004418262150220913,916,FIRSTGOV.GOV,Federal - Executive,General Services Administration,"GSA,FAS,Technology Transformation Service",Washington,DC,gsa-vulnerability-reports@gsa.gov,FIRSTGOV.GOV
+918,6,623,629,0.009538950715421303,918,FMI.GOV,Federal - Executive,General Services Administration,"GSA, IC, OGP WebPortfolio",Washington,DC,gsa-vulnerability-reports@gsa.gov,FMI.GOV
+919,5,269,274,0.01824817518248175,919,FORMS.GOV,Federal - Executive,General Services Administration,"GSA,FAS,Technology Transformation Service",Washington,DC,gsa-vulnerability-reports@gsa.gov,FORMS.GOV
+920,11,338,349,0.03151862464183381,920,FPC.GOV,Federal - Executive,General Services Administration,"GSA, TTS, Federalist",Washington,DC,gsa-vulnerability-reports@gsa.gov,FPC.GOV
+921,13,304,317,0.04100946372239748,921,FPDS.GOV,Federal - Executive,General Services Administration,"GSA, IQ-FPDS-FPDS Portal",Arlington,VA,gsa-vulnerability-reports@gsa.gov,FPDS.GOV
+925,16,679,695,0.02302158273381295,925,FSD.GOV,Federal - Executive,General Services Administration,"GSA, IQ-FSD-FSD Portal",Arlington,VA,gsa-vulnerability-reports@gsa.gov,FSD.GOV
+926,4,255,259,0.015444015444015444,926,FSRS.GOV,Federal - Executive,General Services Administration,"GSA, IQ-ESRS-FSRS",Crystal City,VA,gsa-vulnerability-reports@gsa.gov,FSRS.GOV
+927,3,722,725,0.004137931034482759,927,GOBIERNOUSA.GOV,Federal - Executive,General Services Administration,"GSA,FAS,Technology Transformation Service",Washington,DC,gsa-vulnerability-reports@gsa.gov,GOBIERNOUSA.GOV
+928,3,918,921,0.003257328990228013,928,GSA.GOV,Federal - Executive,General Services Administration,"GSA, IDI, ECAS II",Washington,DC,gsa-vulnerability-reports@gsa.gov,GSA.GOV
+929,36,1108,1144,0.03146853146853147,929,GSAADVANTAGE.GOV,Federal - Executive,General Services Administration,"GSA, IQ-GSAAdvantage-Main",Washington,DC,gsa-vulnerability-reports@gsa.gov,GSAADVANTAGE.GOV
+930,0,486,486,0.0,930,GSAAUCTIONS.GOV,Federal - Executive,General Services Administration,"GSA, IQ-SASy-GSAAuctions",Washington,DC,gsa-vulnerability-reports@gsa.gov,GSAAUCTIONS.GOV
+931,2,239,241,0.008298755186721992,931,GSAFLEET.GOV,Federal - Executive,General Services Administration,General Services Administration,Washington DC,DC,esther.ankomah@gsa.gov,GSAFLEET.GOV
+932,2,354,356,0.0056179775280898875,932,GSAIG.GOV,Federal - Executive,General Services Administration,GSA Office of Inspector General,Washington,DC,scott.nelson@gsaig.gov,GSAIG.GOV
+934,8,32,40,0.2,934,GSAXCESS.GOV,Federal - Executive,General Services Administration,"GSA, IQ, Clearpath",Arlington,VA,gsa-vulnerability-reports@gsa.gov,GSAXCESS.GOV
+935,2,13,15,0.13333333333333333,935,IDENTITYSANDBOX.GOV,Federal - Executive,General Services Administration,"GSA,FAS,Technology Transformation Service",Washington,DC,gsa-vulnerability-reports@gsa.gov,IDENTITYSANDBOX.GOV
+936,4,846,850,0.004705882352941176,936,IDMANAGEMENT.GOV,Federal - Executive,General Services Administration,"GSA, IC, OGP Web Portfolio",Washington,DC,gsa-vulnerability-reports@gsa.gov,IDMANAGEMENT.GOV
+937,0,372,372,0.0,937,INFO.GOV,Federal - Executive,General Services Administration,"GSA,FAS,Technology Transformation Service",Washington,DC,gsa-vulnerability-reports@gsa.gov,INFO.GOV
+938,0,660,660,0.0,938,INNOVATION.GOV,Federal - Executive,General Services Administration,"GSA,FAS,Technology Transformation Service",Washington,DC,gsa-vulnerability-reports@gsa.gov,INNOVATION.GOV
+939,5,334,339,0.014749262536873156,939,ITDASHBOARD.GOV,Federal - Executive,General Services Administration,"GSA, Office of Government-wide Policy",Washington,DC,gsa-vulnerability-reports@gsa.gov,ITDASHBOARD.GOV
+940,4,469,473,0.008456659619450317,940,KIDS.GOV,Federal - Executive,General Services Administration,"GSA,FAS,Technology Transformation Service",Washington,DC,gsa-vulnerability-reports@gsa.gov,KIDS.GOV
+941,0,220,220,0.0,941,LOGIN.GOV,Federal - Executive,General Services Administration,"GSA,FAS,Technology Transformation Service",Washington,DC,gsa-vulnerability-reports@gsa.gov,LOGIN.GOV
+942,0,402,402,0.0,942,MADEINAMERICA.GOV,Federal - Executive,General Services Administration,"GSA,FAS,Technology Transformation Service",Washington,DC,gsa-vulnerability-reports@gsa.gov,MADEINAMERICA.GOV
+944,0,173,173,0.0,944,NOTIFY.GOV,Federal - Executive,General Services Administration,TTS Public Benefits Studio,Washington,DC,timothy.lowden@gsa.gov,NOTIFY.GOV
+945,2,188,190,0.010526315789473684,945,PAYMENTACCURACY.GOV,Federal - Executive,General Services Administration,General Services Administration,Washington,DC,gsa-vulnerability-reports@gsa.gov,PAYMENTACCURACY.GOV
+947,2,502,504,0.003968253968253968,947,PERFORMANCE.GOV,Federal - Executive,General Services Administration,"GSA,FAS,Technology Transformation Service",Washington,DC,gsa-vulnerability-reports@gsa.gov,PERFORMANCE.GOV
+948,4,537,541,0.0073937153419593345,948,PIC.GOV,Federal - Executive,General Services Administration,"GSA, IC, OGP Web Portfolio",Washington,DC,gsa-vulnerability-reports@gsa.gov,PIC.GOV
+949,1,307,308,0.003246753246753247,949,PIF.GOV,Federal - Executive,General Services Administration,"GSA,FAS,Technology Transformation Service",Washington,DC,gsa-vulnerability-reports@gsa.gov,PIF.GOV
+952,5,220,225,0.022222222222222223,952,PLAINLANGUAGE.GOV,Federal - Executive,General Services Administration,"GSA,FAS,Technology Transformation Service",Washington,DC,gsa-vulnerability-reports@gsa.gov,PLAINLANGUAGE.GOV
+953,3,225,228,0.013157894736842105,953,PPMS.GOV,Federal - Executive,General Services Administration,General Services Administration,Washington,DC,gsa-vulnerability-reports@gsa.gov,PPMS.GOV
+954,1,307,308,0.003246753246753247,954,PRESIDENTIALINNOVATIONFELLOWS.GOV,Federal - Executive,General Services Administration,"GSA,FAS,Technology Transformation Service",Washington,DC,gsa-vulnerability-reports@gsa.gov,PRESIDENTIALINNOVATIONFELLOWS.GOV
+956,7,368,375,0.018666666666666668,956,REALESTATESALES.GOV,Federal - Executive,General Services Administration,"GSA, FAS, SASy",Washington,DC,gsa-vulnerability-reports@gsa.gov,REALESTATESALES.GOV
+957,7,224,231,0.030303030303030304,957,REALPROPERTYPROFILE.GOV,Federal - Executive,General Services Administration,"GSA, IDI,EAS",Washington,DC,gsa-vulnerability-reports@gsa.gov,REALPROPERTYPROFILE.GOV
+958,6,731,737,0.008141112618724558,958,REGINFO.GOV,Federal - Executive,General Services Administration,"GSA, IC, ROCIS",Washington,DC,gsa-vulnerability-reports@gsa.gov,REGINFO.GOV
+959,14,274,288,0.04861111111111111,959,REGULATIONS.GOV,Federal - Executive,General Services Administration,"GSA, IQ, eRulemaking",Washington,DC,gsa-vulnerability-reports@gsa.gov,REGULATIONS.GOV
+960,2,163,165,0.012121212121212121,960,REPORTING.GOV,Federal - Executive,General Services Administration,"GSA, IDI, EAS-SF",Washington,DC,gsa-vulnerability-reports@gsa.gov,REPORTING.GOV
+963,0,135,135,0.0,963,SAFERFEDERALWORKFORCE.GOV,Federal - Executive,General Services Administration,General Services Administration,Washington,DC,gsa-vulnerability-reports@gsa.gov,SAFERFEDERALWORKFORCE.GOV
+964,0,209,209,0.0,964,SAM.GOV,Federal - Executive,General Services Administration,"GSA, FAS, System for Award Management",Arlington,VA,gsa-vulnerability-reports@gsa.gov,SAM.GOV
+965,4,130,134,0.029850746268656716,965,SBST.GOV,Federal - Executive,General Services Administration,"GSA,FAS,Technology Transformation Service",Washington,DC,gsa-vulnerability-reports@gsa.gov,SBST.GOV
+966,1,340,341,0.002932551319648094,966,SEARCH.GOV,Federal - Executive,General Services Administration,"GSA,FAS,Technology Transformation Service",Washington,DC,gsa-vulnerability-reports@gsa.gov,SEARCH.GOV
+967,0,495,495,0.0,967,SECTION508.GOV,Federal - Executive,General Services Administration,"GSA, IC, OGP Web Portfolio",Washington,DC,gsa-vulnerability-reports@gsa.gov,SECTION508.GOV
+968,14,879,893,0.015677491601343786,968,SFTOOL.GOV,Federal - Executive,General Services Administration,"GSA, IC, OGP Web Portfolio",Chicago,IL,gsa-vulnerability-reports@gsa.gov,SFTOOL.GOV
+969,5,297,302,0.016556291390728478,969,STATSPOLICY.GOV,Federal - Executive,General Services Administration,General Services Administration ,Washington,DC,gsa-vulnerability-reports@gsa.gov,STATSPOLICY.GOV
+971,3,676,679,0.004418262150220913,971,US.GOV,Federal - Executive,General Services Administration,"GSA,FAS,Technology Transformation Service",Washington,DC,gsa-vulnerability-reports@gsa.gov,US.GOV
+972,3,676,679,0.004418262150220913,972,USA.GOV,Federal - Executive,General Services Administration,"GSA,FAS,Technology Transformation Service",Washington,DC,gsa-vulnerability-reports@gsa.gov,USA.GOV
+973,3,155,158,0.0189873417721519,973,USABILITY.GOV,Federal - Executive,General Services Administration,General Services Administration,Washington,DC,gsa-vulnerability-reports@gsa.gov,USABILITY.GOV
+974,3,743,746,0.004021447721179625,974,USAGOV.GOV,Federal - Executive,General Services Administration,"GSA,FAS,Technology Transformation Service",Washington,DC,gsa-vulnerability-reports@gsa.gov,USAGOV.GOV
+975,2,503,505,0.0039603960396039604,975,USSM.GOV,Federal - Executive,General Services Administration,"GSA, OGP, Web Portfolio",Washington,DC,gsa-vulnerability-reports@gsa.gov,USSM.GOV
+976,0,364,364,0.0,976,VOTE.GOV,Federal - Executive,General Services Administration,"GSA,FAS,Technology Transformation Service",Washington,DC,gsa-vulnerability-reports@gsa.gov,VOTE.GOV
+977,28,194,222,0.12612612612612611,977,RESTORETHEGULF.GOV,Federal - Executive,Gulf Coast Ecosystem Restoration Council,National Oceanic and Atmospheric Administration (NOAA),Silver Spring,MD,security@noaa.gov,RESTORETHEGULF.GOV
+978,3,215,218,0.013761467889908258,978,TRUMAN.GOV,Federal - Executive,Harry S. Truman Scholarship Foundation,Harry S. Truman Scholarship Foundation,Washington,DC,(blank),TRUMAN.GOV
+979,11,753,764,0.014397905759162303,979,IMLS.GOV,Federal - Executive,Institute of Museum and Library Services,Institute of Museum and Library Services,Washington,DC,infosec@imls.gov,IMLS.GOV
+981,4,116,120,0.03333333333333333,981,PCAH.GOV,Federal - Executive,Institute of Museum and Library Services,Institute of Museum and Library Services,Washington,DC,cybersec@imls.gov,PCAH.GOV
+982,2,6,8,0.25,982,IAF.GOV,Federal - Executive,Inter-American Foundation,Inter-American Foundation,Washington,DC,iafhelpdesk@iaf.gov,IAF.GOV
+984,16,125,141,0.11347517730496454,984,JUSFC.GOV,Federal - Executive,Japan-US Friendship Commission,Japan-US Friendship Commission,Washington,DC,jusfc@jusfc.gov,JUSFC.GOV
+986,6,537,543,0.011049723756906077,986,LSC.GOV,Federal - Executive,Legal Services Corporation,Legal Services Corporation,Washington,DC,(blank),LSC.GOV
+987,22,356,378,0.0582010582010582,987,MMC.GOV,Federal - Executive,Marine Mammal Commission,Marine Mammal Commission,Bethesda,MD,cshrestha@mmc.gov,MMC.GOV
+988,3,275,278,0.01079136690647482,988,MSPB.GOV,Federal - Executive,Merit Systems Protection Board,US Merit Systems Protection Board,Washington,DC,tim.mcaleer@mspb.gov,MSPB.GOV
+989,15,396,411,0.0364963503649635,989,MCC.GOV,Federal - Executive,Millennium Challenge Corporation,Millennium Challenge Corporation,Washington,DC,MCCCISOTeam@mcc.gov,MCC.GOV
+991,31,102,133,0.23308270676691728,991,ECR.GOV,Federal - Executive,Morris K. Udall and Stewart L. Udall Foundation,Morris K. Udall and Stewart L. Udall Foundation,Tucson,AZ,securityreporting@udall.gov,ECR.GOV
+992,31,102,133,0.23308270676691728,992,UDALL.GOV,Federal - Executive,Morris K. Udall and Stewart L. Udall Foundation,Morris K. Udall and Stewart L. Udall Foundation,Tucson,AZ,securityreporting@udall.gov,UDALL.GOV
+993,3,286,289,0.010380622837370242,993,EARTH.GOV,Federal - Executive,National Aeronautics and Space Administration,NASA Earth Science Division,Washington,DC,soc@nasa.gov,EARTH.GOV
+994,16,1985,2001,0.0079960019990005,994,GLOBE.GOV,Federal - Executive,National Aeronautics and Space Administration,NASA Science Data Systems Branch,Greenbelt,MD,soc@nasa.gov,GLOBE.GOV
+995,5,519,524,0.009541984732824428,995,NASA.GOV,Federal - Executive,National Aeronautics and Space Administration,NASA Office of the Chief Information Officer,Huntsville,AL,soc@nasa.gov,NASA.GOV
+996,12,224,236,0.05084745762711865,996,SCIJINKS.GOV,Federal - Executive,National Aeronautics and Space Administration,Jet Propulsion Lab Communications and Education Directorate,Huntsville,AL,soc@nasa.gov,SCIJINKS.GOV
+997,0,130,130,0.0,997,USGEO.GOV,Federal - Executive,National Aeronautics and Space Administration,NASA Langley Research Center,Huntsville,AL,soc@nasa.gov,USGEO.GOV
+998,3,138,141,0.02127659574468085,998,9-11COMMISSION.GOV,Federal - Executive,National Archives and Records Administration,National Archives and Records Administration,College Park,MD,security-vpd@nara.gov,9-11COMMISSION.GOV
+999,3,138,141,0.02127659574468085,999,911COMMISSION.GOV,Federal - Executive,National Archives and Records Administration,National Archives and Records Administration,College Park,MD,security-vpd@nara.gov,911COMMISSION.GOV
+1000,5,203,208,0.02403846153846154,1000,ARCHIVES.GOV,Federal - Executive,National Archives and Records Administration,National Archives and Records Administration,College Park,MD,security-vpd@nara.gov,ARCHIVES.GOV
+1001,1,54,55,0.01818181818181818,1001,BUSH41LIBRARY.GOV,Federal - Executive,National Archives and Records Administration,National Archives and Records Administration,College Park,MD,security-vpd@nara.gov,BUSH41LIBRARY.GOV
+1002,9,246,255,0.03529411764705882,1002,CLINTONLIBRARY.GOV,Federal - Executive,National Archives and Records Administration,William Clinton Presidential Library,Little Rock,AR,security-vpd@nara.gov,CLINTONLIBRARY.GOV
+1003,10,240,250,0.04,1003,DD214.GOV,Federal - Executive,National Archives and Records Administration,National Archives and Records Administration,College Park,MD,security-vpd@nara.gov,DD214.GOV
+1004,30,315,345,0.08695652173913043,1004,EISENHOWERLIBRARY.GOV,Federal - Executive,National Archives and Records Administration,National Archives and Records Administration,College Park,MD,security-vpd@nara.gov,EISENHOWERLIBRARY.GOV
+1005,13,325,338,0.038461538461538464,1005,EMERGENCY-FEDERAL-REGISTER.GOV,Federal - Executive,National Archives and Records Administration,National Archives and Records Administration,College Park,MD,security-vpd@nara.gov,EMERGENCY-FEDERAL-REGISTER.GOV
+1006,208,743,951,0.21871713985278654,1006,FCIC.GOV,Federal - Executive,National Archives and Records Administration,National Archives and Records Administration,College Park,MD,security-vpd@nara.gov,FCIC.GOV
+1007,9,241,250,0.036,1007,FORDLIBRARYMUSEUM.GOV,Federal - Executive,National Archives and Records Administration,Gerald R. Ford Library and Museum,College Park,MD,security-vpd@nara.gov,FORDLIBRARYMUSEUM.GOV
+1008,11,254,265,0.04150943396226415,1008,FRC.GOV,Federal - Executive,National Archives and Records Administration,National Archives and Records Administration,College Park,MD,security-vpd@nara.gov,FRC.GOV
+1009,4,1741,1745,0.002292263610315186,1009,GEORGEWBUSHLIBRARY.GOV,Federal - Executive,National Archives and Records Administration,National Archives and Records Administration,College Park,MD,security-vpd@nara.gov,GEORGEWBUSHLIBRARY.GOV
+1011,1,54,55,0.01818181818181818,1011,JFKLIBRARY.GOV,Federal - Executive,National Archives and Records Administration,National Archives and Records Administration,College Park,MD,security-vpd@nara.gov,JFKLIBRARY.GOV
+1012,3,993,996,0.0030120481927710845,1012,JIMMYCARTERLIBRARY.GOV,Federal - Executive,National Archives and Records Administration,Jimmy Carter Library & Museum,College Park,MD,security-vpd@nara.gov,JIMMYCARTERLIBRARY.GOV
+1013,1,54,55,0.01818181818181818,1013,LBJLIBRARY.GOV,Federal - Executive,National Archives and Records Administration,National Archives and Records Administration,College Park,MD,security-vpd@nara.gov,LBJLIBRARY.GOV
+1014,5,203,208,0.02403846153846154,1014,NARA.GOV,Federal - Executive,National Archives and Records Administration,National Archives and Records Administration,College Park,MD,security-vpd@nara.gov,NARA.GOV
+1015,29,1085,1114,0.026032315978456014,1015,NIXONLIBRARY.GOV,Federal - Executive,National Archives and Records Administration,NPOL,College Park,MD,security-vpd@nara.gov,NIXONLIBRARY.GOV
+1016,48,2944,2992,0.016042780748663103,1016,OBAMALIBRARY.GOV,Federal - Executive,National Archives and Records Administration,National Archives and Records Administration,College Park,MD,security-vpd@nara.gov,OBAMALIBRARY.GOV
+1017,2,424,426,0.004694835680751174,1017,OBAMAWHITEHOUSE.GOV,Federal - Executive,National Archives and Records Administration,National Archives and Records Administration,College Park,MD,security-vpd@nara.gov,OBAMAWHITEHOUSE.GOV
+1018,17,1746,1763,0.009642654566080544,1018,OURDOCUMENTS.GOV,Federal - Executive,National Archives and Records Administration,National Archives and Records Administration,College Park,MD,security-vpd@nara.gov,OURDOCUMENTS.GOV
+1019,7,337,344,0.020348837209302327,1019,REAGANLIBRARY.GOV,Federal - Executive,National Archives and Records Administration,Policy and Planning,College Park,MD,security-vpd@nara.gov,REAGANLIBRARY.GOV
+1020,8,370,378,0.021164021164021163,1020,RECORDSMANAGEMENT.GOV,Federal - Executive,National Archives and Records Administration,National Archives and Records Administration,College Park,MD,security-vpd@nara.gov,RECORDSMANAGEMENT.GOV
+1021,8,296,304,0.02631578947368421,1021,TRUMANLIBRARY.GOV,Federal - Executive,National Archives and Records Administration,National Archives and Records Administration,College Park,MD,security-vpd@nara.gov,TRUMANLIBRARY.GOV
+1022,2,156,158,0.012658227848101266,1022,TRUMPLIBRARY.GOV,Federal - Executive,National Archives and Records Administration,National Archives and Records Administration,College Park,MD,security-vpd@nara.gov,TRUMPLIBRARY.GOV
+1023,4,308,312,0.01282051282051282,1023,TRUMPWHITEHOUSE.GOV,Federal - Executive,National Archives and Records Administration,National Archives and Records Administration,College Park,MD,security-vpd@nara.gov,TRUMPWHITEHOUSE.GOV
+1025,14,126,140,0.1,1025,WEBHARVEST.GOV,Federal - Executive,National Archives and Records Administration,National Archives and Records Administration,College Park,MD,security-vpd@nara.gov,WEBHARVEST.GOV
+1026,15,152,167,0.08982035928143713,1026,NCPC.GOV,Federal - Executive,National Capital Planning Commission,National Capital Planning Commission,Washington,DC,csirt@ncpc.gov,NCPC.GOV
+1027,7,305,312,0.022435897435897436,1027,NCD.GOV,Federal - Executive,National Council on Disability,National Council on Disability,Washington,DC,kwoods@ncd.gov,NCD.GOV
+1028,20,282,302,0.06622516556291391,1028,MYCREDITUNION.GOV,Federal - Executive,National Credit Union Administration,National Credit Union Administration,Alexandria,VA,SOC@ncua.gov,MYCREDITUNION.GOV
+1029,9,553,562,0.01601423487544484,1029,NCUA.GOV,Federal - Executive,National Credit Union Administration,National Credit Union Administration,Alexandria,VA,SOC@ncua.gov,NCUA.GOV
+1030,1,496,497,0.002012072434607646,1030,ARTS.GOV,Federal - Executive,National Endowment for the Arts,Office of Information and Technology Management,Washington,DC,security@arts.gov,ARTS.GOV
+1031,1,496,497,0.002012072434607646,1031,NEA.GOV,Federal - Executive,National Endowment for the Arts,Office of Information and Technology Management,Washington,DC,security@arts.gov,NEA.GOV
+1033,7,379,386,0.018134715025906734,1033,NEH.GOV,Federal - Executive,National Endowment for the Humanities,Office of Information Resources Management,Washington,DC,dotgov@neh.gov,NEH.GOV
+1034,6,405,411,0.014598540145985401,1034,NGA.GOV,Federal - Executive,National Gallery of Art,National Gallery of Art,Washington,DC,soc@NGA.GOV,NGA.GOV
+1037,3,152,155,0.01935483870967742,1037,NMB.GOV,Federal - Executive,National Mediation Board,National Mediation Board,Washington,DC,soc@nmb.gov,NMB.GOV
+1038,9,187,196,0.04591836734693878,1038,ARCTIC.GOV,Federal - Executive,National Science Foundation,U.S. Arctic Research Commission,Arlington,VA,dallas@sec-data-eng.com,ARCTIC.GOV
+1039,1,520,521,0.0019193857965451055,1039,NSF.GOV,Federal - Executive,National Science Foundation,National Science Foundation,Alexandria,VA,dis-secteam@nsf.gov,NSF.GOV
+1040,3,198,201,0.014925373134328358,1040,RESEARCH.GOV,Federal - Executive,National Science Foundation,National Science Foundation,Alexandria,VA,dis-secteam@nsf.gov,RESEARCH.GOV
+1041,11,37,48,0.22916666666666666,1041,SAC.GOV,Federal - Executive,National Science Foundation,Small Agency Council,Alexandria,VA,dis-secteam@nsf.gov,SAC.GOV
+1042,6,318,324,0.018518518518518517,1042,USAP.GOV,Federal - Executive,National Science Foundation,"National Science Foundation, Office of Polar Programs",Alexandria,VA,NSF-USAP-InfoSec@nsf.gov,USAP.GOV
+1043,18,312,330,0.05454545454545454,1043,NSCAI.GOV,Federal - Executive,National Security Commission on Artificial Intelligence,National Security Commission on Artificial Intelligence,Arlington,VA,michael.l.gable.civ@mail.mil,NSCAI.GOV
+1044,11,192,203,0.054187192118226604,1044,NTSB.GOV,Federal - Executive,National Transportation Safety Board,National Transportation Safety Board,Washington,DC,soc@ntsb.gov,NTSB.GOV
+1046,12,571,583,0.02058319039451115,1046,NITRD.GOV,Federal - Executive,Networking Information Technology Research and Development,National Coordination Office for Networking and Information Technology Research and Development,Arlington,VA,security@nitrd.gov,NITRD.GOV
+1048,13,189,202,0.06435643564356436,1048,NBRC.GOV,Federal - Executive,Northern Border Regional Commission,Northern Border Regional Commission,Concord,NH,jorourke@nbrc.gov,NBRC.GOV
+1050,8,551,559,0.014311270125223614,1050,NRC.GOV,Federal - Executive,Nuclear Regulatory Commission,Nuclear Regulatory Commission,Rockville,MD,soc_alerts@nrc.gov,NRC.GOV
+1051,3,7,10,0.3,1051,OSHRC.GOV,Federal - Executive,Occupational Safety & Health Review Commission,Occupational Safety & Health Review Commission,Washington,DC,support@oshrc.gov,OSHRC.GOV
+1052,7,71,78,0.08974358974358974,1052,INTEGRITY.GOV,Federal - Executive,Office of Government Ethics,Office of Government Ethics,Washington,DC,security@oge.gov,INTEGRITY.GOV
+1053,4,344,348,0.011494252873563218,1053,OGE.GOV,Federal - Executive,Office of Government Ethics,Office of Government Ethics,Washington,DC,security@oge.gov,OGE.GOV
+1056,13,275,288,0.04513888888888889,1056,CYBERCAREERS.GOV,Federal - Executive,Office of Personnel Management,OPM Human Resource Solutions,Washington,DC,dana.dulaney@opm.gov,CYBERCAREERS.GOV
+1058,2,169,171,0.011695906432748537,1058,EMPLOYEEEXPRESS.GOV,Federal - Executive,Office of Personnel Management,OPM Human Resource Solutions,Macon,GA,dana.dulaney@opm.gov,EMPLOYEEEXPRESS.GOV
+1059,5,349,354,0.014124293785310734,1059,FEB.GOV,Federal - Executive,Office of Personnel Management,Federal Executive Board,Washington,DC,dana.dulaney@opm.gov,FEB.GOV
+1060,0,609,609,0.0,1060,FEDERALJOBS.GOV,Federal - Executive,Office of Personnel Management,OPM Human Resource Solutions,Macon,GA,dana.dulaney@opm.gov,FEDERALJOBS.GOV
+1061,0,609,609,0.0,1061,FEDJOBS.GOV,Federal - Executive,Office of Personnel Management,OPM Human Resource Solutions,Macon,GA,dana.dulaney@opm.gov,FEDJOBS.GOV
+1062,13,297,310,0.041935483870967745,1062,FEDSHIREVETS.GOV,Federal - Executive,Office of Personnel Management,OPM Human Resource Solutions,Washington,DC,dana.dulaney@opm.gov,FEDSHIREVETS.GOV
+1063,14,606,620,0.02258064516129032,1063,FEGLI.GOV,Federal - Executive,Office of Personnel Management,OPM Federal Employees Benefits,Washington,DC,dana.dulaney@opm.gov,FEGLI.GOV
+1066,0,609,609,0.0,1066,GOVERNMENTJOBS.GOV,Federal - Executive,Office of Personnel Management,OPM Human Resource Solutions,Macon,GA,dana.dulaney@opm.gov,GOVERNMENTJOBS.GOV
+1067,14,393,407,0.0343980343980344,1067,OPM.GOV,Federal - Executive,Office of Personnel Management,Office Of Personnel Management,Macon,GA,dana.dulaney@opm.gov,OPM.GOV
+1069,55,216,271,0.2029520295202952,1069,PMF.GOV,Federal - Executive,Office of Personnel Management,Presidential Management Fellows,Washington,DC,dana.dulaney@opm.gov,PMF.GOV
+1070,14,319,333,0.042042042042042045,1070,TELEWORK.GOV,Federal - Executive,Office of Personnel Management,"OPM Policy, Data, Oversight",Washington,DC,dana.dulaney@opm.gov,TELEWORK.GOV
+1071,14,307,321,0.04361370716510903,1071,UNLOCKTALENT.GOV,Federal - Executive,Office of Personnel Management,OPM Enterprise Human Resources Integration,Washington,DC,Dana.Dulaney@OPM.GOV,UNLOCKTALENT.GOV
+1072,0,609,609,0.0,1072,USAJOBS.GOV,Federal - Executive,Office of Personnel Management,OPM Human Resource Solutions,Washington,DC,dana.dulaney@opm.gov,USAJOBS.GOV
+1074,1,99,100,0.01,1074,USASTAFFING.GOV,Federal - Executive,Office of Personnel Management,OPM Human Resource Solutions,Macon,GA,cybersolutions@opm.gov,USASTAFFING.GOV
+1075,1,469,470,0.002127659574468085,1075,PBGC.GOV,Federal - Executive,Pension Benefit Guaranty Corporation,Office of Information Technology,Washington,DC,INFO-USCERT@pbgc.gov,PBGC.GOV
+1077,4,1364,1368,0.0029239766081871343,1077,PRESIDIO.GOV,Federal - Executive,Presidio Trust,Presidio Trust,San Francisco,CA,securitycontact@presidiotrust.gov,PRESIDIO.GOV
+1079,2,37,39,0.05128205128205128,1079,PRESIDIOTRUST.GOV,Federal - Executive,Presidio Trust,Presidio Trust,San Francisco,CA,securitycontact@presidiotrust.gov,PRESIDIOTRUST.GOV
+1080,2,37,39,0.05128205128205128,1080,PRESIDIOTUNNELTOPS.GOV,Federal - Executive,Presidio Trust,Presidio Trust,San Francisco,CA,securitycontact@presidiotrust.gov,PRESIDIOTUNNELTOPS.GOV
+1081,17,240,257,0.06614785992217899,1081,PCLOB.GOV,Federal - Executive,Privacy and Civil Liberties Oversight Board,Privacy & Civil Liberties Oversight Board,Washington,DC,soc@pclob.gov,PCLOB.GOV
+1082,2,196,198,0.010101010101010102,1082,PBRB.GOV,Federal - Executive,Public Buildings Reform Board,General Services Administration,Washington,DC,gsa-ir@gsa.gov,PBRB.GOV
+1084,2,8,10,0.2,1084,INVESTOR.GOV,Federal - Executive,Securities and Exchange Commission,Network Operations Branch,Washington,DC,security@sec.gov,INVESTOR.GOV
+1085,2,11,13,0.15384615384615385,1085,SEC.GOV,Federal - Executive,Securities and Exchange Commission,Network Operations Branch,Washington,DC,security@sec.gov,SEC.GOV
+1086,3,308,311,0.00964630225080386,1086,SSS.GOV,Federal - Executive,Selective Service System,Selective Service System,Arlington,VA,soc@sss.gov,SSS.GOV
+1087,0,563,563,0.0,1087,BUSINESS.GOV,Federal - Executive,Small Business Administration,Small Business Administration,Washington,DC,CISO@sba.gov,BUSINESS.GOV
+1088,4,174,178,0.02247191011235955,1088,NWBC.GOV,Federal - Executive,Small Business Administration,Small Business Administration,Washington,DC,CISO@sba.gov,NWBC.GOV
+1089,0,563,563,0.0,1089,SBA.GOV,Federal - Executive,Small Business Administration,Small Business Administration,Washington,DC,CISO@sba.gov,SBA.GOV
+1090,10,352,362,0.027624309392265192,1090,SBIR.GOV,Federal - Executive,Small Business Administration,SBA-Office of Innovation & Technology,Washington,DC,CISO@sba.gov,SBIR.GOV
+1091,6,166,172,0.03488372093023256,1091,ITIS.GOV,Federal - Executive,Smithsonian Institution,Smithsonian Institution,Washington,DC,abuse@si.edu,ITIS.GOV
+1092,4,691,695,0.0057553956834532375,1092,SMITHSONIAN.GOV,Federal - Executive,Smithsonian Institution,Smithsonian Institution Office of the CIO (OCIO),Herndon,VA,abuse@si.edu,SMITHSONIAN.GOV
+1093,12,505,517,0.02321083172147002,1093,SEGUROSOCIAL.GOV,Federal - Executive,Social Security Administration,SSA/OSOHE/Division of Network Engineering ,Baltimore,MD,security@ssa.gov,SEGUROSOCIAL.GOV
+1094,12,554,566,0.02120141342756184,1094,SOCIALSECURITY.GOV,Federal - Executive,Social Security Administration,SSA/OSOHE/Division of Network Engineering,Baltimore,MD,security@ssa.gov,SOCIALSECURITY.GOV
+1095,12,554,566,0.02120141342756184,1095,SSA.GOV,Federal - Executive,Social Security Administration,SSA/OSOHE/Division of Network Engineering,Baltimore,MD,security@ssa.gov,SSA.GOV
+1096,1,229,230,0.004347826086956522,1096,SSAB.GOV,Federal - Executive,Social Security Advisory Board,Social Security Advisory Board,Washington,DC,admin@ssab.gov,SSAB.GOV
+1097,1,284,285,0.0035087719298245615,1097,SCRC.GOV,Federal - Executive,Southeast Crescent Regional Commission,Southeast Crescent Regional Commission,Washington,DC,philmcneil@1brightstar.com,SCRC.GOV
+1099,29,361,390,0.07435897435897436,1099,SJI.GOV,Federal - Executive,State Justice Institute,State Justice Institute,Reston,VA,(blank),SJI.GOV
+1101,2,85,87,0.022988505747126436,1101,TVA.GOV,Federal - Executive,Tennessee Valley Authority,TVA IT,Knoxville,TN,vdp@tva.gov,TVA.GOV
+1104,11,638,649,0.01694915254237288,1104,WORLDWAR1CENTENNIAL.GOV,Federal - Executive,The United States World War One Centennial Commission,The United States World War One Centennial Commission,Washington,DC,chris.christopher@worldwar1centennial.gov,WORLDWAR1CENTENNIAL.GOV
+1107,12,475,487,0.024640657084188913,1107,FEEDTHEFUTURE.GOV,Federal - Executive,U.S. Agency for International Development,Bureau for Resilience and Food Security (RFS),Washington,DC,VDP@USAID.GOV,FEEDTHEFUTURE.GOV
+1108,10,686,696,0.014367816091954023,1108,FOREIGNASSISTANCE.GOV,Federal - Executive,U.S. Agency for International Development,Foreign Assistance Office (F/PPS),Washington,DC,VDP@usaid.gov,FOREIGNASSISTANCE.GOV
+1111,20,1349,1369,0.014609203798392988,1111,PROSPERAFRICA.GOV,Federal - Executive,U.S. Agency for International Development,U.S. Agency for International Development,Washington,DC,vdp@usaid.gov,PROSPERAFRICA.GOV
+1112,3,885,888,0.0033783783783783786,1112,USAID.GOV,Federal - Executive,U.S. Agency for International Development,M/CIO,Washington,DC,VDP@USAID.GOV,USAID.GOV
+1113,17,364,381,0.04461942257217848,1113,WORKWITHUSAID.GOV,Federal - Executive,U.S. Agency for International Development,U.S. Agency for International Development,Washington,DC,vdp@usaid.gov,WORKWITHUSAID.GOV
+1114,6,418,424,0.014150943396226415,1114,HERITAGEABROAD.GOV,Federal - Executive,U.S. Commission for the Preservation of Americas Heritage Abroad,U.S. Commission for the Preservation of America's Heritage Abroad,Washington,DC,ari@thetechmensch.com,HERITAGEABROAD.GOV
+1115,2,526,528,0.003787878787878788,1115,CFA.GOV,Federal - Executive,U.S. Commission of Fine Arts,U.S. Commission of Fine Arts,Washington,DC,gsa-vulnerability-reports@gsa.gov,CFA.GOV
+1117,2,7,9,0.2222222222222222,1117,CSSBMB.GOV,Federal - Executive,U.S. Commission on Civil Rights,Commission on the Social Status of Black Men and Black Boys,Washington,DC,ccrsoc@usccr.gov,CSSBMB.GOV
+1118,4,303,307,0.013029315960912053,1118,USCCR.GOV,Federal - Executive,U.S. Commission on Civil Rights,ASCD-CIO,Washington,DC,ccrsoc@usccr.gov,USCCR.GOV
+1119,5,263,268,0.018656716417910446,1119,USCIRF.GOV,Federal - Executive,U.S. Commission on International Religious Freedom,US Commission on International Religious Freedom,Washington,DC,tkraemer@uscirf.gov,USCIRF.GOV
+1120,1,272,273,0.003663003663003663,1120,22007APPLY.GOV,Federal - Executive,U.S. Department of Agriculture,U.S. Department of Agriculture,Washington,DC,james.flickinger@usda.gov,22007APPLY.GOV
+1126,10,115,125,0.08,1126,BOSQUE.GOV,Federal - Executive,U.S. Department of Agriculture,USDA Forest Service - Southwestern Region,Albuquerque,NM,cyber.incident@usda.gov,BOSQUE.GOV
+1127,19,503,522,0.03639846743295019,1127,CHOOSEMYPLATE.GOV,Federal - Executive,U.S. Department of Agriculture,USDA - Center for Nutrition Policy and Promotion,Alexandria,VA,joseph.binns@usda.gov,CHOOSEMYPLATE.GOV
+1129,10,556,566,0.0176678445229682,1129,DIETARYGUIDELINES.GOV,Federal - Executive,U.S. Department of Agriculture,USDA - Center for Nutrition Policy and Promotion,Alexandria,VA,joseph.binns@usda.gov,DIETARYGUIDELINES.GOV
+1131,2,586,588,0.003401360544217687,1131,EXECSEC.GOV,Federal - Executive,U.S. Department of Agriculture,U.S. Department of Agriculture,Washington,DC,robert.simpsonjr@usda.gov,EXECSEC.GOV
+1132,3,498,501,0.005988023952095809,1132,FARMERFAIRNESS.GOV,Federal - Executive,U.S. Department of Agriculture,USDA - Agriculteral Marketing Service,Washington,DC,cyber.incidents@usda.gov,FARMERFAIRNESS.GOV
+1133,3,902,905,0.0033149171270718232,1133,FARMERS.GOV,Federal - Executive,U.S. Department of Agriculture,"USDA, Office of Communications",Washington,DC,cyber.incidents@usda.gov,FARMERS.GOV
+1135,1,164,165,0.006060606060606061,1135,FORESTSANDRANGELANDS.GOV,Federal - Executive,U.S. Department of Agriculture,US Forest Service,Washington,DC,cyber.incident@usda.gov,FORESTSANDRANGELANDS.GOV
+1136,6,215,221,0.027149321266968326,1136,INVASIVESPECIESINFO.GOV,Federal - Executive,U.S. Department of Agriculture,USDA/ARS/NAL,Beltsville,MD,cyber.incidents@usda.gov,INVASIVESPECIESINFO.GOV
+1137,0,206,206,0.0,1137,ITAP.GOV,Federal - Executive,U.S. Department of Agriculture,"USDA, ARS, NAL",Beltsville,MD,cyber.incidents@usda.gov,ITAP.GOV
+1138,0,237,237,0.0,1138,LCACOMMONS.GOV,Federal - Executive,U.S. Department of Agriculture,National Agricultural Library,Beltsville,MD,cyber.incidents@usda.gov,LCACOMMONS.GOV
+1139,19,503,522,0.03639846743295019,1139,MYPLATE.GOV,Federal - Executive,U.S. Department of Agriculture,USDA - Center for Nutrition Policy and Promotion,Alexandria,VA,joseph.binns@usda.gov,MYPLATE.GOV
+1140,13,190,203,0.06403940886699508,1140,NAFRI.GOV,Federal - Executive,U.S. Department of Agriculture,National Advanced Fire and Resource Institute,Tucson,AZ,cyber.incident@usda.gov,NAFRI.GOV
+1141,2,8,10,0.2,1141,NUTRITION.GOV,Federal - Executive,U.S. Department of Agriculture,Office of Communications,Washington,DC,cyber.incidents@usda.gov,NUTRITION.GOV
+1145,2,440,442,0.004524886877828055,1145,RURAL.GOV,Federal - Executive,U.S. Department of Agriculture,Rural Development,Washington,DC,cyber.incidents@usda.gov,RURAL.GOV
+1147,2,586,588,0.003401360544217687,1147,USDA.GOV,Federal - Executive,U.S. Department of Agriculture,U.S. Department of Agriculture,Ft. Collins,CO,cyber.incidents@usda.gov,USDA.GOV
+1150,17,429,446,0.03811659192825112,1150,NWTRB.GOV,Federal - Executive,U.S. Nuclear Waste Technical Review Board,Nuclear Waste Technical Review Board,Arlington,VA,security@nwtrb.gov,NWTRB.GOV
+1151,4,510,514,0.007782101167315175,1151,OSC.GOV,Federal - Executive,U.S. Office of Special Counsel,U.S. Office of Special Counsel,Washington,DC,vhall@osc.gov,OSC.GOV
+1153,2,85,87,0.022988505747126436,1153,PEACECORPS.GOV,Federal - Executive,U.S. Peace Corps,Peace Corps,Washington,DC,SOC2@PeaceCorps.Gov,PEACECORPS.GOV
+1154,3,9,12,0.25,1154,PEACECORPSOIG.GOV,Federal - Executive,U.S. Peace Corps,Office of Inspector General,Washington,DC,SOC2@PeaceCorps.Gov,PEACECORPSOIG.GOV
+1159,3,142,145,0.020689655172413793,1159,USADF.GOV,Federal - Executive,United States African Development Foundation,African Development Foundation,Washington,DC,schi@usadf.gov,USADF.GOV
+1160,46,256,302,0.152317880794702,1160,BBG.GOV,Federal - Executive,United States Agency for Global Media,IBB/VOA/BBG,Washington,DC,it-security@usagm.gov,BBG.GOV
+1161,46,256,302,0.152317880794702,1161,IBB.GOV,Federal - Executive,United States Agency for Global Media,Broadcasting Board of Governors,Washington,DC,it-security@usagm.gov,IBB.GOV
+1163,46,256,302,0.152317880794702,1163,USAGM.GOV,Federal - Executive,United States Agency for Global Media,Broadcasting Board of Governors,Washington,DC,it-security@usagm.gov,USAGM.GOV
+1164,38,619,657,0.0578386605783866,1164,VOA.GOV,Federal - Executive,United States Agency for Global Media,VOA,Washington,DC,it-security@usagm.gov,VOA.GOV
+1165,9,354,363,0.024793388429752067,1165,GLOBALCHANGE.GOV,Federal - Executive,United States Global Change Research Program,U.S. Global Change Research Program,Washington,DC,(blank),GLOBALCHANGE.GOV
+1166,3,11,14,0.21428571428571427,1166,IPCC-WG3.GOV,Federal - Executive,United States Global Change Research Program,U.S. Global Change Research Program,Washington,DC,admin@usgcrp.gov,IPCC-WG3.GOV
+1169,5,48,53,0.09433962264150944,1169,USIP.GOV,Federal - Executive,United States Institute of Peace,GSA/United States Institute of Peace,Washington,DC,mrich@usip.gov,USIP.GOV
+1171,14,374,388,0.03608247422680412,1171,USICH.GOV,Federal - Executive,United States Interagency Council on Homelessness,United States Interagency Council on Homelessness,Washington,DC,(blank),USICH.GOV
+1172,17,388,405,0.04197530864197531,1172,DFC.GOV,Federal - Executive,United States International Development Finance Corporation,US International Development Finance Corporation,Washington,DC,ciso@dfc.gov,DFC.GOV
+1173,17,388,405,0.04197530864197531,1173,IDFC.GOV,Federal - Executive,United States International Development Finance Corporation,US International Development Finance Corporation,Washington,DC,ciso@dfc.gov,IDFC.GOV
+1175,17,388,405,0.04197530864197531,1175,USDFC.GOV,Federal - Executive,United States International Development Finance Corporation,US International Development Finance Corporation,washington,DC,ciso@dfc.gov,USDFC.GOV
+1176,17,388,405,0.04197530864197531,1176,USIDFC.GOV,Federal - Executive,United States International Development Finance Corporation,US International Development Finance Corporation,Washington,DC,ciso@dfc.gov,USIDFC.GOV
+1177,2,8,10,0.2,1177,USITC.GOV,Federal - Executive,United States International Trade Commission,OCIO,Washington,DC,vdp@usitc.gov,USITC.GOV
