@@ -4,10 +4,11 @@ const TIME_STAMP_FOLDER_NAME = 'JAN-10-2024';
 
 (async () => {
     const issues = {}; // list of issues
-    ['data-portal', 'journal-portal', 'gov', 'nei-data-portal'].forEach(async category => {
+    // '', 'journal-portal', 'gov', 'nei-data-portal'
+    ['data-portal'].forEach(async category => {
         const a11yResults = {};
         const files = await fs.readdirSync(`${TIME_STAMP_FOLDER_NAME}/${category}`);
-        await files.forEach(async file => {
+        await files.filter(d => !d.includes('failed')).forEach(async file => {
             const page_id = file.split('.')[0];
             a11yResults[page_id] = {};
             const report = await fs.readFileSync(`${TIME_STAMP_FOLDER_NAME}/${category}/${file}`);
