@@ -11,8 +11,8 @@ const TIME_STAMP_FOLDER_NAME = 'JAN-10-2024';
   const bars = {};
 
   const FILES = [
-    'data-portal_pages.csv', 
-    // 'journal-portal_pages.csv',
+    // 'data-portal_pages.csv', 
+    'journal-portal_pages.csv',
     // 'gov_pages.csv',
     // 'nei-data-portal_pages.csv',
     // 'nih-data-portal_pages.csv'
@@ -28,22 +28,21 @@ const TIME_STAMP_FOLDER_NAME = 'JAN-10-2024';
           const row = rows[j];
           const { page_id, url, page_type } = row;
 
-          // Let's collect non-home pages only
-          if(page_type === 'home') continue;
+          // // Let's collect non-home pages only
+          // if(page_type === 'home') continue;
 
           // Manually skip pages that are not working with axe-core
-          if(page_id === 'nih-24') continue;
-          
+          if(page_id === 'nih-24' || page_id === '8495_home' || page_id === '11969_home' || page_id === '13086_home' || page_id === '14490_home' || page_id === '14680_home') continue;
           const SAVE_PATH = `${file.split('_')[0]}/${page_id}.json`;
           if(fs.existsSync(SAVE_PATH)) continue;
           const SAVE_FAILED_PATH = `${file.split('_')[0]}/${page_id}_failed.json`;
-          if(fs.existsSync(SAVE_FAILED_PATH)) continue;          
+          if(fs.existsSync(SAVE_FAILED_PATH)) continue;
           const browser = await playwright.chromium.launch({ headless: true });
           try {
             const context = await browser.newContext();
             const page = await context.newPage();
             await page.goto(url);
-            await page.waitForLoadState('networkidle', { timeout: 10000 });
+            await page.waitForLoadState('networkidle2', { timeout: 10000 });
             const results = await new AxeBuilder({ page }).analyze();
             fs.writeFile(SAVE_PATH, JSON.stringify(results), error => {
               // if (error) console.error(error);
