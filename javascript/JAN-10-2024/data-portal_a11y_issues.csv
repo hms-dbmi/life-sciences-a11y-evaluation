@@ -80,3 +80,6 @@ aria-treeitem-name,null,"Ensures every ARIA treeitem node has an accessible name
 aria-tooltip-name,serious,"Ensures every ARIA tooltip node has an accessible name"
 frame-focusable-content,null,"Ensures <frame> and <iframe> elements with focusable content do not have tabindex=-1"
 blink,serious,"Ensures <blink> elements are not used"
+video-caption,null,"Ensures <video> elements have captions"
+no-autoplay-audio,null,"Ensures <video> or <audio> elements do not autoplay audio for more than 3 seconds without a control mechanism to stop or mute the audio"
+aria-text,null,"Ensures role="text" is used on elements with no focusable descendants"
