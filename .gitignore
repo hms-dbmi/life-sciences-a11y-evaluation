@@ -2,6 +2,7 @@
 .DS_Store
 node_modules/
 reports/
+.virtual_documents/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
