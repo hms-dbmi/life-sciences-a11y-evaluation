@@ -4,13 +4,20 @@ const TIME_STAMP_FOLDER_NAME = 'JAN-10-2024';
 
 (async () => {
     const issues = {}; // list of issues
-    ['data-portal', 'journal-portal', 'gov', 'nei-data-portal', 'nih-data-portal'].forEach(async category => {
+    [
+        // 'data-portal',
+        // 'journal-portal', 
+        // 'gov',
+        // 'nei-data-portal',
+        // 'nih-data-portal',
+        'harvard-data-portal'
+    ].forEach(async category => {
         const a11yResults = {};
-        const files = await fs.readdirSync(`${TIME_STAMP_FOLDER_NAME}/${category}`);
+        const files = await fs.readdirSync(`${TIME_STAMP_FOLDER_NAME}/reports/${category}`);
         await files.filter(d => !d.includes('failed')).forEach(async file => {
             const page_id = file.split('.')[0];
             a11yResults[page_id] = {};
-            const report = await fs.readFileSync(`${TIME_STAMP_FOLDER_NAME}/${category}/${file}`);
+            const report = await fs.readFileSync(`${TIME_STAMP_FOLDER_NAME}/reports/${category}/${file}`);
             const results = JSON.parse(report);
             ['violations', 'passes'].forEach(v_or_p => {
                 results[v_or_p].forEach(issue => {

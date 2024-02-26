@@ -12,10 +12,11 @@ const TIME_STAMP_FOLDER_NAME = 'JAN-10-2024';
 
   const FILES = [
     // 'data-portal_pages.csv', 
-    'journal-portal_pages.csv',
+    // 'journal-portal_pages.csv',
     // 'gov_pages.csv',
     // 'nei-data-portal_pages.csv',
     // 'nih-data-portal_pages.csv'
+    'harvard-data-portal_pages.csv',
   ];
   
   for(let i = 0; i < FILES.length; i++) {
@@ -33,9 +34,9 @@ const TIME_STAMP_FOLDER_NAME = 'JAN-10-2024';
 
           // Manually skip pages that are not working with axe-core
           if(page_id === 'nih-24' || page_id === '22922_home' || page_id === '22886_home' || page_id === '21558_home' || page_id === '20908_home' || page_id === '20653_home' || page_id === '18708_home' || page_id === '18294_home' || page_id === '17781_home' || page_id === '17580_home' || page_id === '17118_home' || page_id === '16625_home' || page_id === '16626_home' || page_id === '16451_home' || page_id === '8495_home' || page_id === '11969_home' || page_id === '13086_home' || page_id === '14490_home' || page_id === '14680_home') continue;
-          const SAVE_PATH = `${file.split('_')[0]}/${page_id}.json`;
+          const SAVE_PATH = `${TIME_STAMP_FOLDER_NAME}/reports/${FILES[i].split('_')[0]}/${page_id}.json`;
           if(fs.existsSync(SAVE_PATH)) continue;
-          const SAVE_FAILED_PATH = `${file.split('_')[0]}/${page_id}_failed.json`;
+          const SAVE_FAILED_PATH = `${TIME_STAMP_FOLDER_NAME}/reports/${FILES[i].split('_')[0]}/${page_id}_failed.json`;
           if(fs.existsSync(SAVE_FAILED_PATH)) continue;
           const browser = await playwright.chromium.launch({ headless: true });
           try {
@@ -48,7 +49,7 @@ const TIME_STAMP_FOLDER_NAME = 'JAN-10-2024';
             });
           } catch (e) {
             fs.writeFile(SAVE_FAILED_PATH, '', error => {});
-            // console.error(e);
+            console.error(e);
           }
           await browser.close();
         };
