@@ -6,33 +6,33 @@ def apply_theme(
     title_dy=-10,
     title_anchor="middle",
     title_font_size=20,
-    subtitle_font_size=16,
-    axis_title_font_size=16,
-    axis_y_title_font_size=16,
-    axis_label_font_size=16,
-    axis_title_padding=10,
+    subtitle_font_size=18,
+    axis_title_font_size=18,
+    axis_y_title_font_size=18,
+    axis_label_font_size=20,
+    axis_title_padding=14,
     axis_tick_color='white',
-    axis_domain_width=1,
+    axis_domain_width=2,
     label_angle=0,
     legend_orient="right",
     legend_title_orient="top",
     legend_stroke_color="transparent",
     legend_padding=0,
     legend_symbol_type="circle",
-    legend_title_font_size=16,
-    label_font_size=16,
+    legend_title_font_size=18,
+    label_font_size=20,
     header_label_font_size=18,
     header_label_orient='top',
     point_size=70,
     gradient_length=50,
     x_label_angle=0,
-    view_stroke_width=1
+    view_stroke_width=1.5
 ):
     return base.configure(
         font='Arial',
     ).configure_header(
         titleFontSize=20,
-        titleFontWeight=500,
+        titleFontWeight=600,
         labelOrient=header_label_orient,
         labelFontSize=header_label_font_size,
         labelFontWeight=500,
@@ -40,17 +40,17 @@ def apply_theme(
         fontSize=title_font_size,
         subtitleFontSize=subtitle_font_size,
         subtitleColor='grey',
-        fontWeight=500,
+        fontWeight=600,
         anchor=title_anchor,
         align="left",
         dy=title_dy,
         subtitlePadding=10
     ).configure_axis(
-        # domainWidth=2,
+        # domainWidth=1,
         labelFontSize=axis_label_font_size,
         labelFontWeight=400,
         titleFontSize=axis_title_font_size,
-        titleFontWeight=500,
+        titleFontWeight=400,
         labelLimit=1000,
         labelPadding=10,
         titlePadding=axis_title_padding,
@@ -85,10 +85,9 @@ def apply_theme(
     ).configure_concat(
         spacing=30
     ).configure_view(
-        fill='#F5F5F5',  #'transparent', # ', # '#F6F6F6', # '#F5F5F5', '#FBFBFB'
+        fill='white',#'#F5F5F5',  #'transparent', # ', # '#F6F6F6', # '#F5F5F5', '#FBFBFB'
         strokeWidth=view_stroke_width,
-        stroke='white'
-        # strokeWidth=2
+        stroke='#E9E9E9'
     ).configure_point(
         size=point_size
     )

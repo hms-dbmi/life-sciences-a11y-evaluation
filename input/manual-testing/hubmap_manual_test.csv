@@ -1,0 +1,11 @@
+TASK_ID,TASK_SHORT_DESC,TASK_LONG_DESC,SUCCESS,SECONDS,CONFIDENCE,SATISFACTION,FRUSTRATION
+1,Sign in,Sign in to the HuBMAP data portal,X,425,4,4,3
+2,Find publications,Find a list of publications that used HuBMAP data. How many peer-reviewed papers are there?,O,106,5,5,4
+3,Filter datasets,Find kidney datasets for donors over the age of 65,X,300,3,3,3
+4,Query by gene,"Query data for a gene name CTPS1. Use parameters of Gene Expression (RNA), Minimum Expression Level of 10, and Minimum Cell Percentage of 2. What is the HuBMAP ID of the first data appearing in the result?",X,300,4,4,3
+5,Filter donors,Find male donors that are between 35-65 years with a BMI (Body Mass Index) above 18,O,74,5,5,6
+6,Download a file,"For a given dataset, download a file for a dataset",X,300,4,6,2
+7,Find donor metadata of a dataset,"For a given dataset, go to a donor page to find donor metadata",O,131,6,5,6
+8,Find contributors of a dataset,"For a given dataset, find contributors of the dataset",O,20,7,7,7
+9,Bookmark a dataset,"For a given dataset, save or bookmark the data on the page and see that in the account.",O,64,7,7,7
+10,Identify visualization types,Find a visualization in a dataset page. Identify what kinds of visualization there are.,O,22,5,5,5
