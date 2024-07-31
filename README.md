@@ -17,13 +17,6 @@ conda activate life-sciences-a11y-evaluation
 jupyter lab notebooks
 ```
 
-> [!IMPORTANT]  
-> Accessibility is evaluated using [WAVE API](https://wave.webaim.org/api/). To run the evaluation, you need to put an `api.lab.key` file that contains the [API key](https://wave.webaim.org/api/details). If you are a member of [HIDIVE Lab](https://hidivelab.org/), contact either Sehi L'Yi (sehi_lyi@hms.harvard.edu) or Nils Gehlenborg to obtain the API key.
-
-## Data Schema
-
-<img src='./images/data-schema.png' width='800px'/>
-
 ## Troubleshooting
 
 To add or remove a conda package, update the environment file. Then run
