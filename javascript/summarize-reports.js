@@ -21,39 +21,47 @@ const BASE_PATH = `../data/${TIME_STAMP_FOLDER_NAME}/reports`;
   const reports = {};
   const issues = {};
 
-  rawReports.forEach(async file => {
-    reports[file] = {};
+  rawReports.forEach(async reportPath => {
+    reports[reportPath] = {};
 
-    const reportStr = await fs.readFileSync(`${BASE_PATH}/${file}`);
+    const reportStr = await fs.readFileSync(`${BASE_PATH}/${reportPath}`);
     const report = JSON.parse(reportStr);
+
+    /** Store the original URL */
+    const url = report.url;
+    reports[reportPath]['url'] = url;
+
     ['violations', 'passes'].forEach(v_or_p => {
       report[v_or_p].forEach(issue => {
         const { id: issueId, impact, tags, description, help, helpUrl, nodes } = issue;
         if(!issues[issueId]) issues[issueId] = { impact, description, help, helpUrl };
-        if(!reports[file][issueId]) reports[file][issueId] = {};
-        reports[file][issueId][v_or_p] = nodes.length;
+        if(!reports[reportPath][issueId]) reports[reportPath][issueId] = {};
+        reports[reportPath][issueId][v_or_p] = nodes.length;
       });
     });
 
 
     /** Save CSV files */
     let csvContent = '';
-    await Object.keys(reports).forEach(file => {
+    await Object.keys(reports).forEach(reportPath => {
+      const url = reports[reportPath]['url'];
       // file is in the format of [category]/[page_id]_[pate_type].json
-      const category = file.split('/')[0]; // e.g., "data portal"
-      const page_id = file.split('/')[1].split('_')[0];
-      const page_type = file.split('/')[1].split('_')[1].split('.')[0];
+      const category = reportPath.split('/')[0]; // e.g., "data portal"
+      const page_id = reportPath.split('/')[1].split('_')[0];
+      const page_type = reportPath.split('/')[1].split('_')[1].split('.')[0];
 
       /** Add a header first */
-      csvContent += 'category,page_id,page_type,issue,violations,passes,total_checks,failure_rate\n';
+      csvContent += 'page_category,page_id,page_type,page_url,issue_id,issue_desc,issue_impact,issue_help,issue_url,violations,passes,total_checks,failure_rate\n';
       /** Add the content */
-      Object.keys(reports[file]).forEach(issue => {
-        let { violations, passes } = reports[file][issue];
+      Object.keys(reports[reportPath]).forEach(issue => {
+        if(issue === 'url') return; // we store the 'url' at the same level of issue id
+        let { violations, passes } = reports[reportPath][issue];
         violations = violations ?? 0;
         passes = passes ?? 0;
         const total_checks = violations + passes;
         const ff = violations / total_checks;
-        csvContent += `${category},${page_id},${page_type},${issue},${violations},${passes},${total_checks},${ff}\n`;
+        const { impact, description, help, helpUrl } = issues[issue];
+        csvContent += `${category},${page_id},${page_type},${url},${issue},"${description}",${impact},"${help}",${helpUrl},${violations},${passes},${total_checks},${ff}\n`;
       });
     });
     fs.writeFileSync(`${BASE_PATH}/accessibility-status.csv`, csvContent, error => {
@@ -61,11 +69,11 @@ const BASE_PATH = `../data/${TIME_STAMP_FOLDER_NAME}/reports`;
     });
     let issuesContent = '';
     /** Add a header first */
-    issuesContent += 'issue_id,impact,description\n';
+    issuesContent += 'issue_id,impact,description,help,url\n';
     /** Add the content */
     await Object.keys(issues).forEach(issueId => {
       const { impact, description, help, helpUrl } = issues[issueId];
-      issuesContent += `${issueId},${impact},"${description}"\n`;
+      issuesContent += `${issueId},${impact},"${description}",${impact},"${help}",${helpUrl}\n`;
     });
     fs.writeFileSync(`${BASE_PATH}/unique-issues.csv`, issuesContent, error => {
       if(error) console.error(error);
