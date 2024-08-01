@@ -11,7 +11,7 @@ if(!TIME_STAMP_FOLDER_NAME) {
   console.error('Please provide a timestamp folder name as an argument.');
   return;
 }
-const BASE_PATH = `../data/${TIME_STAMP_FOLDER_NAME}/reports`;
+const BASE_PATH = `../data/${TIME_STAMP_FOLDER_NAME}/results`;
 
 (async () => {
   /** get all the successfully collected raw reports first */
@@ -42,16 +42,16 @@ const BASE_PATH = `../data/${TIME_STAMP_FOLDER_NAME}/reports`;
 
 
     /** Save CSV files */
-    let csvContent = '';
+    /** Add a header first */
+    let csvContent = 'resource_category,webpage_id,page_id,page_type,page_url,issue_id,issue_desc,issue_impact,issue_help,issue_url,violations,passes,total_checks,failure_rate\n';
     await Object.keys(reports).forEach(reportPath => {
       const url = reports[reportPath]['url'];
-      // file is in the format of [category]/[page_id]_[pate_type].json
-      const category = reportPath.split('/')[0]; // e.g., "data portal"
-      const page_id = reportPath.split('/')[1].split('_')[0];
-      const page_type = reportPath.split('/')[1].split('_')[1].split('.')[0];
+      // file is in the format of [category]/[website-id]_[page_id]_[page_type].json
+      const resource_category = reportPath.split('/')[0]; // e.g., "data portal"
+      const website_id = reportPath.split('/')[1].split('_')[0]; // e.g., "data-portal-row-0" or "hubmap"
+      const page_id = reportPath.split('/')[1].split('_')[1]; // e.g., "home" or "unknown"
+      const page_type = reportPath.split('/')[1].split('_')[2].split('.')[0]; // "home" or "unknown"
 
-      /** Add a header first */
-      csvContent += 'page_category,page_id,page_type,page_url,issue_id,issue_desc,issue_impact,issue_help,issue_url,violations,passes,total_checks,failure_rate\n';
       /** Add the content */
       Object.keys(reports[reportPath]).forEach(issue => {
         if(issue === 'url') return; // we store the 'url' at the same level of issue id
@@ -61,7 +61,7 @@ const BASE_PATH = `../data/${TIME_STAMP_FOLDER_NAME}/reports`;
         const total_checks = violations + passes;
         const ff = violations / total_checks;
         const { impact, description, help, helpUrl } = issues[issue];
-        csvContent += `${category},${page_id},${page_type},${url},${issue},"${description}",${impact},"${help}",${helpUrl},${violations},${passes},${total_checks},${ff}\n`;
+        csvContent += `${resource_category},${website_id},${page_id},${page_type},${url},${issue},"${description}",${impact},"${help}",${helpUrl},${violations},${passes},${total_checks},${ff}\n`;
       });
     });
     fs.writeFileSync(`${BASE_PATH}/accessibility-status.csv`, csvContent, error => {

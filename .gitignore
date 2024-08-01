@@ -1,6 +1,5 @@
-# Project-specific
-**/reports/*
-!**/reports/*.csv
+# Raw accessibility reports
+**/results/**/*.json
 
 *.key
 .DS_Store

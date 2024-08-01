@@ -1,1 +1,0 @@
-{"status": {"success": false, "error": "Error: Evaluation failed: ReferenceError: wave is not defined\n    at __puppeteer_evaluation_script__:2:4"}}
