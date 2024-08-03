@@ -40,12 +40,10 @@ const BASE_PATH = `../data/${TIME_STAMP_FOLDER_NAME}/results`;
       });
     });
 
-
     /** Save CSV files */
-    /** Add a header first */
-    let csvContent = 'resource_category,webpage_id,page_id,page_type,page_url,issue_id,issue_desc,issue_impact,issue_help,issue_url,violations,passes,total_checks,failure_rate\n';
-    await Object.keys(reports).forEach(reportPath => {
-      const url = reports[reportPath]['url'];
+    let csvContent = '';
+    // await Object.keys(reports).forEach(reportPath => {
+      // const url = reports[reportPath]['url'];
       // file is in the format of [category]/[website-id]_[page_id]_[page_type].json
       const resource_category = reportPath.split('/')[0]; // e.g., "data portal"
       const website_id = reportPath.split('/')[1].split('_')[0]; // e.g., "data-portal-row-0" or "hubmap"
@@ -61,10 +59,17 @@ const BASE_PATH = `../data/${TIME_STAMP_FOLDER_NAME}/results`;
         const total_checks = violations + passes;
         const ff = violations / total_checks;
         const { impact, description, help, helpUrl } = issues[issue];
-        csvContent += `${resource_category},${website_id},${page_id},${page_type},${url},${issue},"${description}",${impact},"${help}",${helpUrl},${violations},${passes},${total_checks},${ff}\n`;
+        csvContent += `${resource_category},"${website_id}",${page_id},${page_type},"${url}",${issue},"${description}",${impact},"${help}",${helpUrl},${violations},${passes},${total_checks},${ff}\n`;
       });
-    });
-    fs.writeFileSync(`${BASE_PATH}/accessibility-status.csv`, csvContent, error => {
+    // });
+    if(rawReports[0] === reportPath) {
+      /** Add a header first */
+      const header = 'resource_category,wesite_id,page_id,page_type,page_url,issue_id,issue_desc,issue_impact,issue_help,issue_url,violations,passes,total_checks,failure_rate\n';
+      await fs.writeFileSync(`${BASE_PATH}/accessibility-status.csv`, header, error => {
+        if(error) console.error(error);
+      });
+    }
+    await fs.appendFileSync(`${BASE_PATH}/accessibility-status.csv`, csvContent, error => {
       if(error) console.error(error);
     });
     let issuesContent = '';
@@ -73,10 +78,11 @@ const BASE_PATH = `../data/${TIME_STAMP_FOLDER_NAME}/results`;
     /** Add the content */
     await Object.keys(issues).forEach(issueId => {
       const { impact, description, help, helpUrl } = issues[issueId];
-      issuesContent += `${issueId},${impact},"${description}",${impact},"${help}",${helpUrl}\n`;
+      issuesContent += `${issueId},${impact},"${description}","${help}",${helpUrl}\n`;
     });
     fs.writeFileSync(`${BASE_PATH}/unique-issues.csv`, issuesContent, error => {
       if(error) console.error(error);
     });
+
   });
 })();
