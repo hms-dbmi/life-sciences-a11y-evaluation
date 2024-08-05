@@ -17,6 +17,8 @@ conda activate life-sciences-a11y-evaluation
 jupyter lab notebooks
 ```
 
+Unzip accessibility results (`accessibility-status.csv.zip`) that you want to use and analyze.
+
 ## Troubleshooting
 
 To add or remove a conda package, update the environment file. Then run
