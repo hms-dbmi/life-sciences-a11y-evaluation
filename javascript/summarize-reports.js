@@ -64,7 +64,7 @@ const BASE_PATH = `../data/${TIME_STAMP_FOLDER_NAME}/results`;
     // });
     if(rawReports[0] === reportPath) {
       /** Add a header first */
-      const header = 'resource_category,wesite_id,page_id,page_type,page_url,issue_id,issue_desc,issue_impact,issue_help,issue_url,violations,passes,total_checks,failure_rate\n';
+      const header = 'resource_category,website_id,page_id,page_type,page_url,issue_id,issue_desc,issue_impact,issue_help,issue_url,violations,passes,total_checks,failure_rate\n';
       await fs.writeFileSync(`${BASE_PATH}/accessibility-status.csv`, header, error => {
         if(error) console.error(error);
       });
