@@ -11,7 +11,7 @@ const axios = require('axios');
 
 /** configure input data */
 const TIME_STAMP_FOLDER_NAME = process.argv[2];
-if(!TIME_STAMP_FOLDER_NAME) {
+if (!TIME_STAMP_FOLDER_NAME) {
   console.error('Please provide a timestamp folder name as an argument.');
   return;
 }
@@ -28,13 +28,13 @@ const outputFolder = `${basePath}/results`;
    * For example, URLs found under the `data_portal` folder are set to `data_portal` category.
    */
   const resourceCategories = (await fs.readdirSync(inputFolder)).filter(file => !file.includes('.'));
-  for(let rc = 0; rc < resourceCategories.length; rc++) {
+  for (let rc = 0; rc < resourceCategories.length; rc++) {
 
     const resource_category = resourceCategories[rc];
     /** Get all files in the input folder */
     const categoryFolder = `${inputFolder}/${resource_category}`;
     const files = (await fs.readdirSync(categoryFolder)).filter(file => file.endsWith('.csv'));
-    for(let i = 0; i < files.length; i++) {
+    for (let i = 0; i < files.length; i++) {
 
       /** Read a file */
       const file = `${categoryFolder}/${files[i]}`;
@@ -51,25 +51,38 @@ const outputFolder = `${basePath}/results`;
             /** Read a row and fill in missing data */
             const row = rows[j];
             const { url } = row;
+
+            if ([
+              'https://uspis.gov',
+              'https://cb.imsc.res.in/imppat',
+              'http://memprotmd.bioch.ox.ac.uk',
+              'http://www.ijo.cn/gjyken/ch/index.aspx',
+              'http://www.medbc.com/annals/',
+              'http://www.lifespanjournal.it/',
+              'http://www.cjrm.ca/',
+              'http://xuebao.bjmu.edu.cn/EN/1671-167X/home.shtml',
+              'http://ytlx.whrsm.ac.cn/EN/1000-7598/home.shtml'
+            ].indexOf(url) !== -1) continue;
+
             let { website_id, page_id, page_type } = row;
-            if(!website_id) website_id = `${resource_category}-row-${j}`;
-            if(!page_type) page_type = 'unknown';
+            if (!website_id) website_id = `${resource_category}-row-${j}`;
+            if (!page_type) page_type = 'unknown';
 
             const SAVE_FOLDER = `${outputFolder}/${resource_category}`;
-            if(!fs.existsSync(SAVE_FOLDER)) {
+            if (!fs.existsSync(SAVE_FOLDER)) {
               // If the file does not exist, create one.
               fs.mkdirSync(SAVE_FOLDER, { recursive: true });
             }
 
             const savePathBase = `${SAVE_FOLDER}/${website_id}_${page_id}_${page_type}`;
             const savePath = `${savePathBase}.json`;
-            if(fs.existsSync(savePath)) continue; // This means the report already exists.
+            if (fs.existsSync(savePath)) continue; // This means the report already exists.
             const savePathFailedFile = `${savePathBase}_failed.json`;
-            if(fs.existsSync(savePathFailedFile)) continue; // This means the report already exists.
+            if (fs.existsSync(savePathFailedFile)) continue; // This means the report already exists.
             const savePath404File = `${savePathBase}_failed_by_404.json`;
-            if(fs.existsSync(savePath404File)) continue; // This means the report already exists.
+            if (fs.existsSync(savePath404File)) continue; // This means the report already exists.
 
-            if(notYetPrintedStartProgree) {
+            if (notYetPrintedStartProgree) {
               console.log(`[${file}] ${(j / rows.length * 100).toPrecision(4)}% at ${url}`);
               notYetPrintedStartProgree = false;
             }
@@ -78,13 +91,13 @@ const outputFolder = `${basePath}/results`;
             try {
               await axios.get(url, {
                 signal: AbortSignal.timeout(10000) // Aborts request after 10 seconds
-             });
+              });
             } catch (error) {
               if (error.response?.status == 404) {
                 console.error(`[${(j / rows.length * 100).toPrecision(4)}] This URL ${url} has the 404 page.`);
-                fs.writeFile(savePath404File, '', error => {});
+                fs.writeFile(savePath404File, '404', error => { });
               } else {
-                fs.writeFile(savePathFailedFile, '', error => {});
+                fs.writeFile(savePathFailedFile, `${error.response?.status}`, error => { });
               }
               continue;
             }
@@ -100,7 +113,7 @@ const outputFolder = `${basePath}/results`;
                 if (error) console.error(error);
               });
             } catch (e) {
-              fs.writeFile(savePathFailedFile, '', error => {});
+              fs.writeFile(savePathFailedFile, '', error => { });
               console.error(website_id, url, e);
             }
             await browser.close();
