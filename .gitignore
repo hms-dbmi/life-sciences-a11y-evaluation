@@ -1,6 +1,7 @@
 # Raw accessibility reports
 **/results/**/*.json
-**/results/accessibility-status.csv
+**/results/reports-raw.csv
+**/results/reports.csv
 
 *.key
 .DS_Store

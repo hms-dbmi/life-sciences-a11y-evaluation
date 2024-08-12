@@ -7,7 +7,7 @@ const fs = require('fs');
 
 /** configure input data */
 const TIME_STAMP_FOLDER_NAME = process.argv[2];
-if(!TIME_STAMP_FOLDER_NAME) {
+if (!TIME_STAMP_FOLDER_NAME) {
   console.error('Please provide a timestamp folder name as an argument.');
   return;
 }
@@ -34,8 +34,8 @@ const BASE_PATH = `../data/${TIME_STAMP_FOLDER_NAME}/results`;
     ['violations', 'passes'].forEach(v_or_p => {
       report[v_or_p].forEach(issue => {
         const { id: issueId, impact, tags, description, help, helpUrl, nodes } = issue;
-        if(!issues[issueId]) issues[issueId] = { impact, description, help, helpUrl };
-        if(!reports[reportPath][issueId]) reports[reportPath][issueId] = {};
+        if (!issues[issueId]) issues[issueId] = { impact, description, help, helpUrl };
+        if (!reports[reportPath][issueId]) reports[reportPath][issueId] = {};
         reports[reportPath][issueId][v_or_p] = nodes.length;
       });
     });
@@ -43,34 +43,34 @@ const BASE_PATH = `../data/${TIME_STAMP_FOLDER_NAME}/results`;
     /** Save CSV files */
     let csvContent = '';
     // await Object.keys(reports).forEach(reportPath => {
-      // const url = reports[reportPath]['url'];
-      // file is in the format of [category]/[website-id]_[page_id]_[page_type].json
-      const resource_category = reportPath.split('/')[0]; // e.g., "data portal"
-      const website_id = reportPath.split('/')[1].split('_')[0]; // e.g., "data-portal-row-0" or "hubmap"
-      const page_id = reportPath.split('/')[1].split('_')[1]; // e.g., "home" or "unknown"
-      const page_type = reportPath.split('/')[1].split('_')[2].split('.')[0]; // "home" or "unknown"
+    // const url = reports[reportPath]['url'];
+    // file is in the format of [category]/[website-id]_[page_id]_[page_type].json
+    const resource_category = reportPath.split('/')[0]; // e.g., "data portal"
+    const website_id = reportPath.split('/')[1].split('_')[0]; // e.g., "data-portal-row-0" or "hubmap"
+    const page_id = reportPath.split('/')[1].split('_')[1]; // e.g., "home" or "unknown"
+    const page_type = reportPath.split('/')[1].split('_')[2].split('.')[0]; // "home" or "unknown"
 
-      /** Add the content */
-      Object.keys(reports[reportPath]).forEach(issue => {
-        if(issue === 'url') return; // we store the 'url' at the same level of issue id
-        let { violations, passes } = reports[reportPath][issue];
-        violations = violations ?? 0;
-        passes = passes ?? 0;
-        const total_checks = violations + passes;
-        const ff = violations / total_checks;
-        const { impact, description, help, helpUrl } = issues[issue];
-        csvContent += `${resource_category},"${website_id}",${page_id},${page_type},"${url}",${issue},"${description}",${impact},"${help}",${helpUrl},${violations},${passes},${total_checks},${ff}\n`;
-      });
+    /** Add the content */
+    Object.keys(reports[reportPath]).forEach(issue => {
+      if (issue === 'url') return; // we store the 'url' at the same level of issue id
+      let { violations, passes } = reports[reportPath][issue];
+      violations = violations ?? 0;
+      passes = passes ?? 0;
+      const total_checks = violations + passes;
+      const ff = violations / total_checks;
+      const { impact, description, help, helpUrl } = issues[issue];
+      csvContent += `${resource_category},"${website_id}",${page_id},${page_type},"${url}",${issue},"${description}",${impact},"${help}",${helpUrl},${violations},${passes},${total_checks},${ff}\n`;
+    });
     // });
-    if(rawReports[0] === reportPath) {
+    if (rawReports[0] === reportPath) {
       /** Add a header first */
       const header = 'resource_category,website_id,page_id,page_type,page_url,issue_id,issue_desc,issue_impact,issue_help,issue_url,violations,passes,total_checks,failure_rate\n';
-      await fs.writeFileSync(`${BASE_PATH}/accessibility-status.csv`, header, error => {
-        if(error) console.error(error);
+      await fs.writeFileSync(`${BASE_PATH}/reports-raw.csv`, header, error => {
+        if (error) console.error(error);
       });
     }
-    await fs.appendFileSync(`${BASE_PATH}/accessibility-status.csv`, csvContent, error => {
-      if(error) console.error(error);
+    await fs.appendFileSync(`${BASE_PATH}/reports-raw.csv`, csvContent, error => {
+      if (error) console.error(error);
     });
     let issuesContent = '';
     /** Add a header first */
@@ -81,7 +81,7 @@ const BASE_PATH = `../data/${TIME_STAMP_FOLDER_NAME}/results`;
       issuesContent += `${issueId},${impact},"${description}","${help}",${helpUrl}\n`;
     });
     fs.writeFileSync(`${BASE_PATH}/unique-issues.csv`, issuesContent, error => {
-      if(error) console.error(error);
+      if (error) console.error(error);
     });
 
   });
