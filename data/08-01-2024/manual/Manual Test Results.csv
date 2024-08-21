@@ -1,0 +1,31 @@
+DATA_PORTAL,TASK_ID,TASK_SHORT_DESC,TASK_LONG_DESC,SUCCESS,SECONDS,CONFIDENCE,SATISFACTION,FRUSTRATION
+HuBMAP,1,Sign in,Sign in to the HuBMAP data portal,X,425,4,4,3
+HuBMAP,2,Find publications,Find a list of publications that used HuBMAP data. How many peer-reviewed papers are there?,O,106,5,5,4
+HuBMAP,3,Filter datasets,Find kidney datasets for donors over the age of 65,X,300,3,3,3
+HuBMAP,4,Query by gene,"Query data for a gene name CTPS1. Use parameters of Gene Expression (RNA), Minimum Expression Level of 10, and Minimum Cell Percentage of 2. What is the HuBMAP ID of the first data appearing in the result?",X,300,4,4,3
+HuBMAP,5,Filter donors/samples,Find male donors that are between 35-65 years with a BMI (Body Mass Index) above 18,O,74,5,5,6
+HuBMAP,6,Download a file,"For a given dataset, download a file for a dataset",X,300,4,4,5
+HuBMAP,7,Find donor/publisher of a dataset,"For a given dataset, go to a donor page to find donor metadata",O,131,6,5,6
+HuBMAP,8,Find metadata of a dataset,"For a given dataset, find contributors of the dataset",O,20,7,7,7
+HuBMAP,9,Bookmark a dataset,"For a given dataset, save or bookmark the data on the page and see that in the account.",O,64,7,7,7
+HuBMAP,10,Identify visualization types,Find a visualization in a dataset page. Identify what kinds of visualization there are.,O,22,5,5,5
+ENCODE,1,Sign in,Sign in to the data portal,O,152,7,3,2
+ENCODE,2,Find publications,Find a list of publications of the ENCODE project. Can you find the title of the first publication?,O,255,5,4,3
+ENCODE,3,Filter datasets,Find kidney datasets for donors who are male,X,300,1,2,2
+ENCODE,4,Query by gene,Search by region (gene name: CTCF) for mouse genomes (Mus Musculus). ,X,300,5,3,3
+ENCODE,5,Filter donors/samples,"Find a page for single cell experiments, and find kidney datasets. How many datasets are there?",O,167,5,4,4
+ENCODE,6,Download a file,"For a given dataset, download a file with a file extension of BEDPE.",X,300,4,3,3
+ENCODE,7,Find donor/publisher of a dataset,"For a given dataset, go to an award page to find award metadata. Can you identify who is the primary investigator?",O,46,7,6,6
+ENCODE,8,Find metadata of a dataset,"For a given dataset, find the Biosample Type of the dataset",O,31,7,7,7
+ENCODE,9,Bookmark a dataset,"For a given dataset, add the dataset to your cart",O,29,7,7,7
+ENCODE,10,Identify visualization types,Find a visualization on a summary page. Identify what kinds of visualization there are.,X,300,2,1,1
+cBioPortal,1,Sign in,Sign in to the data portal,O,58,7,6,6
+cBioPortal,2,Find publications,Find a list of publications of the cBioPortal project. Can you find the title of the first publication?,X,300,1,1,1
+cBioPortal,3,Filter datasets,"Filter datasets (here, studies) that are related to Kidney.",X,63,6,6,6
+cBioPortal,4,Query by gene,Can you search datasets by gene (gene name: CTCF)?,X,119,5,6,6
+cBioPortal,5,Filter donors/samples,Can you filter datasets by data type? Select datasets with “Mutations” data type.,O,40,7,7,7
+cBioPortal,6,Download a file,"For a given study, download a file.",X,300,1,1,1
+cBioPortal,7,Find donor/publisher of a dataset,"For a given dataset, find the gender of the donor. You may go to another page for this task.",O,70,7,4,4
+cBioPortal,8,Find metadata of a dataset,"For a given dataset, find the assay type of the dataset.",O,57,7,7,7
+cBioPortal,9,Bookmark a dataset,"For a given dataset, add the dataset to your bookmark.",X,300,1,1,1
+cBioPortal,10,Identify visualization types,Find visualizations on the Summary page. Identify what kinds of visualization there are.,X,300,1,1,1
