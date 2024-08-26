@@ -1,0 +1,31 @@
+,DATA_PORTAL,TASK_ID,TASK_SHORT_DESC,TASK_LONG_DESC,SUCCESS,SECONDS,CONFIDENCE,SATISFACTION,FRUSTRATION,TASK,MINUTES,IS_SUCCESS,baseline
+0,HuBMAP,1,Sign in,Sign in to the HuBMAP data portal,Failed in 5 mins,300,4,4,5,T1. Sign in,5.0,Fail,4
+1,HuBMAP,2,Find publications,Find a list of publications that used HuBMAP data. How many peer-reviewed papers are there?,Succeeded in 5 mins,106,5,5,4,T2. Find publications,1.7666666666666666,Success,4
+2,HuBMAP,3,Filter datasets,Find kidney datasets for donors over the age of 65,Failed in 5 mins,300,3,3,5,T3. Filter datasets,5.0,Fail,4
+3,HuBMAP,4,Query by gene,"Query data for a gene name CTPS1. Use parameters of Gene Expression (RNA), Minimum Expression Level of 10, and Minimum Cell Percentage of 2. What is the HuBMAP ID of the first data appearing in the result?",Failed in 5 mins,300,4,4,5,T4. Query by gene,5.0,Fail,4
+4,HuBMAP,5,Filter donors/samples,Find male donors that are between 35-65 years with a BMI (Body Mass Index) above 18,Succeeded in 5 mins,74,5,5,2,T5. Filter donors/samples,1.2333333333333334,Success,4
+5,HuBMAP,6,Download a file,"For a given dataset, download a file for a dataset",Failed in 5 mins,300,4,4,3,T6. Download a file,5.0,Fail,4
+6,HuBMAP,7,Find donor/publisher of a dataset,"For a given dataset, go to a donor page to find donor metadata",Succeeded in 5 mins,131,6,5,2,T7. Find donor/publisher of a dataset,2.183333333333333,Success,4
+7,HuBMAP,8,Find metadata of a dataset,"For a given dataset, find contributors of the dataset",Succeeded in 5 mins,20,7,7,1,T8. Find metadata of a dataset,0.3333333333333333,Success,4
+8,HuBMAP,9,Bookmark a dataset,"For a given dataset, save or bookmark the data on the page and see that in the account.",Succeeded in 5 mins,64,7,7,1,T9. Bookmark a dataset,1.0666666666666667,Success,4
+9,HuBMAP,10,Identify visualization types,Find a visualization in a dataset page. Identify what kinds of visualization there are.,Succeeded in 5 mins,22,5,5,3,T10. Identify visualization types,0.36666666666666664,Success,4
+10,ENCODE,1,Sign in,Sign in to the data portal,Succeeded in 5 mins,152,7,3,6,T1. Sign in,2.533333333333333,Success,4
+11,ENCODE,2,Find publications,Find a list of publications of the ENCODE project. Can you find the title of the first publication?,Succeeded in 5 mins,255,5,4,5,T2. Find publications,4.25,Success,4
+12,ENCODE,3,Filter datasets,Find kidney datasets for donors who are male,Failed in 5 mins,300,1,2,6,T3. Filter datasets,5.0,Fail,4
+13,ENCODE,4,Query by gene,Search by region (gene name: CTCF) for mouse genomes (Mus Musculus). ,Failed in 5 mins,300,5,3,5,T4. Query by gene,5.0,Fail,4
+14,ENCODE,5,Filter donors/samples,"Find a page for single cell experiments, and find kidney datasets. How many datasets are there?",Succeeded in 5 mins,167,5,4,4,T5. Filter donors/samples,2.783333333333333,Success,4
+15,ENCODE,6,Download a file,"For a given dataset, download a file with a file extension of BEDPE.",Failed in 5 mins,300,4,3,5,T6. Download a file,5.0,Fail,4
+16,ENCODE,7,Find donor/publisher of a dataset,"For a given dataset, go to an award page to find award metadata. Can you identify who is the primary investigator?",Succeeded in 5 mins,46,7,6,2,T7. Find donor/publisher of a dataset,0.7666666666666667,Success,4
+17,ENCODE,8,Find metadata of a dataset,"For a given dataset, find the Biosample Type of the dataset",Succeeded in 5 mins,31,7,7,1,T8. Find metadata of a dataset,0.5166666666666667,Success,4
+18,ENCODE,9,Bookmark a dataset,"For a given dataset, add the dataset to your cart",Succeeded in 5 mins,29,7,7,1,T9. Bookmark a dataset,0.48333333333333334,Success,4
+19,ENCODE,10,Identify visualization types,Find a visualization on a summary page. Identify what kinds of visualization there are.,Failed in 5 mins,300,2,1,7,T10. Identify visualization types,5.0,Fail,4
+20,cBioPortal,1,Sign in,Sign in to the data portal,Succeeded in 5 mins,58,7,6,2,T1. Sign in,0.9666666666666667,Success,4
+21,cBioPortal,2,Find publications,Find a list of publications of the cBioPortal project. Can you find the title of the first publication?,Failed in 5 mins,300,1,1,7,T2. Find publications,5.0,Fail,4
+22,cBioPortal,3,Filter datasets,"Filter datasets (here, studies) that are related to Kidney.",Failed in 5 mins,63,6,6,2,T3. Filter datasets,1.05,Fail,4
+23,cBioPortal,4,Query by gene,Can you search datasets by gene (gene name: CTCF)?,Failed in 5 mins,119,5,6,2,T4. Query by gene,1.9833333333333334,Fail,4
+24,cBioPortal,5,Filter donors/samples,Can you filter datasets by data type? Select datasets with “Mutations” data type.,Succeeded in 5 mins,40,7,7,1,T5. Filter donors/samples,0.6666666666666666,Success,4
+25,cBioPortal,6,Download a file,"For a given study, download a file.",Failed in 5 mins,300,1,1,7,T6. Download a file,5.0,Fail,4
+26,cBioPortal,7,Find donor/publisher of a dataset,"For a given dataset, find the gender of the donor. You may go to another page for this task.",Succeeded in 5 mins,70,7,4,4,T7. Find donor/publisher of a dataset,1.1666666666666667,Success,4
+27,cBioPortal,8,Find metadata of a dataset,"For a given dataset, find the assay type of the dataset.",Succeeded in 5 mins,57,7,7,1,T8. Find metadata of a dataset,0.95,Success,4
+28,cBioPortal,9,Bookmark a dataset,"For a given dataset, add the dataset to your bookmark.",Failed in 5 mins,300,1,1,7,T9. Bookmark a dataset,5.0,Fail,4
+29,cBioPortal,10,Identify visualization types,Find visualizations on the Summary page. Identify what kinds of visualization there are.,Failed in 5 mins,300,1,1,7,T10. Identify visualization types,5.0,Fail,4

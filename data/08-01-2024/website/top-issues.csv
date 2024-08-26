@@ -1,0 +1,21 @@
+,issue_name,resource_category,num_pages_with_issues,failure_rate
+62,Heading 1 Missing,Data Portals,1459,0.46883033419023135
+64,Heading Has Bad Structure (order),Data Portals,828,0.2660668380462725
+72,Image Has No Label,Data Portals,1500,0.4820051413881748
+82,Landmark Has Bad Structure (duplicated),Data Portals,390,0.12532133676092544
+88,Landmark Has Bad Structure (multiple main),Data Portals,2303,0.7400385604113111
+92,Landmark Has Bad Structure (not contained with landmark),Data Portals,2755,0.8852827763496144
+94,Lang Is Missing,Data Portals,1520,0.4884318766066838
+102,Link Has No Label,Data Portals,1294,0.4158097686375321
+104,Link Not Clearly Visible,Data Portals,647,0.20790488431876605
+110,Low Color Contrast,Data Portals,2000,0.6426735218508998
+63,Heading 1 Missing,Journal Websites,909,0.1782702490684448
+65,Heading Has Bad Structure (order),Journal Websites,1300,0.25495195136301235
+73,Image Has No Label,Journal Websites,2100,0.4118454598940969
+83,Landmark Has Bad Structure (duplicated),Journal Websites,1404,0.27534810747205335
+89,Landmark Has Bad Structure (multiple main),Journal Websites,1658,0.32516179643067267
+93,Landmark Has Bad Structure (not contained with landmark),Journal Websites,3914,0.767601490488331
+95,Lang Is Missing,Journal Websites,881,0.17277897626985683
+103,Link Has No Label,Journal Websites,2716,0.5326534614630319
+105,Link Not Clearly Visible,Journal Websites,783,0.15355952147479898
+111,Low Color Contrast,Journal Websites,3047,0.5975681506177681
