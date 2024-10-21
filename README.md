@@ -44,7 +44,5 @@ https://ngdc.cncb.ac.cn/databasecommons/database/browse?term=&q=&draw=1&columns%
 Please cite the [following paper](https://osf.io/5v98j/):
 
 ```
-Sehi L'Yi, Thomas C Smits, Alexander Lex, Nils Gehlenborg, 
-Digital Accessibility of Life Sciences Data Portals and Journal Websites, 
-OSF Preprints, 10.31219/osf.io/5v98j
+Sehi L'Yi, Harrison G Zhang, Andrew P Mar, Thomas C Smits, Lawrence Weru, Sofía Rojas, Alexander Lex, Nils Gehlenborg. A comprehensive evaluation of life sciences data resources reveals significant accessibility barriers, OSF Preprints, [10.31219/osf.io/5v98j](https://doi.org/10.31219/osf.io/5v98j)
 ```
